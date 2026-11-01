@@ -34,6 +34,15 @@ Files:
 8. **Log.** Append each topic with its slot to `posted.md`. Delete `posts/` folders older than 7 days (Eden keeps its own copies). Commit and push.
 9. **Report** the 3 titles, times and source posts in a short final message.
 
+## Slideshow Reels (only when the user asks for one)
+The daily format is carousels. Instagram does not allow music on carousels posted through Eden, so carousels go out without music. Make a slideshow Reel only when the user asks for one, and every Reel must carry music:
+1. Render the slides with `NO_SWIPE=1 python3 carousel.py specs/<slug>.json /tmp/<slug>`, then `python3 reel.py /tmp/<slug> /tmp/<slug>.mp4 "<short header>"`. Check a few frames with ffmpeg before posting.
+2. Push the mp4 to `posts/<date>/<slug>/reel.mp4` and import it with `eden_import_scheduling_media`.
+3. Schedule it with `perPlatform.instagram.music` set to a track from Instagram's library (get the id from `eden_search_instagram_music`; never invent one), `volume: 100`, `videoVolume: 0`. Default tracks, rotate between them:
+   - Dark (Slowed), Tony Dark Eyes, audioId 2603949126473975
+   - Do Ma Thing, Tony Dark Eyes, audioId 1347176186322399
+   - Knockout, Adam Griffith, audioId 1108285910189784
+
 ## Caption format
 Short punchy lines, specific, no em dashes, no generic self-help language, no question at the end. Then a blank line, then exactly:
 `Follow @dailytipsonself for more short and actionable advice like this`
