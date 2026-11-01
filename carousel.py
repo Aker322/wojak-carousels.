@@ -139,7 +139,8 @@ def slide_cover(s, n, total):
         f = font(BOLD, 110)
         my = (top + bot) // 2 - 70
         d.text((W // 2 - d.textlength('>', font=f) / 2, my), '>', font=f, fill=RED)
-    swipe(d)
+    if not os.environ.get('NO_SWIPE'):
+        swipe(d)
     return c
 
 
