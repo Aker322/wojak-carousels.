@@ -2,7 +2,7 @@ import os, json, sys
 from PIL import Image, ImageDraw, ImageFont, ImageChops, ImageFilter
 
 W, H = 1080, 1080
-F = '/usr/share/fonts/truetype/google-fonts/'
+F = os.environ.get('WOJAK_FONT_DIR', os.path.join(os.path.dirname(os.path.abspath(__file__)), 'fonts') + '/')
 BOLD, MED, REG = F + 'Poppins-Bold.ttf', F + 'Poppins-Medium.ttf', F + 'Poppins-Regular.ttf'
 CREAM = (250, 245, 236)
 EDGE = (238, 228, 212)
@@ -11,7 +11,8 @@ MUTED = (120, 110, 98)
 YEL = (255, 208, 80)
 RED = (214, 72, 60)
 GRN = (60, 150, 90)
-LIST = [l.strip() for l in open('/home/claude/wj/list.txt')]
+HERE = os.path.dirname(os.path.abspath(__file__))
+LIST = [os.path.join(HERE, l.strip()) for l in open(os.path.join(HERE, 'list.txt')) if l.strip()]
 HANDLE = '@dailytipsonself'
 
 
