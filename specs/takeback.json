@@ -1,0 +1,14 @@
+[
+ {"kind":"cover","kicker":"RECLAIM CONTROL","title":"Your life isn't ruined. Here's how you *take it back.*","img":[57,95],"size":82},
+ {"kind":"duo","head":"Do this, get this back","items":[
+   {"n":"ENERGY","img":28,"head":"Quit porn","sub":"Your drive was never gone. It was leaking."},
+   {"n":"CONFIDENCE","img":125,"head":"Make your own money","sub":"The first dollar you earn on your own hits different."}]},
+ {"kind":"duo","items":[
+   {"n":"DISCIPLINE","img":41,"head":"Pray or sit in silence daily","sub":"10 quiet minutes a morning trains you to sit with discomfort."},
+   {"n":"PRESENCE","img":134,"head":"Train your body","sub":"Men who lift walk into rooms differently."}]},
+ {"kind":"duo","items":[
+   {"n":"RESPECT","img":33,"head":"Be kind, not soft","sub":"Kindness with boundaries earns respect. Without them, you get used."},
+   {"n":"FOCUS","img":89,"head":"Delete one app","sub":"The one that eats your mornings. Gone for 30 days."}]},
+ {"kind":"statement","pre":"Read that again:","text":"Your life isn't meaningless. *Reclaim control.*","size":96},
+ {"kind":"end","head":"Pick one. Start it *today.*","sub":"Not all six. One. The rest gets easier after.","img":79,"size":70}
+]

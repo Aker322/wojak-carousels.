@@ -1,0 +1,11 @@
+[
+ {"kind":"cover","kicker":"MEN, READ THIS","title":"Nobody is coming to *save you.* Here's what that means.","img":161,"size":84},
+ {"kind":"single","label":"NOBODY IS COMING TO","head":"Wake you up","img":139,"badge":"SO YOU","fix":true,"sub":"Put the alarm across the room. Get up on the first ring.","size":72},
+ {"kind":"single","label":"NOBODY IS COMING TO","head":"Fix your body","img":13,"badge":"SO YOU","fix":true,"sub":"20 pushups today. 21 tomorrow. Nobody can do them for you.","size":72},
+ {"kind":"single","label":"NOBODY IS COMING TO","head":"Build your money","img":118,"badge":"SO YOU","fix":true,"sub":"Move 10% of every paycheck out before you touch the rest.","size":72},
+ {"kind":"single","label":"NOBODY IS COMING TO","head":"Find your friends","img":119,"badge":"SO YOU","fix":true,"sub":"Join one thing with the same faces every week. A gym class, a league, a club.","size":72},
+ {"kind":"single","label":"NOBODY IS COMING TO","head":"Make you confident","img":62,"badge":"SO YOU","fix":true,"sub":"Keep one promise to yourself today. Then another tomorrow.","size":72},
+ {"kind":"single","label":"NOBODY IS COMING TO","head":"Drag you out of your rut","img":152,"badge":"SO YOU","fix":true,"sub":"Take one small step today. Momentum does the rest.","size":68},
+ {"kind":"statement","pre":"But here's the part nobody tells you:","text":"Nobody is coming to *stop* you either.","size":100},
+ {"kind":"end","head":"Your life is 100% your responsibility. *That's the good news.*","img":170,"size":64}
+]

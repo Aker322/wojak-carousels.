@@ -1,0 +1,96 @@
+[
+ {
+  "kind": "cover",
+  "kicker": "NO MORE EXCUSES",
+  "title": "7 things every man needs to *stop* doing now",
+  "img": [
+   62,
+   170
+  ],
+  "size": 86
+ },
+ {
+  "kind": "single",
+  "label": "#1",
+  "stamp": "STOP",
+  "head": "Explaining yourself to people who already decided",
+  "img": 40,
+  "badge": "INSTEAD",
+  "fix": true,
+  "sub": "Say it once. Let your actions argue for you.",
+  "size": 56
+ },
+ {
+  "kind": "single",
+  "label": "#2",
+  "stamp": "STOP",
+  "head": "Double texting people who leave you on read",
+  "img": 89,
+  "badge": "INSTEAD",
+  "fix": true,
+  "sub": "Match their energy. Spend yours on people who reply.",
+  "size": 58
+ },
+ {
+  "kind": "single",
+  "label": "#3",
+  "stamp": "STOP",
+  "head": "Making your problems everyone else's problem",
+  "img": 105,
+  "badge": "INSTEAD",
+  "fix": true,
+  "sub": "Vent to one person you trust. Then make a plan.",
+  "size": 56
+ },
+ {
+  "kind": "single",
+  "label": "#4",
+  "stamp": "STOP",
+  "head": "Comparing your chapter 1 to his chapter 20",
+  "img": 38,
+  "badge": "INSTEAD",
+  "fix": true,
+  "sub": "Compare yourself to who you were last year. Only him.",
+  "size": 58
+ },
+ {
+  "kind": "single",
+  "label": "#5",
+  "stamp": "STOP",
+  "head": "Fixing every bad mood with your phone",
+  "img": 3,
+  "badge": "INSTEAD",
+  "fix": true,
+  "sub": "Walk it off. 10 minutes outside does more than 2 hours of scrolling.",
+  "size": 58
+ },
+ {
+  "kind": "single",
+  "label": "#6",
+  "stamp": "STOP",
+  "head": "Announcing goals you haven't started",
+  "img": 23,
+  "badge": "INSTEAD",
+  "fix": true,
+  "sub": "Work in silence for 90 days. Let the results announce it.",
+  "size": 58
+ },
+ {
+  "kind": "single",
+  "label": "#7",
+  "stamp": "STOP",
+  "head": "Saying \"I'm tired\" when you're actually bored",
+  "img": 138,
+  "badge": "INSTEAD",
+  "fix": true,
+  "sub": "Bored needs a challenge, not a nap. Pick something hard.",
+  "size": 56
+ },
+ {
+  "kind": "end",
+  "head": "Pick one this week. *Not all seven.*",
+  "sub": "One habit gone for good beats seven quit for a day.",
+  "img": 168,
+  "size": 68
+ }
+]

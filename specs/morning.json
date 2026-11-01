@@ -1,0 +1,88 @@
+[
+ {
+  "kind": "cover",
+  "kicker": "STEAL THIS MORNING",
+  "title": "The first hour after you wake up *decides* your whole day",
+  "img": [
+   139,
+   70
+  ],
+  "size": 80
+ },
+ {
+  "kind": "duo",
+  "head": "Your first hour, minute by minute",
+  "items": [
+   {
+    "n": "6:00",
+    "img": 160,
+    "head": "Phone stays on airplane mode",
+    "sub": "The first thing you see shouldn't be other people's lives."
+   },
+   {
+    "n": "6:05",
+    "img": 156,
+    "head": "Drink 500ml of water",
+    "sub": "You just went 8 hours without any. Fix that first."
+   }
+  ]
+ },
+ {
+  "kind": "duo",
+  "items": [
+   {
+    "n": "6:10",
+    "img": 159,
+    "head": "Make your bed",
+    "sub": "Your first win of the day takes 60 seconds."
+   },
+   {
+    "n": "6:15",
+    "img": 15,
+    "head": "Get outside for 10 minutes",
+    "sub": "Morning light wakes you up better than coffee does."
+   }
+  ]
+ },
+ {
+  "kind": "duo",
+  "items": [
+   {
+    "n": "6:30",
+    "img": 134,
+    "head": "Move your body",
+    "sub": "Gym, pushups or a fast walk. Just get your heart rate up."
+   },
+   {
+    "n": "7:00",
+    "img": 91,
+    "head": "Eat a real breakfast",
+    "sub": "Eggs, not energy drinks. Protein keeps you sharp till lunch."
+   }
+  ]
+ },
+ {
+  "kind": "duo",
+  "items": [
+   {
+    "n": "7:15",
+    "img": 71,
+    "head": "Write the 3 things that matter today",
+    "sub": "Decide your day before the world decides it for you."
+   },
+   {
+    "n": "7:30",
+    "img": 63,
+    "head": "Now you can open your phone",
+    "sub": "You already won the morning. Nothing in there can take it back."
+   }
+  ]
+ },
+ {
+  "kind": "end",
+  "head": "Win the first hour. *The rest gets easier.*",
+  "sub": "Save this and try it tomorrow.",
+  "img": 18,
+  "size": 68
+ }
+]

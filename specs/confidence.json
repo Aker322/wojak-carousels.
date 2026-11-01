@@ -1,0 +1,10 @@
+[
+ {"kind":"cover","kicker":"YOU CAN'T FAKE IT","title":"Confidence isn't something you talk yourself into. You *earn it.*","img":[118,95],"size":80},
+ {"kind":"single","label":"HOW IT WORKS","head":"Every promise you break to yourself costs you","img":62,"sub":"Your brain keeps score. Break enough promises and you stop believing your own word.","size":60},
+ {"kind":"single","label":"LEVEL 1","level":[1,5],"head":"Get up when the alarm rings","img":118,"sub":"First promise of the day. Most guys break it before 7am.","size":62},
+ {"kind":"single","label":"LEVEL 2","level":[2,5],"head":"Finish the 3 things you planned","img":159,"sub":"Not 7. Three. Then do all three.","size":62},
+ {"kind":"single","label":"LEVEL 3","level":[3,5],"head":"Train when you don't feel like it","img":156,"sub":"The workouts you almost skipped count double.","size":62},
+ {"kind":"single","label":"LEVEL 4","level":[4,5],"head":"Say no when you mean no","img":69,"sub":"Every fake yes teaches you that your word is cheap.","size":62},
+ {"kind":"single","label":"LEVEL 5","level":[5,5],"head":"Keep the promise nobody would know you broke","img":170,"sub":"That's where real confidence lives.","size":58},
+ {"kind":"end","head":"Every kept promise is a *vote* for who you are.","img":167,"size":68}
+]

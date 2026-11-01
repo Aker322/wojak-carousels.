@@ -1,0 +1,94 @@
+[
+ {
+  "kind": "cover",
+  "kicker": "MAN TO MAN",
+  "title": "Remember who you were? *Be that guy again.*",
+  "img": [
+   139,
+   87
+  ],
+  "size": 84
+ },
+ {
+  "kind": "split",
+  "head": "Training",
+  "ltag": "YOU AT 16",
+  "rtag": "YOU NOW",
+  "l": [
+   132,
+   "Played ball until the streetlights came on"
+  ],
+  "r": [
+   13,
+   "Gets winded on the stairs"
+  ],
+  "flip": true
+ },
+ {
+  "kind": "split",
+  "head": "Friends",
+  "ltag": "YOU AT 16",
+  "rtag": "YOU NOW",
+  "l": [
+   155,
+   "Saw his boys every single day"
+  ],
+  "r": [
+   119,
+   "Hasn't seen them in 8 months"
+  ],
+  "flip": true
+ },
+ {
+  "kind": "split",
+  "head": "Sleep",
+  "ltag": "YOU AT 16",
+  "rtag": "YOU NOW",
+  "l": [
+   63,
+   "Out cold by 10, up full of energy"
+  ],
+  "r": [
+   139,
+   "Scrolling at 2am, tired by noon"
+  ],
+  "flip": true
+ },
+ {
+  "kind": "split",
+  "head": "Curiosity",
+  "ltag": "YOU AT 16",
+  "rtag": "YOU NOW",
+  "l": [
+   11,
+   "Read anything that made him curious"
+  ],
+  "r": [
+   154,
+   "Reads comment sections"
+  ],
+  "flip": true
+ },
+ {
+  "kind": "split",
+  "head": "Dreams",
+  "ltag": "YOU AT 16",
+  "rtag": "YOU NOW",
+  "l": [
+   7,
+   "Had a list of places he'd see"
+  ],
+  "r": [
+   162,
+   "Stopped making lists"
+  ],
+  "flip": true
+ },
+ {
+  "kind": "end",
+  "head": "He's still in there. *Be that guy again.*",
+  "sub": "Train again. Sleep 8 hours. Call your boys. Read again. Lock in.",
+  "img": 15,
+  "size": 68
+ }
+]

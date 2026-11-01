@@ -1,0 +1,16 @@
+[
+ {"kind":"cover","kicker":"ALL OF THEM ARE FREE","title":"8 small things that make a man look *sharp*","img":[139,85],"size":90},
+ {"kind":"duo","items":[
+   {"n":"01","img":70,"head":"Stand like you belong there","sub":"Chin level, shoulders back. Posture is the first thing people read."},
+   {"n":"02","img":176,"head":"Hold eye contact one beat longer","sub":"Looking away first reads as nervous. Let them look away."}]},
+ {"kind":"duo","items":[
+   {"n":"03","img":33,"head":"Speak slower than feels natural","sub":"Fast talkers sound anxious. Pauses sound certain."},
+   {"n":"04","img":162,"head":"Phone face down when someone talks","sub":"Full attention is rare enough to feel like respect."}]},
+ {"kind":"duo","items":[
+   {"n":"05","img":164,"head":"Wear clothes that fit","sub":"A fitted cheap shirt beats a baggy expensive one. Go down a size."},
+   {"n":"06","img":63,"head":"Sleep 8 hours, drink water","sub":"Clear skin and alert eyes do more than any product."}]},
+ {"kind":"duo","items":[
+   {"n":"07","img":26,"head":"Firm handshake, then let go","sub":"Two pumps. Not a dead fish, not a crusher."},
+   {"n":"08","img":84,"head":"Say less about yourself","sub":"Ask one more question than you answer. People remember how you made them feel."}]},
+ {"kind":"end","head":"Looking sharp is *habits,* not money.","sub":"Start with #1 today. It costs nothing.","img":95,"size":70}
+]

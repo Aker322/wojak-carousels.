@@ -1,0 +1,10 @@
+[
+ {"kind":"cover","kicker":"BE HONEST","title":"6 signs you're living in *NPC mode*","img":97,"size":92},
+ {"kind":"single","label":"SIGN 1","head":"Your phone is your first thought","img":3,"sub":"10 minutes awake before any screen.","fix":true,"size":62},
+ {"kind":"single","label":"SIGN 2","head":"Your opinions match your feed exactly","img":98,"sub":"Read one book that argues against you.","fix":true,"size":62},
+ {"kind":"single","label":"SIGN 3","head":"You're \"too busy\" but know every show's plot","img":89,"sub":"Track your screen time for one honest week.","fix":true,"size":62},
+ {"kind":"single","label":"SIGN 4","head":"Every weekend is a copy-paste","img":162,"sub":"Do one thing you've never done, once a month.","fix":true,"size":62},
+ {"kind":"single","label":"SIGN 5","head":"You can't handle 5 minutes of silence","img":138,"sub":"One walk a day with no headphones.","fix":true,"size":62},
+ {"kind":"single","label":"SIGN 6","head":"You talk about your plans more than you work on them","img":25,"sub":"Stop announcing. Show up with results.","fix":true,"size":60},
+ {"kind":"end","head":"Noticing it is the *first glitch* in the program.","img":166,"size":70}
+]

@@ -1,0 +1,109 @@
+[
+ {
+  "kind": "cover",
+  "kicker": "EXTREME OWNERSHIP",
+  "title": "Blaming others feels good. It also keeps you *stuck.*",
+  "img": [
+   105,
+   168
+  ],
+  "size": 84
+ },
+ {
+  "kind": "split",
+  "head": "Failed the exam",
+  "ltag": "BLAME",
+  "rtag": "OWNERSHIP",
+  "l": [
+   24,
+   "\"The teacher hates me\""
+  ],
+  "r": [
+   93,
+   "\"I studied 2 hours. I needed 10.\""
+  ]
+ },
+ {
+  "kind": "split",
+  "head": "Gained 10kg",
+  "ltag": "BLAME",
+  "rtag": "OWNERSHIP",
+  "l": [
+   13,
+   "\"It's my genetics\""
+  ],
+  "r": [
+   134,
+   "\"I eat junk at midnight. That stops today.\""
+  ]
+ },
+ {
+  "kind": "split",
+  "head": "Always broke",
+  "ltag": "BLAME",
+  "rtag": "OWNERSHIP",
+  "l": [
+   58,
+   "\"The economy is rigged\""
+  ],
+  "r": [
+   76,
+   "\"Food delivery eats a third of my pay.\""
+  ]
+ },
+ {
+  "kind": "split",
+  "head": "She left",
+  "ltag": "BLAME",
+  "rtag": "OWNERSHIP",
+  "l": [
+   32,
+   "\"Women are all the same\""
+  ],
+  "r": [
+   160,
+   "\"I stopped putting in effort.\""
+  ]
+ },
+ {
+  "kind": "split",
+  "head": "Passed over at work",
+  "ltag": "BLAME",
+  "rtag": "OWNERSHIP",
+  "l": [
+   3,
+   "\"My boss has favorites\""
+  ],
+  "r": [
+   162,
+   "\"I did the bare minimum for a year.\""
+  ]
+ },
+ {
+  "kind": "split",
+  "head": "Lost the game",
+  "ltag": "BLAME",
+  "rtag": "OWNERSHIP",
+  "l": [
+   128,
+   "\"My teammates were trash\""
+  ],
+  "r": [
+   95,
+   "\"What could I have done better?\""
+  ]
+ },
+ {
+  "kind": "statement",
+  "pre": "Here's the trade:",
+  "text": "If it's their fault, you're stuck. If it's yours, *you can fix it.*",
+  "size": 84
+ },
+ {
+  "kind": "end",
+  "head": "Own it. Even when it's *not fully your fault.*",
+  "sub": "You can't control what happened. You control what you do next.",
+  "img": 84,
+  "size": 64
+ }
+]

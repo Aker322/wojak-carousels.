@@ -1,0 +1,54 @@
+[
+ {
+  "kind": "cover",
+  "kicker": "EVERY GUY GOES THROUGH THIS",
+  "title": "The 5 stages of *fixing* your life",
+  "img": [
+   58,
+   167
+  ],
+  "size": 88
+ },
+ {
+  "kind": "single",
+  "label": "STAGE 1",
+  "head": "Denial",
+  "img": 123,
+  "sub": "\"I'm fine. I just need a break from my break.\""
+ },
+ {
+  "kind": "single",
+  "label": "STAGE 2",
+  "head": "The 3am realization",
+  "img": 119,
+  "sub": "Lying awake, doing the math on how many years you've wasted."
+ },
+ {
+  "kind": "single",
+  "label": "STAGE 3",
+  "head": "The overcorrection",
+  "img": 128,
+  "sub": "New planner. 5am alarm. Cold showers. Keto. All starting the same Monday."
+ },
+ {
+  "kind": "single",
+  "label": "STAGE 4",
+  "head": "The crash",
+  "img": 37,
+  "sub": "Day 4. Whole pizza in the dark. Planner in the trash."
+ },
+ {
+  "kind": "single",
+  "label": "STAGE 5",
+  "head": "Boring consistency",
+  "img": 134,
+  "sub": "One habit. Same time. Every day. Nobody claps. It works anyway."
+ },
+ {
+  "kind": "end",
+  "head": "Most guys *quit* at stage 4.",
+  "sub": "The ones who make it don't try harder. They start smaller.",
+  "img": 95,
+  "size": 66
+ }
+]

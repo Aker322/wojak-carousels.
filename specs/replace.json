@@ -1,0 +1,10 @@
+[
+ {"kind":"cover","kicker":"SWAP, DON'T QUIT","title":"How to replace your 6 worst habits with *better* ones","img":[154,95],"size":84},
+ {"kind":"split","head":"Before bed","ltag":"REPLACE","rtag":"WITH","l":[60,"Doomscrolling until 2am"],"r":[93,"10 pages of a book. Phone stays in the kitchen."]},
+ {"kind":"split","head":"The 3pm crash","ltag":"REPLACE","rtag":"WITH","l":[21,"Your third energy drink"],"r":[156,"A 10-minute walk outside"]},
+ {"kind":"split","head":"Late at night","ltag":"REPLACE","rtag":"WITH","l":[28,"Thirst traps and \"one more video\""],"r":[132,"Lights off by 11. Gym at 7."]},
+ {"kind":"split","head":"When things go wrong","ltag":"REPLACE","rtag":"WITH","l":[94,"\"Everything sucks\""],"r":[87,"\"What's one thing I can fix?\""]},
+ {"kind":"split","head":"Dinner","ltag":"REPLACE","rtag":"WITH","l":[12,"Delivery every night"],"r":[91,"3 easy meals on repeat"]},
+ {"kind":"split","head":"When your head won't stop","ltag":"REPLACE","rtag":"WITH","l":[24,"Overthinking it for hours"],"r":[71,"Writing it down in 5 minutes"]},
+ {"kind":"end","head":"You don't quit bad habits. You *replace them.*","sub":"An empty slot gets filled by the old habit. Fill it first.","img":18,"size":68}
+]

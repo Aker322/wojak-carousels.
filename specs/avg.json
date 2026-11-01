@@ -1,0 +1,78 @@
+[
+ {
+  "kind": "cover",
+  "kicker": "SAME 24 HOURS",
+  "title": "Average guy vs guy who's *actually* growing",
+  "img": [
+   139,
+   167
+  ],
+  "size": 84
+ },
+ {
+  "kind": "split",
+  "head": "The first 10 minutes",
+  "l": [
+   139,
+   "Checks his phone in bed for 47 minutes"
+  ],
+  "r": [
+   15,
+   "Phone charges in the kitchen. He just gets up."
+  ]
+ },
+ {
+  "kind": "split",
+  "head": "When he gets bored",
+  "l": [
+   154,
+   "Opens TikTok on reflex"
+  ],
+  "r": [
+   136,
+   "Sits with it. His best ideas show up there."
+  ]
+ },
+ {
+  "kind": "split",
+  "head": "When he gets rejected",
+  "l": [
+   105,
+   "\"Women are shallow anyway\""
+  ],
+  "r": [
+   70,
+   "\"What would I do differently next time?\""
+  ]
+ },
+ {
+  "kind": "split",
+  "head": "Friday night",
+  "l": [
+   58,
+   "Same couch, same game, same snacks"
+  ],
+  "r": [
+   155,
+   "Gym at 6. Out with the boys at 9."
+  ]
+ },
+ {
+  "kind": "split",
+  "head": "A rough week",
+  "l": [
+   123,
+   "\"I'll start fresh Monday\""
+  ],
+  "r": [
+   134,
+   "Does the 10-minute version anyway"
+  ]
+ },
+ {
+  "kind": "end",
+  "head": "Same 24 hours. *Different defaults.*",
+  "sub": "You don't need more discipline. You need better automatic choices.",
+  "img": 79
+ }
+]
