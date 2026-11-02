@@ -18,3 +18,5 @@ Never repeat an exact topic below. Similar themes with a new angle are fine.
 - 7 years of self-improvement lessons in seven slides (2026-11-01 22:00)
 - Your life isn't ruined, here's how you take it back (2026-11-02 06:00)
 - Lifemaxxing 101: 8 rules for a real life (2026-11-02 14:00)
+- Fake dopamine vs real dopamine (2026-11-02 17:00 Reel)
+- There's almost no competition right now (2026-11-02 22:00 Reel)
