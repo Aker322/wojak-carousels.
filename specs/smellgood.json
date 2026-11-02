@@ -1,0 +1,9 @@
+[
+ {"kind":"cover","kicker":"MOST GUYS STOP AT LEVEL 1","title":"The 5 levels of *smelling good*","img":[58,84],"size":90},
+ {"kind":"single","label":"LEVEL 1","level":[1,5],"head":"Body spray over yesterday's shirt","img":89,"sub":"Covering a smell isn't the same as not having one.","size":62},
+ {"kind":"single","label":"LEVEL 2","level":[2,5],"head":"Deodorant every single morning","img":160,"sub":"Right after you dry off. Not at noon when you remember.","size":62},
+ {"kind":"single","label":"LEVEL 3","level":[3,5],"head":"Scrub in the shower, not just water","img":41,"sub":"Then scented moisturizer. Dry skin can't hold a scent.","size":62},
+ {"kind":"single","label":"LEVEL 4","level":[4,5],"head":"Fragrance on your pulse points","img":164,"sub":"Neck and wrists. 2 to 3 sprays. Not a cloud.","size":62},
+ {"kind":"single","label":"LEVEL 5","level":[5,5],"head":"Fresh breath, every time","img":85,"sub":"Floss, brush your tongue, gum before you talk to her.","size":62},
+ {"kind":"end","head":"Smelling good is a *habit.* Not a spray.","img":63,"size":70}
+]

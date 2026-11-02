@@ -1,0 +1,11 @@
+[
+ {"kind":"cover","kicker":"WHEN LIFE KNOCKS YOU OFF TRACK","title":"Missing once is fine. Never *miss twice.*","img":[62,95],"size":84},
+ {"kind":"single","label":"WHY IT WORKS","head":"One miss is a speed bump","img":87,"sub":"Two in a row is where the spiral starts.","size":66},
+ {"kind":"split","head":"After a bad day","ltag":"SPIRAL","rtag":"RESET","l":[57,"\"I'll get back on it Monday\""],"r":[156,"15 minutes the very next day"]},
+ {"kind":"split","head":"After a cheat meal","ltag":"SPIRAL","rtag":"RESET","l":[12,"\"Day's ruined, order dessert too\""],"r":[91,"Next meal goes back to normal"]},
+ {"kind":"split","head":"After a skipped workout","ltag":"SPIRAL","rtag":"RESET","l":[139,"Skip the rest of the week"],"r":[132,"Short session tomorrow, no excuses"]},
+ {"kind":"single","label":"RULE 2","head":"A 40% day still counts","img":7,"sub":"Trained once and hit your protein 4 of 7 days? You stayed in the game.","size":66},
+ {"kind":"single","label":"MEASURE IT RIGHT","head":"Compare your week to doing nothing","img":93,"sub":"Not to your best week ever.","size":62},
+ {"kind":"statement","pre":"The real goal:","text":"Bounce back faster. Three weeks, then three days, then the *next meal.*","size":80},
+ {"kind":"end","head":"Write it on your mirror: *I never miss twice.*","img":168,"size":66}
+]

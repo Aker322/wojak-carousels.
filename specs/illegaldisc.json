@@ -1,0 +1,11 @@
+[
+ {"kind":"cover","kicker":"NO MOTIVATION NEEDED","title":"How to be so disciplined it feels *illegal*","img":[118,70],"size":86},
+ {"kind":"statement","pre":"First, the bad news:","text":"Motivation is a scam. It shows up *after* you start.","size":88},
+ {"kind":"single","label":"RULE 1","head":"Decide the night before","img":71,"sub":"Write tomorrow's 3 tasks on paper. Nothing left to decide at 7am.","size":66},
+ {"kind":"duo","head":"RULE 2: Kill the friction","items":[
+   {"n":"6:00","head":"Gym clothes by the bed","sub":"Dressed before your brain can argue.","img":156},
+   {"n":"9:00","head":"Phone in another room","sub":"First hour of work with zero notifications.","img":93}]},
+ {"kind":"single","label":"RULE 3","head":"Make it stupidly small","img":134,"sub":"1 pushup. 1 page. Nobody quits something that easy.","size":66},
+ {"kind":"single","label":"RULE 4","head":"Stop fighting temptation","img":136,"badge":"USE SYSTEMS","fix":true,"sub":"Delete the app. Keep junk food out of the house.","size":66},
+ {"kind":"end","head":"Systems beat *willpower.*","img":95,"size":72}
+]

@@ -1,0 +1,10 @@
+[
+ {"kind":"cover","kicker":"CONVERSATIONS DIE HERE","title":"Stop giving *dry replies*","img":[3,26],"size":92},
+ {"kind":"split","head":"\"How are you?\"","ltag":"DRY REPLY","rtag":"TRY THIS","l":[159,"\"Good.\""],"r":[87,"\"Good, finally slept 8 hours. You?\""]},
+ {"kind":"split","head":"\"I had a rough day.\"","ltag":"DRY REPLY","rtag":"TRY THIS","l":[123,"\"Damn.\""],"r":[90,"\"What happened?\""]},
+ {"kind":"split","head":"\"I'm nervous about tomorrow.\"","ltag":"DRY REPLY","rtag":"TRY THIS","l":[89,"\"You'll be fine.\""],"r":[33,"\"Which part has you most nervous?\""]},
+ {"kind":"split","head":"\"I got the job!\"","ltag":"DRY REPLY","rtag":"TRY THIS","l":[160,"\"Nice.\""],"r":[155,"\"That's huge. How do you feel?\""]},
+ {"kind":"split","head":"\"I don't know what to do.\"","ltag":"DRY REPLY","rtag":"TRY THIS","l":[62,"\"Idk either.\""],"r":[136,"\"What are your options right now?\""]},
+ {"kind":"statement","pre":"The rule:","text":"Good replies don't need to be clever. They just need a *follow-up.*","size":80},
+ {"kind":"end","head":"Talk like you *care.*","img":176,"size":74}
+]

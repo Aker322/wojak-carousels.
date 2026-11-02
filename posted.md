@@ -20,3 +20,7 @@ Never repeat an exact topic below. Similar themes with a new angle are fine.
 - Lifemaxxing 101: 8 rules for a real life (2026-11-02 14:00)
 - Fake dopamine vs real dopamine (2026-11-02 17:00 Reel)
 - There's almost no competition right now (2026-11-02 22:00 Reel)
+- How to be so disciplined it feels illegal (systems over motivation) (2026-11-03 07:00 Reel)
+- Never miss twice (when life knocks you off track) (2026-11-03 12:00 carousel)
+- The 5 levels of smelling good (2026-11-03 17:00 Reel)
+- Stop giving dry replies (dry reply vs try this) (2026-11-03 22:00 Reel)
