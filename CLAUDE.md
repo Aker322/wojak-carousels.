@@ -19,7 +19,7 @@ Files:
 | 17:00 | Slideshow Reel with music |
 | 22:00 | Slideshow Reel with music |
 
-Instagram only. Every post is a new topic.
+Every post goes to Instagram (Reel or carousel) and to TikTok (photo carousel with auto music) at the same time. Every post is a new topic.
 
 ## Steps for each run
 1. **Pick the target day.** The run fills TOMORROW (Manila date of the run + 1). Get the 4 slot times with `python3 tools.py slots YYYY-MM-DD`. Check Eden `eden_list_scheduled_posts` (status `scheduled`): skip any slot that already has an Instagram post within 30 minutes of it. If all 4 are taken, stop and report that the day is already full.
@@ -46,6 +46,10 @@ Instagram only. Every post is a new topic.
      - Do Ma Thing, Tony Dark Eyes, audioId 1347176186322399
      - Knockout, Adam Griffith, audioId 1108285910189784
      If a track is refused, search `eden_search_instagram_music` (phonk, dark motivational, gym) and use a returned audioId. Never invent one.
+7b. **TikTok (every post, same slot).** Cross-post every post to the TikTok account @dailytipsonself as a photo carousel with TikTok's auto music, because TikTok doesn't accept chosen music on scheduler-uploaded videos:
+   - Make 9:16 stills: `python3 tools.py tiktok /tmp/<slug> /tmp/<slug>_tt "<short header>"` (use the NO_SWIPE slide renders; for a carousel slot, re-render the slides with `NO_SWIPE=1 python3 carousel.py ...` into a separate folder first). Look at one still before posting.
+   - Push the stills to `posts/<date>/<slug>/tiktok/tt_NN.jpg`, import each in order with `eden_import_scheduling_media`.
+   - Schedule a separate `eden_schedule_post` with `platforms: ["tiktok"]`, the same `scheduledFor`, the stills as media (width 1080, height 1920), `perPlatform.tiktok.autoMusic: true`, `perPlatform.tiktok.text` = the same caption, and `idempotencyKey` like `wojak-<date>-<slug>-tt`.
 8. **Log.** Append each topic with its date, time and format to `posted.md`. Delete `posts/` folders older than 7 days (Eden keeps its own copies). Commit and push.
 9. **Report** each post's time, format, title, music track (Reels) and source post link in a short final message.
 
@@ -56,5 +60,5 @@ Then a blank line and at most 5 hashtags, always including #wojak and #selfimpro
 
 ## If something fails
 - Eden import or scheduling fails: retry once, then report it. Never post anything that wasn't checked in step 4.
-- Never schedule outside the 07:00 / 12:00 / 17:00 / 22:00 slots and never post to platforms other than Instagram.
+- Never schedule outside the 07:00 / 12:00 / 17:00 / 22:00 slots and never post to platforms other than Instagram and TikTok.
 - A Reel must never go out without music. If no track can be attached, schedule nothing for that slot and report it.

@@ -1,0 +1,10 @@
+[
+ {"kind":"cover","kicker":"YOUR BRAIN IS BEING FARMED","title":"Fake dopamine vs *real* dopamine","img":[154,134],"size":90},
+ {"kind":"split","head":"Your mornings","ltag":"FAKE","rtag":"REAL","l":[3,"Endless reels in bed"],"r":[156,"A walk before your phone"]},
+ {"kind":"split","head":"Your energy","ltag":"FAKE","rtag":"REAL","l":[28,"Porn"],"r":[132,"Lifting heavy"]},
+ {"kind":"split","head":"Your food","ltag":"FAKE","rtag":"REAL","l":[12,"Junk food and sugar crashes"],"r":[91,"A meal you cooked yourself"]},
+ {"kind":"split","head":"Your validation","ltag":"FAKE","rtag":"REAL","l":[105,"Checking likes every 10 minutes"],"r":[93,"Finishing something hard"]},
+ {"kind":"split","head":"Your nights","ltag":"FAKE","rtag":"REAL","l":[139,"Scrolling until 2am"],"r":[63,"8 hours of real sleep"]},
+ {"kind":"statement","pre":"The difference:","text":"Fake dopamine borrows from tomorrow. *Real* dopamine pays you back.","size":84},
+ {"kind":"end","head":"Trade one fake hit for a *real* one today.","img":170,"size":66}
+]

@@ -3,6 +3,7 @@
 python3 tools.py render SPEC.json OUTDIR      -> renders PNG slides, then JPEGs into OUTDIR/jpg
 python3 tools.py sheet  OUTDIR PREVIEW.jpg    -> contact sheet of all slides for a visual check
 python3 tools.py reel   SPEC.json OUTDIR "Header"  -> slides without SWIPE + OUTDIR/reel.mp4 + OUTDIR/frames.jpg
+python3 tools.py tiktok SLIDE_DIR OUTDIR "Header"  -> 1080x1920 JPEG stills for a TikTok photo carousel
 python3 tools.py slots  YYYY-MM-DD           -> epoch ms for that day's 07:00 / 12:00 / 17:00 / 22:00 Manila slots
 """
 import glob
@@ -52,6 +53,27 @@ def reel(spec, out, header):
     print('reel:', mp4, 'frames:', os.path.join(out, 'frames.jpg'))
 
 
+def tiktok(slide_dir, out, header):
+    sys.path.insert(0, HERE)
+    import reel as R
+    from PIL import ImageDraw, ImageFilter
+    os.makedirs(out, exist_ok=True)
+    head = R.make_header(header)
+    bg = R.background()
+    paths = sorted(glob.glob(os.path.join(slide_dir, 'slide_*.png'))) or sorted(glob.glob(os.path.join(slide_dir, 'slide_*.jpg')))
+    for i, pth in enumerate(paths, 1):
+        f = bg.copy()
+        f.paste(head, (0, 0), head)
+        im, m = R.card(Image.open(pth).convert('RGB'), 1.0)
+        cx, cy = (R.W - im.width) // 2, R.CARD_Y
+        sh = Image.new('L', (R.W, R.H), 0)
+        ImageDraw.Draw(sh).rounded_rectangle((cx + 8, cy + 18, cx + im.width + 8, cy + im.height + 18), 40, fill=60)
+        f.paste((0, 0, 0), (0, 0), sh.filter(ImageFilter.GaussianBlur(18)))
+        f.paste(im, (cx, cy), m)
+        f.save(os.path.join(out, f'tt_{i:02d}.jpg'), quality=92)
+    print('tiktok stills:', sorted(os.listdir(out)))
+
+
 def slots(day):
     from datetime import datetime, timedelta, timezone
     tz = timezone(timedelta(hours=8))
@@ -69,5 +91,7 @@ if __name__ == '__main__':
         sheet(sys.argv[2], sys.argv[3])
     elif cmd == 'reel':
         reel(sys.argv[2], sys.argv[3], sys.argv[4])
+    elif cmd == 'tiktok':
+        tiktok(sys.argv[2], sys.argv[3], sys.argv[4])
     elif cmd == 'slots':
         slots(sys.argv[2])
