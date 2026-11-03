@@ -1,0 +1,9 @@
+[
+ {"kind":"cover","kicker":"THE FASTEST WAY TO BE LIKED","title":"Make people feel *interesting*","img":[159,33],"size":92},
+ {"kind":"statement","pre":"Most guys:","text":"Try to sound clever. Nobody remembers your fun fact. They remember how you made them *feel.*","size":74},
+ {"kind":"split","head":"Meeting someone new","ltag":"BORING","rtag":"ASK THIS","l":[160,"\"So what do you do?\""],"r":[87,"\"What's the best part of what you do?\""]},
+ {"kind":"split","head":"They mention a hobby","ltag":"BORING","rtag":"ASK THIS","l":[123,"\"Oh cool.\""],"r":[155,"\"How did you get into that?\""]},
+ {"kind":"split","head":"They share a win","ltag":"BORING","rtag":"ASK THIS","l":[89,"\"Nice, I did that too.\""],"r":[26,"\"What did it take to pull that off?\""]},
+ {"kind":"single","label":"THE RULE","head":"Ask about what they're proud of","img":41,"sub":"Then let them talk for 2 full minutes.","size":64},
+ {"kind":"end","head":"Be *interested.* Not impressive.","img":84,"size":72}
+]

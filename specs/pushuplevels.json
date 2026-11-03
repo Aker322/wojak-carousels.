@@ -1,0 +1,9 @@
+[
+ {"kind":"cover","kicker":"DROP AND COUNT BEFORE YOU SWIPE","title":"What your max *push-ups* say about you","img":[13,95],"size":86},
+ {"kind":"single","label":"UNDER 10","level":[1,5],"head":"Your body is a stranger","img":139,"sub":"Knees down. 3 sets a day.","size":64},
+ {"kind":"single","label":"10 TO 19","level":[2,5],"head":"Desk job body","img":89,"sub":"Do 5 every time you get up from your chair.","size":64},
+ {"kind":"single","label":"20 TO 34","level":[3,5],"head":"Average guy","img":7,"sub":"Fine at 25. A problem at 40 if you stop here.","size":64},
+ {"kind":"single","label":"35 TO 49","level":[4,5],"head":"You actually train","img":134,"sub":"Shoulders that fill out a t-shirt.","size":64},
+ {"kind":"single","label":"50+","level":[5,5],"head":"Top tier","img":70,"sub":"Strict reps only. Chest to the floor, full lockout.","size":64},
+ {"kind":"end","head":"Add *1 rep* a day for 30 days.","img":132,"size":70}
+]

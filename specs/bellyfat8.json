@@ -1,0 +1,16 @@
+[
+ {"kind":"cover","kicker":"TRAINING HARD BUT STILL SOFT?","title":"8 habits keeping your *belly fat* on","img":[119,95],"size":88},
+ {"kind":"split","head":"Mistake 1: The weekend reset","ltag":"WHAT YOU DO","rtag":"DO THIS","l":[12,"Clean Mon to Fri, 4,000 calories Sat and Sun"],"r":[91,"Max one untracked meal all weekend"]},
+ {"kind":"duo","head":"Mistakes 2 and 3","items":[
+   {"n":"2","head":"Same weights for months","sub":"Lifts flat for 4 weeks? Add a rep or 2.5kg.","img":132},
+   {"n":"3","head":"Starving all day, bingeing at night","sub":"3 real meals. 120 to 150g protein.","img":41}]},
+ {"kind":"single","label":"MISTAKE 4","head":"A 6-day plan you quit by week 3","img":139,"fix":true,"badge":"3 TO 4 DAYS","sub":"45 to 60 minutes, built around your job.","size":62},
+ {"kind":"duo","head":"Mistakes 5 and 6","items":[
+   {"n":"5","head":"Waiting to feel motivated","sub":"Same meals, same training days, fewer decisions.","img":93},
+   {"n":"6","head":"Sitting 23 hours a day","sub":"8 to 10k steps. Walk 10 minutes after meals.","img":156}]},
+ {"kind":"duo","head":"Mistakes 7 and 8","items":[
+   {"n":"7","head":"Dieting without lifting","sub":"No muscle and you just become a smaller soft guy.","img":7},
+   {"n":"8","head":"A new plan every 2 weeks","sub":"Run one for 8 to 12 weeks. Watch the weekly average.","img":71}]},
+ {"kind":"statement","pre":"The truth:","text":"You don't have a discipline problem. You have a *structure* problem.","size":80},
+ {"kind":"end","head":"Fix the *system.* The fat follows.","img":134,"size":72}
+]
