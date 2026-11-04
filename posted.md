@@ -28,3 +28,7 @@ Never repeat an exact topic below. Similar themes with a new angle are fine.
 - 8 habits keeping your belly fat on (2026-11-04 12:00 carousel)
 - Make people feel interesting (boring question vs ask this) (2026-11-04 17:00 Reel)
 - How to become a top 1% man (body, mind, future habits) (2026-11-04 22:00 Reel)
+- Train your attention span back (4 focus drills) (2026-11-05 07:00 Reel)
+- 7 hygiene habits to steal from women (2026-11-05 12:00 carousel)
+- Your winter arc starts now (Nov to Feb rules) (2026-11-05 17:00 Reel)
+- Stop trying to win arguments (most guys vs do this) (2026-11-05 22:00 Reel)
