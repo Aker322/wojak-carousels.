@@ -1,0 +1,9 @@
+[
+ {"kind":"cover","kicker":"SCREENS DIDN'T BREAK YOUR BRAIN","title":"Train your *attention span* back","img":[154,93],"size":90},
+ {"kind":"statement","pre":"The research:","text":"20 minutes of hard thinking a day. After 10 to 20 hours, students focused *longer* and scored higher.","size":72},
+ {"kind":"single","label":"DRILL 1","level":[1,4],"head":"Read 10 pages, then close the book","img":71,"sub":"Write 3 things you remember without looking.","size":62},
+ {"kind":"single","label":"DRILL 2","level":[2,4],"head":"Write 3 pages with zero AI","img":41,"sub":"One question: why do I procrastinate?","size":64},
+ {"kind":"single","label":"DRILL 3","level":[3,4],"head":"Solve problems one step above you","img":136,"sub":"Pen and paper. Show every step.","size":62},
+ {"kind":"single","label":"DRILL 4","level":[4,4],"head":"Study 15 minutes, explain for 5","img":176,"sub":"Out loud, from memory, no notes.","size":64},
+ {"kind":"end","head":"*20 minutes* a day. Phone in another room.","img":63,"size":66}
+]

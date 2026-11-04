@@ -1,0 +1,14 @@
+[
+ {"kind":"cover","kicker":"A QUICK SHOWER ISN'T ENOUGH","title":"7 hygiene habits to steal from *women*","img":[58,84],"size":86},
+ {"kind":"split","head":"Habit 1: Double cleanse","ltag":"MOST GUYS","rtag":"DO THIS","l":[89,"One fast pass with 3-in-1"],"r":[164,"Wash twice. Sweat off first, then clean skin"]},
+ {"kind":"single","label":"HABIT 2","head":"Exfoliate your body","img":156,"fix":true,"badge":"2X A WEEK","sub":"Scrub or mitt. Dead skin is where the smell sits.","size":66},
+ {"kind":"duo","head":"Habits 3 and 4","items":[
+   {"n":"3","head":"Witch hazel after the shower","sub":"Cotton pad on chest and back for leftover oil.","img":41},
+   {"n":"4","head":"Rotate your deodorant","sub":"Switch formulas every 1 to 2 months when it stops working.","img":7}]},
+ {"kind":"duo","head":"Habits 5 and 6","items":[
+   {"n":"5","head":"Lotion on damp skin","sub":"Within 3 minutes of drying off. Locks moisture in.","img":63},
+   {"n":"6","head":"Lip balm before bed","sub":"No dry, cracked lips in the morning.","img":87}]},
+ {"kind":"single","label":"HABIT 7","head":"Wear one signature scent","img":33,"sub":"Same one every day. People start linking it to you.","size":64},
+ {"kind":"statement","pre":"The truth:","text":"Women aren't cleaner by nature. They just follow a *routine.*","size":80},
+ {"kind":"end","head":"Clean is a *system.*","img":85,"size":76}
+]

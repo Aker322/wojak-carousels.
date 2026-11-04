@@ -1,0 +1,9 @@
+[
+ {"kind":"cover","kicker":"THE LOUDEST GUY NEVER WINS","title":"Stop trying to win *arguments*","img":[105,33],"size":92},
+ {"kind":"split","head":"Pitching an idea","ltag":"MOST GUYS","rtag":"DO THIS","l":[128,"\"Just trust me, it works.\""],"r":[26,"\"This gets you what you said you wanted.\""]},
+ {"kind":"split","head":"Making your case","ltag":"MOST GUYS","rtag":"DO THIS","l":[24,"Dump every fact at once"],"r":[136,"Story first, numbers second"]},
+ {"kind":"split","head":"Earning trust","ltag":"MOST GUYS","rtag":"DO THIS","l":[25,"Talk the most in the room"],"r":[93,"Prepare more than anyone"]},
+ {"kind":"split","head":"Asking for a favor","ltag":"MOST GUYS","rtag":"DO THIS","l":[3,"Ask before giving anything"],"r":[155,"Help first, ask later"]},
+ {"kind":"single","label":"TIMING","head":"Bad timing kills good ideas","img":41,"sub":"Wait until they're calm. Then say it once.","size":66},
+ {"kind":"end","head":"Be worth *following.*","img":84,"size":76}
+]
