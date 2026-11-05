@@ -1,0 +1,9 @@
+[
+ {"kind":"cover","kicker":"STOP WALKING IN SCARED","title":"Everybody is secretly *rooting* for you","img":[24,87],"size":86},
+ {"kind":"single","label":"THE INTERVIEW","head":"The interviewer hopes it's you","img":26,"sub":"Every bad candidate means more interviews for them.","size":62},
+ {"kind":"single","label":"THE DATE","head":"Your date wants a great night too","img":85,"sub":"Nobody dresses up hoping to be bored.","size":64},
+ {"kind":"single","label":"THE GYM","head":"Nobody is judging your bench","img":134,"sub":"The big guys remember being you. Ask and they'll spot you.","size":64},
+ {"kind":"single","label":"YOUR FIRST POST","head":"People want good content. They don't care whose it is.","img":71,"sub":"Post the thing.","size":58},
+ {"kind":"statement","pre":"The shift:","text":"Walk in expecting people to want you to win. Most of the time, *it's true.*","size":80},
+ {"kind":"end","head":"The room is *on your side.*","img":95,"size":76}
+]

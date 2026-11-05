@@ -1,0 +1,14 @@
+[
+ {"kind":"cover","kicker":"GOOD WITH MONEY, NOT CHEAP","title":"7 things I *refuse* to buy","img":[12,125],"size":92},
+ {"kind":"split","head":"1: Free shipping traps","ltag":"MOST GUYS","rtag":"I DO THIS","l":[128,"Add $40 of junk to save $10 shipping"],"r":[33,"Pay the $10 or combine orders with a friend"]},
+ {"kind":"single","label":"NUMBER 2","head":"Hype drops and fake sales","img":3,"fix":true,"badge":"MUTE THE ADS","sub":"If I only want it because it's scarce, I don't want it.","size":64},
+ {"kind":"duo","head":"3 and 4","items":[
+   {"n":"3","head":"Convenience I waste","sub":"Paying to save an hour only counts if the hour gets used.","img":41},
+   {"n":"4","head":"Cheap stuff I'll replace","sub":"One $120 pair of boots beats three $40 pairs.","img":91}]},
+ {"kind":"duo","head":"5 and 6","items":[
+   {"n":"5","head":"Premium for things I don't care about","sub":"Store-brand cables, generic meds, basic phone case.","img":93},
+   {"n":"6","head":"Clothes that die in 5 washes","sub":"6 plain staples that fit beat 30 trend pieces.","img":164}]},
+ {"kind":"single","label":"NUMBER 7","head":"Interest on lifestyle stuff","img":62,"stamp":"STOP","sub":"Need a payment plan for it? Then you can't afford it yet.","size":64},
+ {"kind":"statement","pre":"The rule:","text":"Spend big on what you use every day. Cut *everything else.*","size":80},
+ {"kind":"end","head":"Cheap is a habit. Rich is a *filter.*","img":76,"size":72}
+]

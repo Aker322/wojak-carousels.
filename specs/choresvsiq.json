@@ -1,0 +1,13 @@
+[
+ {"kind":"cover","kicker":"HARVARD TRACKED 456 BOYS FOR 33 YEARS","title":"Your *chores* predicted your life better than IQ","img":[139,91],"size":80},
+ {"kind":"statement","pre":"The study:","text":"456 boys from Boston's poorest areas, followed from 14 to 47. Boys who *did chores and odd jobs* grew into better men.","size":68},
+ {"kind":"single","label":"THE RESULT","head":"Healthier minds. Better relationships.","img":155,"sub":"It mattered more than IQ or family money.","size":62},
+ {"kind":"duo","head":"Run the list on yourself","items":[
+   {"n":"6:50","head":"Out the door early","sub":"Same wake time, weekends too.","img":7},
+   {"n":"10:00","head":"In bed by 10","sub":"Phone charges outside the room.","img":63}]},
+ {"kind":"duo","head":"Keep the house clean","items":[
+   {"n":"NOW","head":"No dishes in the sink","sub":"Wash it the moment you use it.","img":41},
+   {"n":"SUN","head":"One deep clean a week","sub":"Rotate bathroom, kitchen, car, bedroom.","img":156}]},
+ {"kind":"single","label":"THE DEAL","head":"Chores first. Then you earn the fun.","img":84,"sub":"Friday night is yours once the list is done.","size":62},
+ {"kind":"end","head":"No list growing up? *Write one.*","img":170,"size":70}
+]

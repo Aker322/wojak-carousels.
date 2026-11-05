@@ -1,0 +1,9 @@
+[
+ {"kind":"cover","kicker":"CONFIDENCE IS JUST FAST RECOVERY","title":"How confident guys handle *awkward* moments","img":[37,33],"size":84},
+ {"kind":"split","head":"You lose your train of thought","ltag":"MOST GUYS","rtag":"CONFIDENT GUY","l":[128,"Ramble, laugh nervously, apologize"],"r":[136,"\"Let me put that another way.\""]},
+ {"kind":"split","head":"You forget their name","ltag":"MOST GUYS","rtag":"CONFIDENT GUY","l":[24,"Fake it for 20 minutes"],"r":[87,"\"Tell me your name again, I want it right.\""]},
+ {"kind":"split","head":"Your joke doesn't land","ltag":"MOST GUYS","rtag":"CONFIDENT GUY","l":[32,"Explain the joke"],"r":[176,"Smile and keep talking"]},
+ {"kind":"split","head":"You trip in public","ltag":"MOST GUYS","rtag":"CONFIDENT GUY","l":[118,"Check who saw it"],"r":[156,"Laugh and walk on"]},
+ {"kind":"single","label":"THE TRUTH","head":"Nobody remembers the mistake","img":168,"sub":"They remember how you reacted to it.","size":64},
+ {"kind":"end","head":"Fix it and *move on.*","img":70,"size":76}
+]
