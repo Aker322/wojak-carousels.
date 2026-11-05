@@ -32,3 +32,7 @@ Never repeat an exact topic below. Similar themes with a new angle are fine.
 - 7 hygiene habits to steal from women (2026-11-05 12:00 carousel)
 - Your winter arc starts now (Nov to Feb rules) (2026-11-05 17:00 Reel)
 - Stop trying to win arguments (most guys vs do this) (2026-11-05 22:00 Reel)
+- Everybody is secretly rooting for you (2026-11-06 07:00 Reel)
+- 7 things I refuse to buy (good with money, not cheap) (2026-11-06 12:00 carousel)
+- How confident guys handle awkward moments (most guys vs confident guy) (2026-11-06 17:00 Reel)
+- Your chores predicted your life better than IQ (Harvard 456 boys study) (2026-11-06 22:00 Reel)
