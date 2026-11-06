@@ -36,3 +36,7 @@ Never repeat an exact topic below. Similar themes with a new angle are fine.
 - 7 things I refuse to buy (good with money, not cheap) (2026-11-06 12:00 carousel)
 - How confident guys handle awkward moments (most guys vs confident guy) (2026-11-06 17:00 Reel)
 - Your chores predicted your life better than IQ (Harvard 456 boys study) (2026-11-06 22:00 Reel)
+- Get fit in 3 hours a week (gym bro vs normal guy) (2026-11-07 07:00 Reel)
+- 8 things attractive men have in common (none about your face) (2026-11-07 12:00 carousel)
+- Your real addiction is noise (2026-11-07 17:00 Reel)
+- Why confident idiots win (Dunning-Kruger 4 stages) (2026-11-07 22:00 Reel)
