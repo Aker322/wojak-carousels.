@@ -1,0 +1,12 @@
+[
+ {"kind":"cover","kicker":"IT WAS NEVER THE PHONE","title":"Your real *addiction* is noise","img":[154,41],"size":76},
+ {"kind":"statement","pre":"The pattern:","text":"Porn, reels, betting, energy drinks. All of it fills *the silence* you can't sit in.","size":66},
+ {"kind":"duo","head":"Where the noise hides","items":[
+   {"n":"7:00","head":"Phone before feet hit the floor","sub":"Your brain starts the day already flooded.","img":3},
+   {"n":"11:30","head":"Scrolling in bed","sub":"No thought gets to finish before sleep.","img":139}]},
+ {"kind":"duo","head":"Cut it back","items":[
+   {"n":"15","head":"Minutes staring at a wall","sub":"No phone, no music. Let boredom hit.","img":63},
+   {"n":"1","head":"Walk a day with no headphones","sub":"Your own thoughts are the point.","img":7}]},
+ {"kind":"single","label":"WHAT HAPPENS","head":"The cravings go quiet","img":161,"sub":"When silence stops scaring you, nothing owns you.","size":62},
+ {"kind":"end","head":"Sit in *silence* today.","img":168,"size":74}
+]

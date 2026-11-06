@@ -1,0 +1,9 @@
+[
+ {"kind":"cover","kicker":"GYM BRO CULTURE IS OVERKILL","title":"Get fit in *3 hours* a week","img":[13,134],"size":76},
+ {"kind":"split","head":"How often you train","ltag":"GYM BRO","rtag":"NORMAL GUY","l":[128,"6 days a week, 2 hours each"],"r":[156,"3 full body days, 60 minutes"]},
+ {"kind":"split","head":"What you train","ltag":"GYM BRO","rtag":"NORMAL GUY","l":[24,"Every muscle from 12 angles"],"r":[132,"Squat, press, row, deadlift, pull-up"]},
+ {"kind":"split","head":"How you eat","ltag":"GYM BRO","rtag":"NORMAL GUY","l":[12,"Weigh every gram of rice"],"r":[91,"A palm of protein every meal"]},
+ {"kind":"split","head":"How you progress","ltag":"GYM BRO","rtag":"NORMAL GUY","l":[139,"New program every 3 weeks"],"r":[95,"Add 1 rep or 2.5 kg each week"]},
+ {"kind":"single","label":"THE MATH","head":"Consistency beats volume","img":70,"sub":"12 months of showing up beats 8 weeks of going hard.","size":60},
+ {"kind":"end","head":"Train 3 days. *Never* skip one.","img":167,"size":72}
+]

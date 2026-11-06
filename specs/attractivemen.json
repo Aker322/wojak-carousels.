@@ -1,0 +1,15 @@
+[
+ {"kind":"cover","kicker":"NONE OF THEM ARE ABOUT YOUR FACE","title":"8 things *attractive* men have in common","img":[89,85],"size":86},
+ {"kind":"single","label":"NUMBER 1","head":"Clean nails, fresh breath, ironed shirt","img":164,"sub":"Hygiene is the cheapest upgrade you'll ever make.","size":60},
+ {"kind":"single","label":"NUMBER 2","head":"One obsessive hobby","img":91,"fix":true,"badge":"GO DEEP","sub":"Woodwork, climbing, chess. Talk about it and your eyes light up.","size":60},
+ {"kind":"duo","head":"3 and 4","items":[
+   {"n":"3","head":"Good at one thing","sub":"Cooking, fixing cars, a sport. Skill is magnetic.","img":71},
+   {"n":"4","head":"Close to his family","sub":"Calls his mom. Shows up for his brother.","img":155}]},
+ {"kind":"single","label":"NUMBER 5","head":"Doesn't complain about what he won't change","img":94,"stamp":"STOP","sub":"Hate your job? Apply elsewhere or drop it.","size":60},
+ {"kind":"duo","head":"6 and 7","items":[
+   {"n":"6","head":"Kind to strangers","sub":"Holds the door, tips well, helps carry bags.","img":87},
+   {"n":"7","head":"Moves his body","sub":"Lifts, runs or plays something weekly.","img":134}]},
+ {"kind":"single","label":"NUMBER 8","head":"Not glued to his phone","img":176,"sub":"Phone face down at dinner. Full eye contact.","size":60},
+ {"kind":"statement","pre":"Notice:","text":"Every single one is a *choice,* not genetics.","size":82},
+ {"kind":"end","head":"Pick one. Start it *this week.*","img":33,"size":72}
+]

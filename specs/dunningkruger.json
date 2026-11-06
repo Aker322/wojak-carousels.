@@ -1,0 +1,9 @@
+[
+ {"kind":"cover","kicker":"CORNELL STUDIED THIS IN 1999","title":"Why *confident idiots* win (and how you beat them)","img":[25,33],"size":78},
+ {"kind":"single","label":"STAGE 1","level":[1,4],"head":"Watched 3 videos, feels like an expert","img":23,"sub":"Peak confidence, zero skill. Loudest guy in the room.","size":58},
+ {"kind":"single","label":"STAGE 2","level":[2,4],"head":"Starts doing it, realizes he knows nothing","img":37,"sub":"Most guys quit right here.","size":58},
+ {"kind":"single","label":"STAGE 3","level":[3,4],"head":"Gets better and still doubts himself","img":136,"sub":"Real skill feels smaller from the inside.","size":58},
+ {"kind":"single","label":"STAGE 4","level":[4,4],"head":"Quiet, calm, actually good","img":168,"sub":"Says \"it depends\" and is usually right.","size":58},
+ {"kind":"statement","pre":"The fix:","text":"Doubting yourself means you're past stage 1. *Keep going* and speak up anyway.","size":66},
+ {"kind":"end","head":"Skill first. *Volume* second.","img":70,"size":74}
+]
