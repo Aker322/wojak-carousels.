@@ -1,0 +1,9 @@
+[
+ {"kind":"cover","kicker":"ONE BAD DAY AND HE SPIRALS","title":"No routine makes you a *slave* to your mood","img":[57,134],"size":76},
+ {"kind":"split","head":"When he wakes up","ltag":"NO ROUTINE","rtag":"ROUTINE","l":[58,"Whenever. Phone first."],"r":[156,"6:30. Walk first."]},
+ {"kind":"split","head":"After a bad day","ltag":"NO ROUTINE","rtag":"ROUTINE","l":[32,"Skips the gym, orders junk"],"r":[132,"Trains anyway. 30 minutes."]},
+ {"kind":"split","head":"When a craving hits","ltag":"NO ROUTINE","rtag":"ROUTINE","l":[28,"Folds in 5 minutes"],"r":[176,"Already has a plan for it"]},
+ {"kind":"split","head":"On Sunday night","ltag":"NO ROUTINE","rtag":"ROUTINE","l":[118,"Dreads Monday"],"r":[93,"Plans the week in 10 minutes"]},
+ {"kind":"statement","pre":"The point:","text":"Structure isn't a *cage.* It's armor for the bad days.","size":72},
+ {"kind":"end","head":"Build 3 *anchors* this week.","sub":"Wake time. Training time. Bedtime.","img":170,"size":72}
+]

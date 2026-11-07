@@ -1,0 +1,11 @@
+[
+ {"kind":"cover","kicker":"2,000 YEARS OLD AND STILL TRUE","title":"5 habits *killing* your productivity","img":[139,33],"size":86},
+ {"kind":"single","label":"HABIT 1","head":"Hitting snooze until 10am","img":138,"stamp":"STOP","sub":"Marcus Aurelius: you were made to get up and work, not lie under blankets.","size":62},
+ {"kind":"single","label":"HABIT 2","head":"Stressing over what you can't control","img":24,"sub":"Epictetus: some things are up to you, most aren't. Only touch the first list.","size":58},
+ {"kind":"single","label":"HABIT 3","head":"Saying yes to everyone","img":162,"stamp":"STOP","sub":"Seneca: men guard their money but hand out their time for free.","size":62},
+ {"kind":"single","label":"HABIT 4","head":"Hanging with the wrong crowd","img":97,"sub":"Meditations opens by thanking the people who made Marcus better.","size":60},
+ {"kind":"single","label":"HABIT 5","head":"Acting like you'll live forever","img":0,"sub":"Seneca: life isn't short. We waste most of it.","size":60},
+ {"kind":"grid","head":"The Stoic fix","cells":[[7,"Same wake time every day"],[71,"Write down what you control"],[41,"Say no once a day"],[155,"Pick friends who push you"]]},
+ {"kind":"statement","pre":"Seneca said it first:","text":"Life is long *if you know* how to use it.","size":78},
+ {"kind":"end","head":"Stop wasting the *day.*","img":95,"size":76}
+]

@@ -1,0 +1,8 @@
+[
+ {"kind":"cover","kicker":"IT'S NOT YOUR LOOKS","title":"How to build *aura* without saying a word","img":[89,33],"size":80},
+ {"kind":"grid","head":"Guys with aura","cells":[[41,"Speak slower than everyone"],[176,"Hold eye contact a second longer"],[63,"Pause before they answer"],[164,"Dress one level above the room"]]},
+ {"kind":"grid","head":"They also","cells":[[87,"Laugh at themselves first"],[26,"Remember your name and use it"],[91,"Get obsessed with one craft"],[161,"Are fine doing things alone"]]},
+ {"kind":"single","label":"WHAT KILLS IT","head":"Needing everyone to like you","img":128,"stamp":"STOP","sub":"Over-explaining, over-texting, over-agreeing. Drop all three.","size":62},
+ {"kind":"single","label":"TRY TODAY","head":"Pause 2 seconds before you reply","img":84,"fix":true,"badge":"AURA","sub":"Silence reads as confidence. Rushing reads as nerves.","size":60},
+ {"kind":"end","head":"Calm is *magnetic.*","img":168,"size":76}
+]

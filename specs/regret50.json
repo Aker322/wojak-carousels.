@@ -1,0 +1,11 @@
+[
+ {"kind":"cover","kicker":"MEN IN THEIR 50s ALL SAY THE SAME THING","title":"5 mistakes men *regret* at 50","img":[7,168],"size":78},
+ {"kind":"single","label":"MISTAKE 1","head":"Trading your health for overtime","img":13,"stamp":"STOP","sub":"The promotion won't carry you up the stairs at 52.","size":62},
+ {"kind":"single","label":"MISTAKE 2","head":"Buying things to impress people","img":125,"sub":"Nobody remembers your car. Your bank account does.","size":62},
+ {"kind":"duo","head":"Mistakes 3 and 4","items":[
+   {"n":"3","head":"Upgrading your life every raise","sub":"Save half of every raise before you see it.","img":85},
+   {"n":"4","head":"Never checking your money","sub":"Know your net worth. Check it monthly.","img":136}]},
+ {"kind":"single","label":"MISTAKE 5","head":"Thinking your job will always be there","img":162,"sub":"Build one skill or income your boss can't take.","size":58},
+ {"kind":"statement","pre":"The truth:","text":"Your 50-year-old self is built by *what you do* at 25.","size":72},
+ {"kind":"end","head":"Start fixing it *tonight.*","img":70,"size":76}
+]
