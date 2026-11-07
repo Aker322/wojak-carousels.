@@ -40,3 +40,7 @@ Never repeat an exact topic below. Similar themes with a new angle are fine.
 - 8 things attractive men have in common (none about your face) (2026-11-07 12:00 carousel)
 - Your real addiction is noise (2026-11-07 17:00 Reel)
 - Why confident idiots win (Dunning-Kruger 4 stages) (2026-11-07 22:00 Reel)
+- 5 mistakes men regret at 50 (health, impressing people, lifestyle creep, money, job security) (2026-11-08 07:00 Reel)
+- 5 habits killing your productivity (Stoic version) (2026-11-08 12:00 carousel)
+- No routine makes you a slave to your mood (no routine vs routine) (2026-11-08 17:00 Reel)
+- How to build aura without saying a word (2026-11-08 22:00 Reel)
