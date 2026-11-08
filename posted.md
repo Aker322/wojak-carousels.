@@ -44,3 +44,7 @@ Never repeat an exact topic below. Similar themes with a new angle are fine.
 - 5 habits killing your productivity (Stoic version) (2026-11-08 12:00 carousel)
 - No routine makes you a slave to your mood (no routine vs routine) (2026-11-08 17:00 Reel)
 - How to build aura without saying a word (2026-11-08 22:00 Reel)
+- How to join a group mid-conversation ("What's the story behind that?") (2026-11-09 07:00 Reel)
+- 7 money lessons I wish I knew at 22 (from a millionaire at 32) (2026-11-09 12:00 carousel)
+- 6 sentences that rewired my brain (anxiety, envy, standards, being bad first) (2026-11-09 17:00 Reel)
+- What a man should understand by 30 (at 20 vs by 30) (2026-11-09 22:00 Reel)
