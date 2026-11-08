@@ -1,0 +1,13 @@
+[
+ {"kind":"cover","kicker":"FROM A MILLIONAIRE AT 32","title":"7 money lessons I wish I knew at *22*","img":[118,125],"size":84},
+ {"kind":"single","label":"LESSON 1","head":"Money is a skill. Study it like one.","img":93,"sub":"Nobody becomes a dentist without reading a single book about teeth.","size":60},
+ {"kind":"single","label":"LESSON 2","head":"Looking rich is not being rich","img":85,"stamp":"STOP","sub":"Skip the $90 dinner. Real friends get it.","size":62},
+ {"kind":"duo","head":"Lessons 3 and 4","items":[
+   {"n":"3","head":"Know what you want","sub":"And stop explaining it to people who don't get it.","img":136},
+   {"n":"4","head":"Learn loans before you need one","sub":"Car, mortgage, insurance. Emotion makes bad deals.","img":26}]},
+ {"kind":"single","label":"LESSON 5","head":"Rich people aren't the enemy","img":105,"sub":"Resent them and you'll quietly sabotage your own money.","size":60},
+ {"kind":"single","label":"LESSON 6","head":"Save the $50 anyway","img":71,"fix":true,"badge":"HABIT","sub":"Blow $50 now and you'll blow $5,000 later.","size":62},
+ {"kind":"single","label":"LESSON 7","head":"Start investing before you feel ready","img":76,"sub":"Start at 20, not 30, and you need about half the money to hit $1M by 50.","size":58},
+ {"kind":"statement","pre":"The real lesson:","text":"There will always be a reason to wait. *Start this month.*","size":72},
+ {"kind":"end","head":"Put aside *something* today.","img":168,"size":72}
+]

@@ -1,0 +1,10 @@
+[
+ {"kind":"cover","kicker":"READ THEM SLOWLY","title":"6 sentences that *rewired* my brain","img":[24,95],"size":84},
+ {"kind":"single","label":"SENTENCE 1","head":"The cure for anxiety is action","img":139,"sub":"Overthinking shrinks the second you start.","size":62},
+ {"kind":"single","label":"SENTENCE 2","head":"Envy means you should be doing more","img":123,"sub":"Jealous of his body? Go train.","size":60},
+ {"kind":"single","label":"SENTENCE 3","head":"Learning more is smart procrastination","img":93,"stamp":"STOP","sub":"Your 10th video on discipline isn't discipline.","size":60},
+ {"kind":"single","label":"SENTENCE 4","head":"You get the lowest standard you tolerate","img":40,"sub":"From your friends, your job and yourself.","size":60},
+ {"kind":"single","label":"SENTENCE 5","head":"To get great, be bad for a long time","img":134,"fix":true,"badge":"KEEP GOING","sub":"Every lifter you admire was weak once.","size":60},
+ {"kind":"statement","pre":"Sentence 6:","text":"Some people are so broke that *all they have* is money.","size":72},
+ {"kind":"end","head":"Save this. *Reread it* Sunday.","img":63,"size":72}
+]

@@ -1,0 +1,9 @@
+[
+ {"kind":"cover","kicker":"WORKS AT PARTIES, WEDDINGS, WORK EVENTS","title":"How to join a group *mid-conversation*","img":[89,155],"size":78},
+ {"kind":"single","label":"MISTAKE","head":"Walking up with a joke ready","img":128,"stamp":"STOP","sub":"You break the flow and make it about you.","size":62},
+ {"kind":"single","label":"STEP 1","level":[1,3],"head":"Listen for 20 seconds first","img":41,"sub":"Smile, nod, figure out what they're actually talking about.","size":62},
+ {"kind":"single","label":"STEP 2","level":[2,3],"head":"Ask: \"What's the story behind that?\"","img":176,"fix":true,"badge":"MAGIC LINE","sub":"Someone retells it and pulls you right in.","size":58},
+ {"kind":"single","label":"STEP 3","level":[3,3],"head":"Let them talk, then add one thing","img":33,"sub":"A follow-up question beats your best story.","size":62},
+ {"kind":"statement","pre":"Remember:","text":"You don't need to be the *most interesting* guy in the group to belong in it.","size":64},
+ {"kind":"end","head":"Try the line *this week.*","img":87,"size":76}
+]

@@ -1,0 +1,9 @@
+[
+ {"kind":"cover","kicker":"NOBODY TELLS YOU THIS AT 20","title":"What a man should *understand* by 30","img":[7,33],"size":82},
+ {"kind":"split","head":"About comfort","ltag":"AT 20","rtag":"BY 30","l":[89,"Thinks life owes him an easy ride"],"r":[91,"Knows nobody owes him anything"]},
+ {"kind":"split","head":"About time","ltag":"AT 20","rtag":"BY 30","l":[138,"\"I'll figure it out later\""],"r":[71,"Some doors close. Decides now."]},
+ {"kind":"split","head":"About people","ltag":"AT 20","rtag":"BY 30","l":[3,"Tries to impress everyone"],"r":[155,"Picks who gets close"]},
+ {"kind":"split","head":"About mistakes","ltag":"AT 20","rtag":"BY 30","l":[23,"Cheap and easy to fix"],"r":[0,"Each one costs more every year"]},
+ {"kind":"statement","pre":"The hard one:","text":"Potential is not *progress.* Stop confusing them.","size":76},
+ {"kind":"end","head":"Stop *dodging* that decision.","img":170,"size":66}
+]
