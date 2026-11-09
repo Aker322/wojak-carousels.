@@ -1,0 +1,9 @@
+[
+ {"kind":"cover","kicker":"QUIETLY, ONE BY ONE","title":"What a man gives up when he gets *wise*","img":[85,168],"size":84},
+ {"kind":"split","head":"Showing off","ltag":"WISE MAN","rtag":"YOUNG MAN","l":[33,"Quiet bank account"],"r":[125,"Financed car he can't afford"],"flip":true},
+ {"kind":"split","head":"Explaining himself","ltag":"WISE MAN","rtag":"YOUNG MAN","l":[41,"\"No.\" Full stop."],"r":[24,"3 paragraphs on why he can't come"],"flip":true},
+ {"kind":"split","head":"Gossip","ltag":"WISE MAN","rtag":"YOUNG MAN","l":[87,"Changes the subject"],"r":[105,"Trashes whoever left the room"],"flip":true},
+ {"kind":"split","head":"Chasing approval","ltag":"WISE MAN","rtag":"YOUNG MAN","l":[95,"Posts nothing, builds a lot"],"r":[3,"Checks who viewed his story"],"flip":true},
+ {"kind":"statement","pre":"The pattern:","text":"Every one of these costs energy. He'd rather *spend it on building.*","size":72},
+ {"kind":"end","head":"Drop *one* of these this week.","img":161,"size":74}
+]

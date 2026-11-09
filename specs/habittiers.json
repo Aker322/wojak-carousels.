@@ -1,0 +1,14 @@
+[
+ {"kind":"cover","kicker":"FOR GUYS 16 TO 22","title":"Ranking habits for *young men*","img":[89,134],"size":88},
+ {"kind":"duo","head":"S tier: non-negotiable","items":[
+   {"n":"S","head":"Looking your best","sub":"Haircut, skin, clothes that fit. Daily.","img":164},
+   {"n":"S","head":"Talking to girls","sub":"Every rejection at 18 is free practice.","img":176}]},
+ {"kind":"duo","head":"A tier: huge return","items":[
+   {"n":"A","head":"Lifting","sub":"3 days a week changes your face and your mood.","img":132},
+   {"n":"A","head":"Combat sports","sub":"Nothing humbles or calms you faster.","img":70}]},
+ {"kind":"duo","head":"B tier: quiet compound","items":[
+   {"n":"B","head":"Reading","sub":"10 pages a night is 15 books a year.","img":93},
+   {"n":"B","head":"Long hikes","sub":"Fresh air, no phone, real thinking.","img":15}]},
+ {"kind":"grid","head":"F tier: outright harmful","cells":[[3,"Doomscrolling"],[138,"Gaming all night"],[58,"Weekend drinking"],[28,"Porn"]]},
+ {"kind":"end","head":"Move one habit *up a tier* this week.","img":168,"size":70}
+]

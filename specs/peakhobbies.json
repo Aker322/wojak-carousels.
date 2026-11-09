@@ -1,0 +1,11 @@
+[
+ {"kind":"cover","kicker":"MOST MEN CAN'T DO NUMBER 3","title":"5 hobbies that make a man *dangerous*","img":[138,70],"size":84},
+ {"kind":"single","label":"HOBBY 1","level":[1,5],"head":"Learn to fight","img":134,"sub":"Jiu-jitsu, wrestling or boxing. You learn to think while someone tries to hurt you.","size":64},
+ {"kind":"single","label":"HOBBY 2","level":[2,5],"head":"Build endurance","img":156,"sub":"Run, swim, hike for hours. Just you and your own thoughts.","size":64},
+ {"kind":"single","label":"HOBBY 3","level":[3,5],"head":"Work with your hands","img":91,"sub":"Woodwork, fixing engines, welding. Patience and detail you can't fake.","size":64},
+ {"kind":"single","label":"HOBBY 4","level":[4,5],"head":"Play chess","img":136,"sub":"Thinking 3 moves ahead works on a board and in real life.","size":64},
+ {"kind":"single","label":"HOBBY 5","level":[5,5],"head":"Cook for your people","img":63,"sub":"Timing, patience, and feeding the people under your roof.","size":64},
+ {"kind":"split","head":"Your evenings","ltag":"PEAK MAN","rtag":"MOST MEN","l":[26,"Rolls at the gym, then cooks dinner"],"r":[13,"4 hours of ranked games"],"flip":true},
+ {"kind":"statement","pre":"Why it works:","text":"Being capable in 5 areas builds *confidence you can't fake.*","size":72},
+ {"kind":"end","head":"Pick *one.* Start this week.","img":95,"size":76}
+]

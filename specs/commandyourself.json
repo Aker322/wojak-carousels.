@@ -1,0 +1,12 @@
+[
+ {"kind":"cover","kicker":"NIETZSCHE WAS RIGHT","title":"Command yourself or *something else will*","img":[3,95],"size":84},
+ {"kind":"single","label":"MASTER 1","head":"Your phone","img":154,"stamp":"STOP","sub":"It decides what you think about first thing in the morning.","size":64},
+ {"kind":"single","label":"MASTER 2","head":"Your comfort","img":139,"sub":"Snooze 3 times and the bed already won the day.","size":64},
+ {"kind":"duo","head":"Masters 3 and 4","items":[
+   {"n":"3","head":"Your fears","sub":"You skip the gym because people might look.","img":24},
+   {"n":"4","head":"Other people's opinions","sub":"You dress, talk and post for them.","img":128}]},
+ {"kind":"single","label":"MASTER 5","head":"Your cravings","img":119,"sub":"Midnight fridge runs. Porn. One more episode.","size":64},
+ {"kind":"statement","pre":"Nietzsche:","text":"He who cannot obey himself *will be commanded.*","size":76},
+ {"kind":"single","label":"TAKE IT BACK","head":"Do one thing today you don't feel like doing","img":170,"fix":true,"badge":"IN CHARGE","sub":"Cold start, hard set, honest conversation. Pick one.","size":58},
+ {"kind":"end","head":"Give the orders. *Don't take them.*","img":168,"size":72}
+]
