@@ -48,3 +48,7 @@ Never repeat an exact topic below. Similar themes with a new angle are fine.
 - 7 money lessons I wish I knew at 22 (from a millionaire at 32) (2026-11-09 12:00 carousel)
 - 6 sentences that rewired my brain (anxiety, envy, standards, being bad first) (2026-11-09 17:00 Reel)
 - What a man should understand by 30 (at 20 vs by 30) (2026-11-09 22:00 Reel)
+- Command yourself or something else will (phone, comfort, fears, opinions, cravings; Nietzsche) (2026-11-10 07:00 Reel)
+- 5 hobbies that make a man dangerous (fight, endurance, hands, chess, cooking) (2026-11-10 12:00 carousel)
+- Ranking habits for young men 16 to 22 (S/A/B/F tier list) (2026-11-10 17:00 Reel)
+- What a man gives up when he gets wise (showing off, explaining, gossip, approval) (2026-11-10 22:00 Reel)
