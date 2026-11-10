@@ -1,0 +1,11 @@
+[
+ {"kind":"cover","kicker":"UNCOMFORTABLE AT FIRST","title":"8 things to do alone that build *confidence*","img":[37,161],"size":80},
+ {"kind":"single","label":"NUMBER 1","head":"Eat at a restaurant alone","img":41,"fix":true,"badge":"NO PHONE","sub":"Table for one, phone in your pocket. Just eat and watch the room.","size":60},
+ {"kind":"single","label":"NUMBER 2","head":"Go to the movies alone","img":87,"fix":true,"badge":"YOUR PICK","sub":"Watch the film you want. Nobody to check with first.","size":62},
+ {"kind":"single","label":"NUMBER 3","head":"Take a solo trip","img":15,"fix":true,"badge":"BOOK IT","sub":"Even one night in a city 2 hours away. You figure out everything yourself.","size":64},
+ {"kind":"single","label":"NUMBER 4","head":"Sit at the bar and talk to the bartender","img":26,"fix":true,"badge":"SAY HI","sub":"No wingman. Order, ask how their night is going, see where it goes.","size":56},
+ {"kind":"grid","head":"4 more for this month","cells":[[156,"Hike a new trail"],[93,"Visit a museum"],[91,"Cook yourself a real dinner"],[7,"Go to a local event"]]},
+ {"kind":"split","head":"Saturday night","ltag":"BUILDS IT","rtag":"KILLS IT","l":[176,"Out alone, fine in his own company"],"r":[138,"Home waiting for a text back"],"flip":true},
+ {"kind":"statement","pre":"Why it works:","text":"Once you're fine *by yourself,* you stop needing anyone's approval.","size":70},
+ {"kind":"end","head":"Do *one* this weekend.","img":70,"size":76}
+]

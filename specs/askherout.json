@@ -1,0 +1,11 @@
+[
+ {"kind":"cover","kicker":"EXPECTED VALUE, EXPLAINED","title":"The math says *ask her out*","img":[62,95],"size":78},
+ {"kind":"split","head":"What's actually at stake","ltag":"IF SHE SAYS NO","rtag":"IF SHE SAYS YES","l":[159,"30 seconds of awkward"],"r":[85,"A date, maybe a whole relationship"]},
+ {"kind":"duo","head":"Do the math","items":[
+   {"n":"1","head":"Downside: tiny","sub":"She says no. You feel weird for an afternoon.","img":139},
+   {"n":"2","head":"Upside: huge","sub":"She says yes. It could change your whole year.","img":63}]},
+ {"kind":"single","label":"WHAT MOST GUYS DO","head":"Wait for the perfect moment","img":136,"stamp":"STOP","sub":"It never comes. Then someone else asks her.","size":62},
+ {"kind":"single","label":"THE BONUS","head":"Every no makes the next ask easier","img":134,"fix":true,"badge":"REPS","sub":"Ask 10 times and rejection stops stinging.","size":58},
+ {"kind":"statement","pre":"The real risk:","text":"Not asking is the only option with *zero upside.*","size":76},
+ {"kind":"end","head":"Ask her *this week.*","img":170,"size":76}
+]

@@ -1,0 +1,9 @@
+[
+ {"kind":"cover","kicker":"NO YELLING REQUIRED","title":"How to handle disrespect with *class*","img":[105,164],"size":84},
+ {"kind":"single","label":"WHAT MOST GUYS DO","head":"Snap back instantly","img":108,"stamp":"STOP","sub":"Now you're the one who looks out of control.","size":64},
+ {"kind":"single","label":"STEP 1","head":"Make him repeat it","img":176,"fix":true,"badge":"REPEAT IT","sub":"\"Sorry, say that again?\" Rude comments sound worse the second time.","size":64},
+ {"kind":"single","label":"STEP 2","head":"Look at him and smile slightly","img":84,"fix":true,"badge":"STAY CALM","sub":"Say nothing for 3 seconds. The silence makes him explain himself.","size":60},
+ {"kind":"single","label":"STEP 3","head":"Draw one clear line","img":33,"fix":true,"badge":"ONE LINE","sub":"\"Don't talk to me like that again.\" Calm voice, then move on.","size":64},
+ {"kind":"statement","pre":"The rule:","text":"Whoever stays calmer *wins the room.*","size":80},
+ {"kind":"end","head":"Never let them *rattle you.*","img":95,"size":74}
+]

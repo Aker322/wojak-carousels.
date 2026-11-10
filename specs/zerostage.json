@@ -1,0 +1,10 @@
+[
+ {"kind":"cover","kicker":"WHERE MOST PEOPLE QUIT","title":"Every rich man survived the *$0 stage*","img":[57,76],"size":82},
+ {"kind":"statement","pre":"The truth:","text":"You'll look *behind* everyone for a while. That's the price of getting ahead.","size":66},
+ {"kind":"duo","head":"What the $0 stage looks like","items":[
+   {"n":"Month 1","head":"Working nights for nothing","sub":"Friends post vacations. You post nothing.","img":154},
+   {"n":"Month 6","head":"Still under $100 total","sub":"Family asks when you'll get a real job.","img":94}]},
+ {"kind":"grid","head":"Why most people quit","cells":[[3,"Need to look rich now"],[162,"Can't handle family doubt"],[123,"Compare to friends' salaries"],[13,"Spend before they earn"]]},
+ {"kind":"single","label":"WHAT GETS YOU THROUGH","head":"Track skills, not income","img":71,"fix":true,"badge":"KEEP GOING","sub":"Better pitch, better product, more reps. Money shows up after.","size":62},
+ {"kind":"end","head":"Outlast *everyone* who quit.","img":125,"size":74}
+]
