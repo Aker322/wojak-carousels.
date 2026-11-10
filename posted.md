@@ -52,3 +52,7 @@ Never repeat an exact topic below. Similar themes with a new angle are fine.
 - 5 hobbies that make a man dangerous (fight, endurance, hands, chess, cooking) (2026-11-10 12:00 carousel)
 - Ranking habits for young men 16 to 22 (S/A/B/F tier list) (2026-11-10 17:00 Reel)
 - What a man gives up when he gets wise (showing off, explaining, gossip, approval) (2026-11-10 22:00 Reel)
+- How to handle disrespect with class (make him repeat it, slight smile, one clear line) (2026-11-11 07:00 Reel)
+- 8 things to do alone that build confidence (restaurant, movies, solo trip, bartender) (2026-11-11 12:00 carousel)
+- The math says ask her out (expected value: tiny downside, huge upside) (2026-11-11 17:00 Reel)
+- Every rich man survived the $0 stage (2026-11-11 22:00 Reel)
