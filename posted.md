@@ -56,3 +56,7 @@ Never repeat an exact topic below. Similar themes with a new angle are fine.
 - 8 things to do alone that build confidence (restaurant, movies, solo trip, bartender) (2026-11-11 12:00 carousel)
 - The math says ask her out (expected value: tiny downside, huge upside) (2026-11-11 17:00 Reel)
 - Every rich man survived the $0 stage (2026-11-11 22:00 Reel)
+- Screen time is a poor man's tax (5 hrs a day = 76 days a year; poor vs rich phone setup) (2026-11-12 07:00 Reel)
+- 7 rules attractive older men follow (refuse to rust, don't audition, shoreline, travel light) (2026-11-12 12:00 carousel)
+- Looks only get you in the door (interview mode vs real talk) (2026-11-12 17:00 Reel)
+- Sports betting is porn 2.0 (delete the app, 15-minute wall stare) (2026-11-12 22:00 Reel)
