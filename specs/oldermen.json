@@ -1,0 +1,13 @@
+[
+ {"kind":"cover","kicker":"STEAL THEM IN YOUR 20S","title":"7 rules attractive *older men* follow","img":[13,84],"size":86},
+ {"kind":"single","label":"RULE 1","head":"He refuses to rust","img":164,"sub":"Clothes that fit, intentional grooming, straight posture. Not for her. For him.","size":66},
+ {"kind":"single","label":"RULE 2","head":"He doesn't audition","img":33,"sub":"No name-dropping, no reciting his resume. Warm room or cold room, same guy.","size":66},
+ {"kind":"single","label":"RULE 3","head":"He's the shoreline","img":41,"fix":true,"badge":"5-SECOND PAUSE","sub":"Something irritates you? Wait 5 seconds before you answer.","size":66},
+ {"kind":"duo","head":"Rules 4 and 5","items":[
+   {"n":"4","head":"Her bad day isn't about him","sub":"He doesn't sulk or soak up her mood. He stays steady.","img":63},
+   {"n":"5","head":"Present, not performing","sub":"He's in the moment with her, not stuck in his head.","img":87}]},
+ {"kind":"single","label":"RULE 6","head":"He doesn't silently fold","img":26,"sub":"He says what doesn't work for him. Calmly, once. That's what keeps her respect.","size":62},
+ {"kind":"single","label":"RULE 7","head":"He travels light","img":161,"sub":"Old breakups stay behind. She knows in 20 minutes if she's competing with your past.","size":64},
+ {"kind":"statement","pre":"Every rule is about:","text":"Your relationship with *yourself*. Not with her.","size":80},
+ {"kind":"end","head":"Start *rule 1* today","img":168,"size":74}
+]

@@ -1,0 +1,9 @@
+[
+ {"kind":"cover","kicker":"THE TAX NOBODY TALKS ABOUT","title":"Screen time is a *poor man's tax*","img":[3,125],"size":88},
+ {"kind":"statement","pre":"The math:","text":"5 hours a day is *76 days* a year. Gone.","size":84},
+ {"kind":"split","head":"Your home screen","ltag":"POOR SETUP","rtag":"RICH SETUP","l":[154,"Shorts, feeds and 40 apps"],"r":[93,"Calendar, maps, bank. Nothing scrolls."]},
+ {"kind":"split","head":"Short videos","ltag":"POOR SETUP","rtag":"RICH SETUP","l":[138,"Shorts app on your phone"],"r":[71,"Deleted. Long videos on a laptop only."]},
+ {"kind":"single","label":"THE FIX","head":"Make your phone boring","img":41,"fix":true,"badge":"DO TONIGHT","sub":"Grayscale on, notifications off, charger outside the bedroom.","size":66},
+ {"kind":"grid","head":"Where 76 days could go","cells":[[132,"Lifting"],[91,"A skill that pays"],[155,"Real friends"],[63,"Sleep"]]},
+ {"kind":"end","head":"Stop paying *the tax*","img":170,"size":80}
+]

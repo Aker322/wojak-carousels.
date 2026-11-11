@@ -1,0 +1,11 @@
+[
+ {"kind":"cover","kicker":"THE NEW TRAP FOR YOUNG MEN","title":"Sports betting is *porn 2.0*","img":[58,170],"size":84},
+ {"kind":"grid","head":"Same trap, new app","cells":[[28,"Endless novelty"],[154,"Always one tap away"],[24,"\"The next one will hit\""],[37,"Hidden from everyone"]]},
+ {"kind":"duo","head":"What it really costs","items":[
+   {"n":"Money","head":"The house always wins","sub":"The apps are built so the average bettor loses.","img":118},
+   {"n":"Fun","head":"Every game becomes a bill","sub":"You stop watching the game. You watch your balance.","img":138}]},
+ {"kind":"single","label":"THE DRILL","head":"Stare at a wall for 15 minutes","img":41,"fix":true,"badge":"BOREDOM TRAINING","sub":"No phone, no music. It rebuilds the boredom tolerance betting killed.","size":60},
+ {"kind":"single","label":"TONIGHT","head":"Delete the app","img":162,"stamp":"STOP","sub":"Not \"bet less\". Delete it and block the site.","size":70},
+ {"kind":"statement","pre":"Remember:","text":"The thrill is the product. *You* are the one paying for it.","size":78},
+ {"kind":"end","head":"Bet on *yourself* instead.","img":134,"size":78}
+]

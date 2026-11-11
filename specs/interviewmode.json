@@ -1,0 +1,9 @@
+[
+ {"kind":"cover","kicker":"WHY GOOD-LOOKING GUYS STILL LOSE HER","title":"Looks only get you *in the door*","img":[89,84],"size":88},
+ {"kind":"statement","pre":"True story:","text":"The best looking guy at the bar got approached all night. Most girls *walked away bored.*","size":62},
+ {"kind":"split","head":"She jokes about your shirt","ltag":"INTERVIEW MODE","rtag":"REAL TALK","l":[159,"\"Thanks, got it last week.\""],"r":[87,"\"I wore it to match your drink. Clearly.\""]},
+ {"kind":"split","head":"She says you're tall","ltag":"INTERVIEW MODE","rtag":"REAL TALK","l":[160,"\"Yeah, 6'2.\""],"r":[176,"\"Yeah, I'm mainly here to change light bulbs.\""]},
+ {"kind":"split","head":"Keeping it going","ltag":"INTERVIEW MODE","rtag":"REAL TALK","l":[3,"Question, answer, question, answer"],"r":[85,"Share a take, tease a little, then ask"]},
+ {"kind":"single","label":"THE RULE","head":"Play with what she says","img":63,"fix":true,"badge":"TRY TONIGHT","sub":"Answer, then add a joke or an opinion. Facts are boring. Reactions aren't.","size":64},
+ {"kind":"end","head":"Get her *laughing* instead","img":95,"size":70}
+]
