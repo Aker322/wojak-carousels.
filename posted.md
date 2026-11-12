@@ -60,3 +60,7 @@ Never repeat an exact topic below. Similar themes with a new angle are fine.
 - 7 rules attractive older men follow (refuse to rust, don't audition, shoreline, travel light) (2026-11-12 12:00 carousel)
 - Looks only get you in the door (interview mode vs real talk) (2026-11-12 17:00 Reel)
 - Sports betting is porn 2.0 (delete the app, 15-minute wall stare) (2026-11-12 22:00 Reel)
+- How rare attractive men actually are (out of 100 men: 14 over 6ft, 3 with abs, 1 in 2,300 full package) (2026-11-13 07:00 Reel)
+- 6 boring habits that fix 90% of your problems (lift, steps, sunlight, real food, less alcohol, sleep) (2026-11-13 12:00 carousel)
+- Nothing to say? You don't know yourself yet (write 10 opinions, try new things) (2026-11-13 17:00 Reel)
+- Your boring life is someone's dream (sore legs, rent, workday as privileges) (2026-11-13 22:00 Reel)
