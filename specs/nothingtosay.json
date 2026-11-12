@@ -1,0 +1,9 @@
+[
+ {"kind":"cover","kicker":"WHY YOU FREEZE IN CONVERSATIONS","title":"Nothing to say? You don't *know yourself* yet","img":[24,176],"size":82},
+ {"kind":"grid","head":"Running on other people's opinions","cells":[[136,"Guessing what they want to hear"],[123,"\"I'm fine with whatever\""],[3,"Same takes as your feed"],[62,"Hiding what you actually like"]]},
+ {"kind":"statement","pre":"The trap:","text":"Years of saying what people want to hear. Now there's *nothing left* to say.","size":70},
+ {"kind":"single","label":"STEP 1","head":"Write down 10 opinions","img":71,"fix":true,"badge":"TONIGHT","sub":"Best movie, worst food, one hill you'd die on. Small and specific counts.","size":66},
+ {"kind":"single","label":"STEP 2","head":"Try one thing you'd normally skip","img":15,"sub":"A class, a new genre, a solo trip. Reactions are where opinions come from.","size":60},
+ {"kind":"split","head":"She asks what you're into","ltag":"NO IDENTITY","rtag":"KNOWS HIMSELF","l":[159,"\"Uh, I don't know. Whatever really.\""],"r":[87,"\"Old kung fu movies. The worse the dubbing, the better.\""]},
+ {"kind":"end","head":"Be *someone* first","img":33,"size":80}
+]

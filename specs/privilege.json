@@ -1,0 +1,13 @@
+[
+ {"kind":"cover","kicker":"PERSPECTIVE CHECK","title":"Your boring life is *someone's dream*","img":[94,63],"size":86},
+ {"kind":"duo","head":"You complain about","items":[
+   {"n":"Gym","head":"Sore legs","sub":"Someone in a hospital bed would trade anything for them.","img":134},
+   {"n":"Bills","head":"Paying rent again","sub":"It means you have a home and the money to keep it.","img":162}]},
+ {"kind":"duo","head":"You complain about","items":[
+   {"n":"Work","head":"Another workday","sub":"Millions are applying for the job you're sick of.","img":26},
+   {"n":"Food","head":"Meal prep again","sub":"Picking healthy food is a problem of plenty.","img":91}]},
+ {"kind":"single","label":"THE BIG ONE","head":"You can walk, see and think clearly","img":156,"sub":"Most people only notice these the day they lose one.","size":60},
+ {"kind":"single","label":"THE DRILL","head":"Train like it's a privilege","img":70,"fix":true,"badge":"EVERY SESSION","sub":"Before your first set, name one thing your body let you do today.","size":64},
+ {"kind":"statement","pre":"Remember:","text":"Your legs, your eyes and your clear head are *on loan.* Use them hard.","size":72},
+ {"kind":"end","head":"Go use *your body* today","img":7,"size":76}
+]

@@ -1,0 +1,66 @@
+[
+ {
+  "kind": "cover",
+  "kicker": "OUT OF 100 US MEN AGED 18 TO 44",
+  "title": "You're comparing yourself to *1 in 2,300*",
+  "img": [
+   62,
+   95
+  ],
+  "size": 84
+ },
+ {
+  "kind": "single",
+  "label": "HEIGHT",
+  "head": "Only 14 are 6 feet or taller",
+  "img": 7,
+  "sub": "Just 1 of them is 6'3 or taller. Your feed makes it look like half.",
+  "size": 64
+ },
+ {
+  "kind": "single",
+  "label": "ABS",
+  "head": "Only 3 have visible abs",
+  "img": 13,
+  "sub": "Under 15% body fat is rare. Every actor on your screen has it.",
+  "size": 66
+ },
+ {
+  "kind": "single",
+  "label": "PHYSIQUE",
+  "head": "The Marvel body: 1 in 700",
+  "img": 70,
+  "sub": "Lean and jacked at once. One guy in a 30-story office building.",
+  "size": 66
+ },
+ {
+  "kind": "single",
+  "label": "MONEY",
+  "head": "Six figures before 25: 1 in 100",
+  "img": 125,
+  "sub": "Money is a middle-aged man's game. Being behind at 22 is normal.",
+  "size": 62
+ },
+ {
+  "kind": "statement",
+  "pre": "The full package?",
+  "text": "6 foot, six pack, six figures and a model face: *1 in 2,300.*",
+  "size": 72
+ },
+ {
+  "kind": "single",
+  "label": "THE REAL LEVER",
+  "head": "Get lean, add some muscle",
+  "img": 134,
+  "fix": true,
+  "badge": "TOP 5% PHYSIQUE",
+  "sub": "Under 15% body fat with some muscle beats 95% of men. 6 months to 3 years.",
+  "size": 64
+ },
+ {
+  "kind": "end",
+  "head": "Train for the *top 5%*",
+  "img": 167,
+  "size": 76
+ }
+]

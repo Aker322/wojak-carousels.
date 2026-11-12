@@ -1,0 +1,13 @@
+[
+ {"kind":"cover","kicker":"I HATE TO BREAK IT TO YOU","title":"6 boring habits that fix *90%* of your problems","img":[57,156],"size":80},
+ {"kind":"single","label":"HABIT 1","head":"Lift 3 to 4 times a week","img":134,"sub":"45 minutes, compound lifts, add weight when it gets easy. No 2-hour sessions.","size":64},
+ {"kind":"single","label":"HABIT 2","head":"Walk 8,000 to 10,000 steps","img":7,"sub":"Take calls on foot. Walk 10 minutes after every meal. Park far away.","size":62},
+ {"kind":"single","label":"HABIT 3","head":"Get morning sunlight","img":79,"sub":"10 minutes outside within an hour of waking. Before your phone, not after.","size":66},
+ {"kind":"duo","head":"Habits 4 and 5","items":[
+   {"n":"4","head":"Eat mostly real food","sub":"Barcode plus 20 ingredients? That's a sometimes food.","img":91},
+   {"n":"5","head":"Limit alcohol","sub":"Two drinks wreck your sleep, your gym day and your Sunday.","img":123}]},
+ {"kind":"single","label":"HABIT 6","head":"Sleep like it's your job","img":63,"sub":"Same bedtime, dark room, phone charging outside the bedroom. 7 to 9 hours.","size":64},
+ {"kind":"split","head":"Same guy, 90 days later","ltag":"SKIPS THEM","rtag":"DOES THEM","l":[119,"Tired, puffy, shopping for a new supplement"],"r":[70,"Lean, clear-headed, sleeps through the night"]},
+ {"kind":"statement","pre":"The truth:","text":"You don't need a new hack. You need the *boring basics* every single week.","size":70},
+ {"kind":"end","head":"Start with *habit 1* today","img":168,"size":74}
+]
