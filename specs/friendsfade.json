@@ -1,0 +1,12 @@
+[
+ {"kind":"cover","kicker":"WHY MEN END UP ALONE","title":"You don't lose friends. You stop *practicing*","img":[161,155],"size":80},
+ {"kind":"single","label":"AGE 22","level":[1,4],"head":"Friends are automatic","img":15,"sub":"Same dorm, same team, same bar every Friday. Zero effort needed.","size":66},
+ {"kind":"single","label":"AGE 28","level":[2,4],"head":"Career and girlfriend come first","img":162,"sub":"The group chat goes quiet. Nobody plans anything.","size":60},
+ {"kind":"single","label":"AGE 35","level":[3,4],"head":"Kids, mortgage, no time","img":139,"sub":"You see your best friend at weddings. Maybe.","size":64},
+ {"kind":"single","label":"AGE 60","level":[4,4],"head":"300 contacts, 0 close friends","img":118,"sub":"Your wife plans your social life. You call it fine.","size":62},
+ {"kind":"statement","pre":"Arthur Brooks:","text":"Men don't get worse at friendship. They *stop practicing* it.","size":70},
+ {"kind":"duo","head":"How to keep them","items":[
+   {"n":"1","head":"Book a standing night","sub":"First Thursday of the month. Same place. Nobody has to plan.","img":90},
+   {"n":"2","head":"Be the one who texts first","sub":"Send the photo, the meme, the \"you still lifting?\"","img":87}]},
+ {"kind":"end","head":"Text *one friend* tonight","img":33,"size":80}
+]

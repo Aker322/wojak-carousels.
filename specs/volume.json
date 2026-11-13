@@ -1,0 +1,10 @@
+[
+ {"kind":"cover","kicker":"HORMOZI'S RULE","title":"Do so much volume that failing becomes *unreasonable*","img":[89,70],"size":74},
+ {"kind":"split","head":"Job hunting","ltag":"MOST GUYS","rtag":"VOLUME GUY","l":[62,"Sends 10 applications, waits a month"],"r":[93,"Sends 100 in two weeks. Interviews pile up"]},
+ {"kind":"split","head":"Sales","ltag":"MOST GUYS","rtag":"VOLUME GUY","l":[37,"5 cold calls, 5 no's, quits"],"r":[26,"100 calls. The 3 yeses pay his month"]},
+ {"kind":"split","head":"Content","ltag":"MOST GUYS","rtag":"VOLUME GUY","l":[138,"Posts 3 videos, blames the algorithm"],"r":[176,"Posts daily for 6 months, finds what works"]},
+ {"kind":"split","head":"The gym","ltag":"MOST GUYS","rtag":"VOLUME GUY","l":[13,"Trains when he feels like it"],"r":[134,"4 sessions a week, every week, for a year"]},
+ {"kind":"statement","pre":"The math:","text":"If 1 in 20 tries works, 5 tries is bad luck. 100 tries makes success *almost certain* for you.","size":64},
+ {"kind":"single","label":"TODAY","head":"Pick one goal and 10x the reps","img":95,"fix":true,"badge":"10X","sub":"Whatever you did 5 of last week, do 50 this week.","size":64},
+ {"kind":"end","head":"Out-work *the odds*","img":167,"size":82}
+]

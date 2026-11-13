@@ -1,0 +1,11 @@
+[
+ {"kind":"cover","kicker":"SEINFELD'S NUMBER ONE RULE","title":"If you can't control it, *don't think* about it","img":[24,168],"size":78},
+ {"kind":"grid","head":"Out of your hands","cells":[[3,"What people say about you"],[94,"The economy and the news"],[62,"How fast she replies"],[40,"Mistakes you already made"]]},
+ {"kind":"grid","head":"In your hands","cells":[[134,"Your training"],[93,"What you learn"],[63,"How you react"],[125,"Where your money goes"]]},
+ {"kind":"single","label":"STEP 1","head":"Sort the worry in 5 seconds","img":136,"sub":"One question: can I do something about this today? If no, drop it.","size":64},
+ {"kind":"single","label":"STEP 2","head":"If yes, take the smallest action now","img":71,"sub":"Worried about the exam? Open the book. Worried about money? Cancel one subscription.","size":58},
+ {"kind":"single","label":"STEP 3","head":"If no, give it a 10-minute window","img":41,"fix":true,"badge":"8PM","sub":"Write the worry down at 8PM. Read it once. Close the notebook. Done for the day.","size":60},
+ {"kind":"split","head":"Your flight is delayed 3 hours","ltag":"WORRIER","rtag":"STOIC","l":[105,"Yells at the gate agent, ruins the trip"],"r":[87,"Finds a seat, reads 80 pages"]},
+ {"kind":"statement","pre":"Marcus Aurelius, 150 AD:","text":"You have power over your mind, not *outside events.* Realize this and you find strength.","size":72},
+ {"kind":"end","head":"Spend energy on *your next move*","img":33,"size":74}
+]

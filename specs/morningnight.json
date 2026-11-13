@@ -1,0 +1,10 @@
+[
+ {"kind":"cover","kicker":"WHAT'S ACTUALLY BETTER?","title":"Morning vs night *training*","img":[139,134],"size":86},
+ {"kind":"split","head":"Day 1","ltag":"5AM GUY","rtag":"8PM GUY","l":[139,"Stiff, weak, half asleep on his first set"],"r":[132,"Warm, strong, hits a new PR"]},
+ {"kind":"split","head":"Day 7","ltag":"5AM GUY","rtag":"8PM GUY","flip":true,"l":[7,"Up before the alarm, done by 7AM"],"r":[138,"Skipped twice because work ran late"]},
+ {"kind":"split","head":"Day 14","ltag":"5AM GUY","rtag":"8PM GUY","flip":true,"l":[63,"Calm and sharp before breakfast"],"r":[105,"Lifting to burn off a bad day"]},
+ {"kind":"split","head":"Day 30","ltag":"5AM GUY","rtag":"8PM GUY","flip":true,"l":[70,"Zero missed. Nobody books 6AM"],"r":[123,"Missed 9 for dinners and overtime"]},
+ {"kind":"statement","pre":"The truth:","text":"The strength difference is tiny. The *consistency* difference is huge.","size":70},
+ {"kind":"single","label":"THE RULE","head":"Train when nothing can cancel it","img":95,"fix":true,"badge":"PICK ONE","sub":"For most guys that's before work. If your nights are truly free, own your nights.","size":62},
+ {"kind":"end","head":"Pick your *slot* and protect it","img":168,"size":76}
+]
