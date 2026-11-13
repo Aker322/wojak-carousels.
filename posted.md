@@ -64,3 +64,7 @@ Never repeat an exact topic below. Similar themes with a new angle are fine.
 - 6 boring habits that fix 90% of your problems (lift, steps, sunlight, real food, less alcohol, sleep) (2026-11-13 12:00 carousel)
 - Nothing to say? You don't know yourself yet (write 10 opinions, try new things) (2026-11-13 17:00 Reel)
 - Your boring life is someone's dream (sore legs, rent, workday as privileges) (2026-11-13 22:00 Reel)
+- Morning vs night training (Day 1 to Day 30; train when nothing can cancel it) (2026-11-14 07:00 Reel)
+- If you can't control it, don't think about it (Seinfeld via Marcus Aurelius; 3-step worry sort) (2026-11-14 12:00 carousel)
+- Do so much volume that failing becomes unreasonable (Hormozi; jobs, sales, content, gym) (2026-11-14 17:00 Reel)
+- You don't lose friends, you stop practicing (age 22 to 60; standing night, text first) (2026-11-14 22:00 Reel)
