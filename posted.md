@@ -68,3 +68,7 @@ Never repeat an exact topic below. Similar themes with a new angle are fine.
 - If you can't control it, don't think about it (Seinfeld via Marcus Aurelius; 3-step worry sort) (2026-11-14 12:00 carousel)
 - Do so much volume that failing becomes unreasonable (Hormozi; jobs, sales, content, gym) (2026-11-14 17:00 Reel)
 - You don't lose friends, you stop practicing (age 22 to 60; standing night, text first) (2026-11-14 22:00 Reel)
+- What's quietly killing your testosterone (5-hour nights study, belly fat loop, drains vs builds) (2026-11-15 07:00 Reel)
+- 5 exercises every man should master (squat, deadlift, push-up, pull-up, farmer carry) (2026-11-15 12:00 carousel)
+- Intimidation only works if you adjust for it (ask what he means, wait 3 seconds, stop auditioning) (2026-11-15 17:00 Reel)
+- Two skills that pay for life (talking to strangers, speaking to a room; drills) (2026-11-15 22:00 Reel)
