@@ -1,0 +1,13 @@
+[
+ {"kind":"cover","kicker":"2 SKILLS THAT PAY FOR LIFE","title":"Learn these and *everything* gets easier","img":[98,87],"size":76},
+ {"kind":"single","label":"SKILL 1","head":"Talk to strangers","img":7,"sub":"Barista, gym guy, the person next to you in line. One comment about something you both see.","size":72},
+ {"kind":"duo","head":"Stranger drills","items":[
+   {"n":"1","head":"Ask one question a day","sub":"\"Is that book any good?\" Then actually listen.","img":93},
+   {"n":"2","head":"Give one compliment","sub":"On a choice, not looks: \"Sick jacket, where'd you get it?\"","img":85}]},
+ {"kind":"single","label":"SKILL 2","head":"Speak in front of a room","img":26,"sub":"Meetings, toasts, presentations. The guy who speaks up gets remembered.","size":66},
+ {"kind":"duo","head":"Crowd drills","items":[
+   {"n":"1","head":"Speak in the first 5 minutes","sub":"Say one thing in every meeting before the nerves build up.","img":84},
+   {"n":"2","head":"Record a 60-second talk","sub":"Phone on the shelf, pick a topic, watch it back once.","img":71}]},
+ {"kind":"statement","pre":"Same root:","text":"Both come down to *caring less* what people think of you.","size":74},
+ {"kind":"end","head":"Say hi to *one stranger* tomorrow","img":155,"size":74}
+]

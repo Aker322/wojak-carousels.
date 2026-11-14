@@ -1,0 +1,8 @@
+[
+ {"kind":"cover","kicker":"HOW YOUR HABITS HIT YOUR HORMONES","title":"What's quietly *killing* your testosterone","img":[152,70],"size":76},
+ {"kind":"grid","head":"Drains it","cells":[[119,"Belly fat"],[139,"Sleeping 5 hours"],[105,"Stress all day"],[154,"Sitting 10 hours"]]},
+ {"kind":"single","label":"THE STUDY","head":"One week of 5-hour nights","img":37,"stamp":"STOP","sub":"Young men lost 10 to 15% of their testosterone. Like aging 10 to 15 years.","size":62},
+ {"kind":"single","label":"THE LOOP","head":"Fat turns testosterone into estrogen","img":13,"sub":"More belly, less T, more belly. Break the loop first.","size":58},
+ {"kind":"grid","head":"Builds it","cells":[[134,"Heavy squats and deadlifts"],[63,"8 hours in a dark room"],[156,"A daily walk outside"],[95,"Losing the extra belly"]]},
+ {"kind":"end","head":"Fix *sleep* first","img":168,"size":84}
+]

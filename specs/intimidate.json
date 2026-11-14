@@ -1,0 +1,9 @@
+[
+ {"kind":"cover","kicker":"3 WAYS TO BE HARD TO INTIMIDATE","title":"Intimidation only works if you *adjust* for it","img":[37,33],"size":74},
+ {"kind":"single","label":"WAY 1","head":"Ask: \"What do you mean by that?\"","img":176,"sub":"Loaded comment? Don't laugh it off. If it was innocent, fine. If not, now he has to own it.","size":58},
+ {"kind":"split","head":"Someone catches you off guard","ltag":"NERVOUS","rtag":"UNBOTHERED","l":[128,"Answers instantly, talks too fast"],"r":[41,"Looks at him, waits 3 seconds, then answers"]},
+ {"kind":"single","label":"WAY 2","head":"Let them wait for your answer","img":136,"sub":"Silence feels long to you. To everyone else it looks like control.","size":62},
+ {"kind":"single","label":"WAY 3","head":"Stop auditioning for cold people","img":164,"fix":true,"badge":"NO","sub":"Some people give zero warmth and watch you work harder. Stop performing.","size":60},
+ {"kind":"statement","pre":"Remember:","text":"Nobody can make you *feel small* unless you shrink first.","size":74},
+ {"kind":"end","head":"Stay *the same guy* in every room","img":70,"size":72}
+]

@@ -1,0 +1,11 @@
+[
+ {"kind":"cover","kicker":"THE ONLY GYM PLAN YOU NEED","title":"5 exercises every man should *master*","img":[13,134],"size":80},
+ {"kind":"single","label":"1. SQUAT","level":[1,5],"head":"Squat","img":132,"sub":"Legs, core and posture. Start with bodyweight, 3 sets of 10, hips below the knees.","size":76},
+ {"kind":"single","label":"2. DEADLIFT","level":[2,5],"head":"Deadlift","img":91,"sub":"Teaches you to lift off the floor without hurting your back. Hinge at the hips, flat back.","size":76},
+ {"kind":"single","label":"3. PUSH-UP","level":[3,5],"head":"Push-up","img":156,"sub":"3 sets close to failure. When 20 gets easy, wear a backpack full of books.","size":76},
+ {"kind":"single","label":"4. PULL-UP","level":[4,5],"head":"Pull-up","img":95,"sub":"Can't do one? Hang for 30 seconds, then lower yourself slowly for 5 seconds.","size":76},
+ {"kind":"single","label":"5. FARMER CARRY","level":[5,5],"head":"Farmer carry","img":170,"sub":"Grab the heaviest dumbbells you can hold and walk 40 meters. Grip, traps, core.","size":72},
+ {"kind":"split","head":"Your week","ltag":"MOST GUYS","rtag":"THIS PLAN","l":[12,"Chest day, arm day, skips legs"],"r":[70,"All 5 lifts, 3 days a week, 45 minutes"]},
+ {"kind":"statement","pre":"The rule:","text":"Add one rep or a little weight *every week.* That's the whole secret.","size":70},
+ {"kind":"end","head":"Master *the basics*","img":168,"size":84}
+]
