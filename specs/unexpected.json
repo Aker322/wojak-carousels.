@@ -1,0 +1,11 @@
+[
+ {"kind":"cover","kicker":"HOW DOPAMINE ACTUALLY WORKS","title":"Your life feels flat because it's *predictable*","img":[162,15],"size":70},
+ {"kind":"statement","pre":"The science:","text":"Dopamine spikes hardest when a reward is *unexpected,* not guaranteed.","size":66},
+ {"kind":"split","head":"Your Saturday","ltag":"SAFE","rtag":"UNCERTAIN","l":[89,"Same bar, same 3 guys, same talk"],"r":[7,"A class where you know nobody"]},
+ {"kind":"split","head":"Where you get surprise","ltag":"FAKE","rtag":"REAL","l":[3,"The next swipe"],"r":[95,"A new trail, a new city, a new skill"]},
+ {"kind":"duo","head":"Add uncertainty this week","items":[
+   {"n":"1","head":"Say yes to one invite","sub":"Even the one you'd normally skip.","img":155},
+   {"n":"2","head":"Start something you might fail","sub":"A tryout, a pitch, a first lesson.","img":170}]},
+ {"kind":"statement","pre":"The truth:","text":"Playing it safe feels comfortable. It never feels *exciting.*","size":68},
+ {"kind":"end","head":"Take *one risk* this week","img":168,"size":78}
+]

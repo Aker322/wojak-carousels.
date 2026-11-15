@@ -1,0 +1,9 @@
+[
+ {"kind":"cover","kicker":"IT'S NOT A TIME PROBLEM","title":"Why you really *procrastinate*","img":[24,33],"size":80},
+ {"kind":"statement","pre":"The research:","text":"Procrastination is *mood repair.* You dodge the bad feeling, not the task.","size":64},
+ {"kind":"grid","head":"What you're really avoiding","cells":[[62,"Feeling stupid"],[37,"Being judged"],[139,"Being bored"],[105,"Not knowing where to start"]]},
+ {"kind":"single","label":"FIX 1","head":"Shrink the first step","img":71,"sub":"Not \"write the report.\" Open the doc and write one ugly sentence.","size":66},
+ {"kind":"single","label":"FIX 2","head":"Set a 10-minute timer","img":93,"fix":true,"badge":"10 MIN","sub":"You're allowed to quit when it rings. You almost never will.","size":64},
+ {"kind":"single","label":"FIX 3","head":"Forgive yesterday's delay","img":63,"sub":"Students who forgave themselves for stalling procrastinated less on the next exam.","size":60},
+ {"kind":"end","head":"Start *ugly* today","img":134,"size":84}
+]

@@ -1,0 +1,11 @@
+[
+ {"kind":"cover","kicker":"YOUR CRAVINGS ARE NOT ADVICE","title":"Stop *listening* to your body","img":[12,95],"size":84},
+ {"kind":"statement","pre":"The problem:","text":"Your body wants *the easy dopamine.* Sugar, scrolling, sleeping in.","size":66},
+ {"kind":"split","head":"Tired at 3PM","ltag":"YOUR BODY SAYS","rtag":"DO THIS","l":[139,"Energy drink and a candy bar"],"r":[156,"10-minute walk outside"]},
+ {"kind":"split","head":"The alarm goes off","ltag":"YOUR BODY SAYS","rtag":"DO THIS","l":[138,"Hit snooze 4 times"],"r":[7,"Feet on the floor, lights on"]},
+ {"kind":"split","head":"A task feels hard","ltag":"YOUR BODY SAYS","rtag":"DO THIS","l":[154,"Open TikTok for one minute"],"r":[93,"Work 5 minutes, then decide"]},
+ {"kind":"split","head":"Stressed at 11PM","ltag":"YOUR BODY SAYS","rtag":"DO THIS","l":[119,"Raid the fridge"],"r":[63,"Hot shower, then bed"]},
+ {"kind":"single","label":"WHEN TO LISTEN","head":"Sharp pain, injury, real hunger","img":136,"fix":true,"badge":"LISTEN","sub":"Pain means stop. A craving just means you're bored.","size":58},
+ {"kind":"statement","pre":"The rule:","text":"Treat cravings like a toddler. Hear it, then *decide for it.*","size":66},
+ {"kind":"end","head":"You're the *adult* here","img":170,"size":80}
+]

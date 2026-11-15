@@ -1,0 +1,13 @@
+[
+ {"kind":"cover","kicker":"10 MINUTES BEFORE YOUR PHONE","title":"Earn your *screen time*","img":[3,134],"size":86},
+ {"kind":"split","head":"First 10 minutes awake","ltag":"MOST GUYS","rtag":"EARN IT","l":[139,"Scrolls in bed, wakes up already tired"],"r":[132,"Phone stays across the room"]},
+ {"kind":"duo","head":"The 10-minute circuit","items":[
+   {"n":"1","head":"20 squats","sub":"Wakes up your legs and your heart.","img":156},
+   {"n":"2","head":"10 push-ups","sub":"Knees down is fine. Just move.","img":70}]},
+ {"kind":"duo","head":"Then finish it","items":[
+   {"n":"3","head":"30-second plank","sub":"Repeat all 3 moves 3 times.","img":95},
+   {"n":"4","head":"A big glass of water","sub":"Now you can open the phone.","img":63}]},
+ {"kind":"single","label":"WHY IT WORKS","head":"Effort first, reward second","img":176,"sub":"Your brain learns the phone is a reward, not a reflex.","size":62},
+ {"kind":"statement","pre":"The rule:","text":"No *reps,* no reels.","size":90},
+ {"kind":"end","head":"Do the *circuit* tomorrow","img":168,"size":78}
+]
