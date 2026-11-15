@@ -72,3 +72,7 @@ Never repeat an exact topic below. Similar themes with a new angle are fine.
 - 5 exercises every man should master (squat, deadlift, push-up, pull-up, farmer carry) (2026-11-15 12:00 carousel)
 - Intimidation only works if you adjust for it (ask what he means, wait 3 seconds, stop auditioning) (2026-11-15 17:00 Reel)
 - Two skills that pay for life (talking to strangers, speaking to a room; drills) (2026-11-15 22:00 Reel)
+- Earn your screen time (10-minute circuit before the phone; no reps, no reels) (2026-11-16 07:00 Reel)
+- Stop listening to your body (cravings are not advice; your body says vs do this) (2026-11-16 12:00 carousel)
+- Why you really procrastinate (mood repair; shrink the step, 10-minute timer, forgive the delay) (2026-11-16 17:00 Reel)
+- Your life feels flat because it's predictable (dopamine loves the unexpected; add uncertainty) (2026-11-16 22:00 Reel)
