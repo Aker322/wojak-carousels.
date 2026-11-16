@@ -1,0 +1,9 @@
+[
+ {"kind":"cover","kicker":"DECIDE ON A GOOD DAY","title":"Run your life on *if-then* rules","img":[57,95],"size":84},
+ {"kind":"split","head":"Negative thoughts on loop","ltag":"IF THIS HITS","rtag":"THEN DO THIS","l":[24,"Your head won't stop replaying it"],"r":[156,"Long walk, no headphones"]},
+ {"kind":"split","head":"Low energy","ltag":"IF THIS HITS","rtag":"THEN DO THIS","l":[139,"You feel flat at 4PM"],"r":[134,"Go lift, even 20 minutes"]},
+ {"kind":"split","head":"Zero inspiration","ltag":"IF THIS HITS","rtag":"THEN DO THIS","l":[138,"Nothing feels worth doing"],"r":[93,"Read 10 pages about someone great"]},
+ {"kind":"split","head":"Feeling disconnected","ltag":"IF THIS HITS","rtag":"THEN DO THIS","l":[118,"Alone after a long week"],"r":[155,"Text one friend to grab food"]},
+ {"kind":"statement","pre":"The rule:","text":"Decide your if-thens on a good day, so a bad day *doesn't have to.*","size":70},
+ {"kind":"end","head":"Write your *4 rules* tonight","img":168,"size":80}
+]

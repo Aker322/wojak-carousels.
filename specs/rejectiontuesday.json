@@ -1,0 +1,10 @@
+[
+ {"kind":"cover","kicker":"THE COLLEGE RITUAL THAT GOT GUYS MARRIED","title":"Try to get *rejected* every Tuesday","img":[118,70],"size":80},
+ {"kind":"statement","pre":"The story:","text":"A group of college friends made a rule: get turned down once a week. *Then they all got married.*","size":64},
+ {"kind":"single","label":"WEEK 1","level":[1,4],"head":"Ask for 10% off your coffee","img":7,"sub":"Worst case: they say no and you still get coffee.","size":62},
+ {"kind":"single","label":"WEEK 2","level":[2,4],"head":"Ask to skip the line","img":89,"sub":"Ask the person in front of you. Expect a no.","size":66},
+ {"kind":"single","label":"WEEK 3","level":[3,4],"head":"Ask your boss for the big project","img":26,"sub":"A no costs you nothing you had.","size":62},
+ {"kind":"single","label":"WEEK 4","level":[4,4],"head":"Ask her out, in person","img":176,"sub":"You've already survived 3 weeks of no's.","size":66},
+ {"kind":"statement","pre":"Why it works:","text":"Every no makes the next ask *cheaper.*","size":84},
+ {"kind":"end","head":"Collect *one no* this week","img":87,"size":80}
+]

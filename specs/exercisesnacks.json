@@ -1,0 +1,11 @@
+[
+ {"kind":"cover","kicker":"NO TIME FOR THE GYM?","title":"Try *exercise snacks*","img":[13,132],"size":92},
+ {"kind":"statement","pre":"The study:","text":"25,000 people who never worked out. 3 bursts of hard movement a day, 1 to 2 minutes each: up to *40% lower death risk.*","size":58},
+ {"kind":"split","head":"8.5 hours sitting: better blood sugar?","ltag":"LOST","rtag":"WON","l":[162,"One 30-minute walk"],"r":[134,"10 squats every 45 minutes"]},
+ {"kind":"grid","head":"Tag them to daily habits","cells":[[91,"While dinner cooks"],[156,"After every meal"],[93,"Every bathroom break"],[7,"Waiting at the gate"]]},
+ {"kind":"duo","head":"Pick your snack","items":[
+   {"n":"1","head":"Stairs at full speed","sub":"2 flights, no stopping.","img":95},
+   {"n":"2","head":"Jump squats for 60 seconds","sub":"As many as you can. Then sit back down.","img":170}]},
+ {"kind":"statement","pre":"The rule:","text":"Never sit longer than *45 minutes* without one.","size":80},
+ {"kind":"end","head":"Do your *first set* now","img":63,"size":80}
+]

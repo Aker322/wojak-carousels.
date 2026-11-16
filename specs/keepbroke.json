@@ -1,0 +1,13 @@
+[
+ {"kind":"cover","kicker":"BAD MONEY HABITS ARE CONTAGIOUS","title":"7 people who keep you *broke*","img":[12,125],"size":92},
+ {"kind":"single","label":"NUMBER 1","head":"The \"you deserve it\" friend","img":128,"stamp":"STOP","sub":"Shows up every time you're about to buy something you don't need.","size":64},
+ {"kind":"single","label":"NUMBER 2","head":"The \"a job is enough\" guy","img":162,"sub":"Never asks what happens if that paycheck stops tomorrow.","size":64},
+ {"kind":"duo","head":"3 and 4","items":[
+   {"n":"3","head":"The raise splitter","sub":"Wants every raise spent on a nicer life before you invest a cent.","img":85},
+   {"n":"4","head":"The trend expert","sub":"Knows every new restaurant. Knows nothing about taxes or assets.","img":164}]},
+ {"kind":"single","label":"NUMBER 5","head":"The \"it's a scam\" guy","img":123,"sub":"Calls everything too risky because he never learned how it works.","size":64},
+ {"kind":"split","head":"6: The friend who makes no feel cheap","ltag":"HE SAYS","rtag":"YOU SAY","l":[105,"Come on, don't be cheap"],"r":[33,"I'm good. Let's do a cheap one Sunday."]},
+ {"kind":"single","label":"NUMBER 7","head":"5 years of complaining, zero changes","img":94,"stamp":"STOP","sub":"No new skill, no raise, no new habit. Same story every month.","size":60},
+ {"kind":"statement","pre":"The truth:","text":"Be careful who makes your bad money decisions *feel normal.*","size":76},
+ {"kind":"end","head":"Your circle is your *budget*","img":76,"size":80}
+]
