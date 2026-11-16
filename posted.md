@@ -76,3 +76,7 @@ Never repeat an exact topic below. Similar themes with a new angle are fine.
 - Stop listening to your body (cravings are not advice; your body says vs do this) (2026-11-16 12:00 carousel)
 - Why you really procrastinate (mood repair; shrink the step, 10-minute timer, forgive the delay) (2026-11-16 17:00 Reel)
 - Your life feels flat because it's predictable (dopamine loves the unexpected; add uncertainty) (2026-11-16 22:00 Reel)
+- Run your life on if-then rules (negative thoughts: walk; low energy: lift; uninspired: read; disconnected: text a friend) (2026-11-17 07:00 Reel)
+- 7 people who keep you broke ("you deserve it" friend, job-is-enough guy, raise splitter, trend expert, "it's a scam" guy) (2026-11-17 12:00 carousel)
+- Rejection Tuesdays (get turned down once a week; 4-week ask ladder from coffee discount to asking her out) (2026-11-17 17:00 Reel)
+- Exercise snacks (3 one-to-two-minute bursts a day, up to 40% lower death risk; 10 squats every 45 minutes) (2026-11-17 22:00 Reel)
