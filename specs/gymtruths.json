@@ -1,0 +1,14 @@
+[
+ {"kind":"cover","kicker":"SAVE YOURSELF YEARS IN THE GYM","title":"6 gym truths nobody tells *beginners*","img":[13,70],"size":84},
+ {"kind":"duo","head":"Recovery and food","items":[
+   {"n":"1","head":"Sleep is the strongest PED","sub":"Under 7 hours and your lifts stall on any program.","img":63},
+   {"n":"2","head":"80% of your body is diet","sub":"You can't out-train a nightly delivery order.","img":12}]},
+ {"kind":"duo","head":"Training","items":[
+   {"n":"3","head":"Intensity beats volume","sub":"1 or 2 sets close to failure beat 5 easy ones.","img":134},
+   {"n":"4","head":"Track every lift","sub":"If the numbers don't go up, neither does your muscle.","img":71}]},
+ {"kind":"duo","head":"Myths","items":[
+   {"n":"5","head":"Getting toned isn't real","sub":"Light weight for 30 reps just tires you out. Stay at 5 to 15.","img":128},
+   {"n":"6","head":"Soreness isn't progress","sub":"More weight in your log is progress.","img":132}]},
+ {"kind":"statement","pre":"The good news:","text":"Two hard workouts a week is enough to *make real progress.*","size":72},
+ {"kind":"end","head":"Log your *next workout*","img":95,"size":80}
+]

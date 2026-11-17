@@ -1,0 +1,13 @@
+[
+ {"kind":"cover","kicker":"MOST GUYS GET THIS BACKWARDS","title":"Where your *money and time* should go","img":[12,125],"size":84},
+ {"kind":"statement","pre":"The problem:","text":"Most men spend money on dopamine and time on things they *won't remember.*","size":68},
+ {"kind":"grid","head":"Spend your money on","cells":[[134,"Protein"],[70,"A gym membership"],[87,"Dental work"],[156,"Good shoes"]]},
+ {"kind":"single","label":"MONEY","head":"Skills that pay forever","img":93,"fix":true,"badge":"BEST BUY","sub":"A course, a coach, a certification. Paid once, earns for decades.","size":66},
+ {"kind":"grid","head":"Spend your time on","cells":[[7,"Walking"],[63,"Sleeping"],[71,"Reading"],[132,"Lifting"]]},
+ {"kind":"duo","head":"More time well spent","items":[
+   {"n":"5","head":"Calling your parents","sub":"10 minutes every Sunday. Nobody gets unlimited calls.","img":168},
+   {"n":"6","head":"Building something","sub":"A business, a garage project, a channel. Anything you own.","img":91}]},
+ {"kind":"single","label":"TIME","head":"Being with people you love","img":155,"sub":"Nobody at 80 wishes they had scrolled more.","size":66},
+ {"kind":"split","head":"Where it actually goes","ltag":"MOST MEN","rtag":"YOU","l":[154,"Takeout, vapes, 5 hours of scrolling"],"r":[26,"Protein, skills, a walk with a friend"]},
+ {"kind":"end","head":"Audit your *last 7 days*","img":33,"size":80}
+]

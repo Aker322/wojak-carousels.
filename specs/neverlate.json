@@ -1,0 +1,9 @@
+[
+ {"kind":"cover","kicker":"THINK YOU'RE TOO OLD TO START LIFTING?","title":"90-year-olds got *174% stronger*","img":[118,168],"size":84},
+ {"kind":"statement","pre":"The study:","text":"10 nursing home residents, average age 90. Heavy leg training 3 times a week for *8 weeks.*","size":62},
+ {"kind":"grid","head":"What changed in 8 weeks","cells":[[70,"+174% leg strength"],[134,"+9% thigh muscle"],[156,"+48% walking speed"],[87,"2 stopped using a cane"]]},
+ {"kind":"single","label":"WHY IT MATTERS","head":"10 days in bed cost a 67-year-old 1 kg of leg muscle","img":139,"sub":"Young adults took 28 days to lose that much. Muscle is your reserve.","size":56},
+ {"kind":"single","label":"THE MINIMUM","head":"Lift 2 days a week, at any age","img":95,"fix":true,"badge":"WHO GUIDELINE","sub":"Legs first: squats to a chair, step-ups, leg press.","size":64},
+ {"kind":"statement","pre":"So:","text":"You're 25 and think it's too late? *They were 90.*","size":80},
+ {"kind":"end","head":"Train your *legs* today","img":33,"size":80}
+]
