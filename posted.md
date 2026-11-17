@@ -80,3 +80,7 @@ Never repeat an exact topic below. Similar themes with a new angle are fine.
 - 7 people who keep you broke ("you deserve it" friend, job-is-enough guy, raise splitter, trend expert, "it's a scam" guy) (2026-11-17 12:00 carousel)
 - Rejection Tuesdays (get turned down once a week; 4-week ask ladder from coffee discount to asking her out) (2026-11-17 17:00 Reel)
 - Exercise snacks (3 one-to-two-minute bursts a day, up to 40% lower death risk; 10 squats every 45 minutes) (2026-11-17 22:00 Reel)
+- 90-year-olds got 174% stronger (never too old to lift; 8 weeks of leg training, 2 lifts a week minimum) (2026-11-18 07:00 Reel)
+- Where your money and time should go (money: protein, gym, dental, shoes, skills; time: walk, sleep, read, lift, parents, build) (2026-11-18 12:00 carousel)
+- 6 gym truths nobody tells beginners (sleep is a PED, 80% diet, intensity, track lifts, no toning, soreness isn't progress) (2026-11-18 17:00 Reel)
+- 4 gaps that quietly end relationships (sleep, money, gym, drinking; ask on date 3, not year 3) (2026-11-18 22:00 Reel)
