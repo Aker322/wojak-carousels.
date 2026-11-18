@@ -1,0 +1,11 @@
+[
+ {"kind":"cover","kicker":"IT NEVER LIES","title":"Your body is a public resume of your *private habits*","img":[13,70],"size":76},
+ {"kind":"single","label":"YOUR WAIST","head":"Shows what you eat after 9PM","img":119,"sub":"The midnight fridge trips end up on your belt.","size":62},
+ {"kind":"single","label":"YOUR EYES","head":"Show how many hours you sleep","img":139,"sub":"Eye bags are a sleep log you can't delete.","size":62},
+ {"kind":"single","label":"YOUR POSTURE","head":"Shows your screen time","img":154,"sub":"5 hours a day hunched over a screen rounds your shoulders.","size":64},
+ {"kind":"single","label":"YOUR ARMS","head":"Show if you train without motivation","img":134,"fix":true,"badge":"SHOWED UP","sub":"Muscle is built on the Tuesdays you didn't feel like it.","size":58},
+ {"kind":"split","head":"Same 12 months","ltag":"BROKEN PROMISES","rtag":"KEPT PROMISES","l":[12,"\"I'll start Monday\" 40 times"],"r":[132,"3 workouts a week, 150 sessions"]},
+ {"kind":"grid","head":"The habit follows you into","cells":[[76,"Your work"],[125,"Your money"],[155,"Your friendships"],[93,"Your goals"]]},
+ {"kind":"statement","pre":"The point:","text":"Your physique isn't your worth. It's *proof you keep promises* to yourself.","size":66},
+ {"kind":"end","head":"Build the *evidence*","img":95,"size":80}
+]

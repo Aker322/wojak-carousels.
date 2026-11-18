@@ -1,0 +1,13 @@
+[
+ {"kind":"cover","kicker":"NEVER RUN OUT OF THINGS TO SAY","title":"4 ways to keep a conversation *going*","img":[62,87],"size":84},
+ {"kind":"statement","pre":"Most guys:","text":"She tells you a story. You say \"oh nice.\" *Conversation over.*","size":72},
+ {"kind":"duo","head":"Go deeper","items":[
+   {"n":"1","head":"Ask how they felt","sub":"\"How did you feel about that?\" beats \"oh nice.\"","img":136},
+   {"n":"2","head":"Ask how it started","sub":"\"How did you get into that?\" There's always a story.","img":176}]},
+ {"kind":"duo","head":"Keep them talking","items":[
+   {"n":"3","head":"Repeat their last words","sub":"\"Problems with your sister?\" They'll explain on their own.","img":41},
+   {"n":"4","head":"Ask what happened next","sub":"\"Then what?\" Shows you actually want the rest.","img":33}]},
+ {"kind":"split","head":"Same story, two replies","ltag":"DRY","rtag":"TRY THIS","l":[3,"\"Oh nice.\""],"r":[155,"\"Wait, how did you get into that?\""]},
+ {"kind":"statement","pre":"The secret:","text":"You don't need better stories. You need *better follow-ups.*","size":76},
+ {"kind":"end","head":"Ask one *follow-up* today","img":26,"size":78}
+]

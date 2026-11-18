@@ -1,0 +1,10 @@
+[
+ {"kind":"cover","kicker":"THE ONLY MINDSET THAT MATTERS","title":"Whatever happens, I'll *figure it out*","img":[37,170],"size":84},
+ {"kind":"single","label":"SHE LEFT","head":"You face the breakup","img":32,"level":[1,4],"sub":"Delete the photos, call a friend, book the gym for 6AM.","size":66},
+ {"kind":"single","label":"FIRED","head":"You lose the job","img":162,"level":[2,4],"sub":"10 applications a day until someone says yes.","size":66},
+ {"kind":"single","label":"OUT OF SHAPE","head":"You lose the physique","img":13,"level":[3,4],"sub":"Muscle memory is real. Week 1 back is the hardest one.","size":66},
+ {"kind":"single","label":"IT FAILED","head":"The business goes under","img":94,"level":[4,4],"sub":"Now you know 100 things not to do next time.","size":66},
+ {"kind":"statement","pre":"Remember:","text":"You can lose everything and still *find a way to win.*","size":78},
+ {"kind":"single","label":"A REAL MAN","head":"Rebuilds from nothing","img":91,"fix":true,"badge":"REBUILT","sub":"Every man you admire has started over at least once.","size":66},
+ {"kind":"end","head":"You'll *figure it out*","img":95,"size":80}
+]

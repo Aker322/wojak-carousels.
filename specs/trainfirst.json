@@ -1,0 +1,10 @@
+[
+ {"kind":"cover","kicker":"HOW NAVY SEALS START EVERY DAY","title":"Train before your day *starts*","img":[139,170],"size":84},
+ {"kind":"single","label":"BOOT CAMP","head":"Wake up, work out, then eat","img":134,"sub":"Every recruit's day starts the same way. Nobody asks how they feel.","size":64},
+ {"kind":"single","label":"SEAL TEAM","head":"Still fitness first, every morning","img":70,"sub":"Years later the order is the same. It works, so they never break it.","size":60},
+ {"kind":"single","label":"AFTER THEY LEAVE","head":"They skip it, gain weight, start drinking","img":13,"stamp":"STOP","sub":"The habit dies the day nobody forces it.","size":58},
+ {"kind":"split","head":"The excuse vs the truth","ltag":"EXCUSE","rtag":"TRUTH","l":[123,"No reason to be in shape anymore"],"r":[168,"Your kids need you strong at 70"]},
+ {"kind":"statement","pre":"DJ Shipley:","text":"You want to live long for your kids, but you won't *lose 40 lbs* for them?","size":66},
+ {"kind":"single","label":"TOMORROW","head":"20 minutes before your phone","img":156,"fix":true,"badge":"FIRST THING","sub":"Push-ups, a run or a kettlebell. Train, then eat, then check messages.","size":62},
+ {"kind":"end","head":"Train *before* breakfast","img":95,"size":80}
+]
