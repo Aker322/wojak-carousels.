@@ -84,3 +84,7 @@ Never repeat an exact topic below. Similar themes with a new angle are fine.
 - Where your money and time should go (money: protein, gym, dental, shoes, skills; time: walk, sleep, read, lift, parents, build) (2026-11-18 12:00 carousel)
 - 6 gym truths nobody tells beginners (sleep is a PED, 80% diet, intensity, track lifts, no toning, soreness isn't progress) (2026-11-18 17:00 Reel)
 - 4 gaps that quietly end relationships (sleep, money, gym, drinking; ask on date 3, not year 3) (2026-11-18 22:00 Reel)
+- Train before your day starts (Navy SEAL fitness-first mornings; won't lose 40 lbs for your kids?) (2026-11-19 07:00 Reel)
+- Your body is a public resume of your private habits (waist, eyes, posture, arms; kept vs broken promises) (2026-11-19 12:00 carousel)
+- 4 ways to keep a conversation going (how they felt, how it started, repeat their words, what happened next) (2026-11-19 17:00 Reel)
+- Whatever happens, I'll figure it out (breakup, job loss, lost physique, failed business) (2026-11-19 22:00 Reel)
