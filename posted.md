@@ -88,3 +88,7 @@ Never repeat an exact topic below. Similar themes with a new angle are fine.
 - Your body is a public resume of your private habits (waist, eyes, posture, arms; kept vs broken promises) (2026-11-19 12:00 carousel)
 - 4 ways to keep a conversation going (how they felt, how it started, repeat their words, what happened next) (2026-11-19 17:00 Reel)
 - Whatever happens, I'll figure it out (breakup, job loss, lost physique, failed business) (2026-11-19 22:00 Reel)
+- 8 rules to become unrecognizable in 3 months (stop announcing plans, gym 4x, protein every meal, 10 pages, bed by 10, delete apps, cut friends, save first) (2026-11-20 07:00 Reel)
+- Let your room do the deciding (willpower runs out; gym bag by the door, 2-minute start, treadmill-only podcast, phone across the room, bad habits hard to reach) (2026-11-20 12:00 carousel)
+- 6 things after the gym that kill your gains (ice bath, painkillers for soreness, no lift log, hard run after, 4-hour nights, 12 drinks) (2026-11-20 17:00 Reel)
+- How busy men stay lean (don't negotiate with the calendar, outsleep coworkers, make boring choices permanent) (2026-11-20 22:00 Reel)
