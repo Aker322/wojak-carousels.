@@ -1,0 +1,9 @@
+[
+ {"kind":"cover","kicker":"60-HOUR WEEKS, STILL LEAN","title":"How busy men stay *lean*","img":[162,164],"size":88},
+ {"kind":"single","label":"RULE 1","head":"Don't negotiate with the calendar","img":26,"level":[1,3],"sub":"Gym 6AM. Lights out 9:30PM. Work flexes around them, never the reverse.","size":62},
+ {"kind":"single","label":"RULE 2","head":"Sleep more than your coworkers","img":63,"level":[2,3],"sub":"Recovery, appetite and the 2PM crash all run on sleep.","size":64},
+ {"kind":"single","label":"RULE 3","head":"Make the boring choices permanent","img":91,"level":[3,3],"sub":"Same breakfast. 3 lunches on rotation. Workouts planned a block ahead.","size":62},
+ {"kind":"split","head":"Same job, same hours","ltag":"DECIDES DAILY","rtag":"DECIDED ONCE","l":[139,"\"Gym or sleep in?\" every morning"],"r":[134,"Gym is 6AM. Nothing to debate."]},
+ {"kind":"statement","pre":"The point:","text":"Rigid fitness habits *buy back your freedom* everywhere else.","size":74},
+ {"kind":"end","head":"Lock in *one* time","img":70,"size":80}
+]

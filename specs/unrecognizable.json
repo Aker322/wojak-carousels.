@@ -1,0 +1,17 @@
+[
+ {"kind":"cover","kicker":"3 MONTHS PASS EITHER WAY","title":"8 rules to become *unrecognizable*","img":[89,70],"size":84},
+ {"kind":"duo","head":"Rules 1 and 2","items":[
+   {"n":"1","head":"Stop announcing your plans","sub":"Show the result. Skip the speech.","img":33},
+   {"n":"2","head":"Gym 4 days minimum","sub":"No skipping because work was long.","img":134}]},
+ {"kind":"duo","head":"Rules 3 and 4","items":[
+   {"n":"3","head":"Protein at every meal","sub":"Eggs, chicken, Greek yogurt. Every plate.","img":91},
+   {"n":"4","head":"Read 10 pages a day","sub":"That's 12 books a year.","img":93}]},
+ {"kind":"duo","head":"Rules 5 and 6","items":[
+   {"n":"5","head":"Bed by 10, up by 6","sub":"Same time on weekends too.","img":63},
+   {"n":"6","head":"Delete the apps that eat your day","sub":"Check your screen time. Delete the top 2.","img":176}]},
+ {"kind":"duo","head":"Rules 7 and 8","items":[
+   {"n":"7","head":"Cut off friends keeping you small","sub":"The ones who laugh when you start.","img":161},
+   {"n":"8","head":"Save before you spend","sub":"Move 10% out on payday, first thing.","img":125}]},
+ {"kind":"statement","pre":"The math:","text":"90 days from now you'll be 90 days older. *Be someone new too.*","size":72},
+ {"kind":"end","head":"Start rule 1 *today*","img":95,"size":80}
+]

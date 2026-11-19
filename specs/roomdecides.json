@@ -1,0 +1,11 @@
+[
+ {"kind":"cover","kicker":"WILLPOWER RUNS OUT BY 9PM","title":"Let your room do the *deciding*","img":[119,63],"size":84},
+ {"kind":"single","label":"MAKE IT OBVIOUS","head":"Gym bag by the door","img":134,"fix":true,"badge":"IN SIGHT","sub":"Pack it the night before. Morning you just picks it up.","size":66},
+ {"kind":"single","label":"MAKE IT EASY","head":"Start in under 2 minutes","img":91,"fix":true,"badge":"AUTOMATIC","sub":"Meal prep on your day off. Savings move on payday by themselves.","size":66},
+ {"kind":"single","label":"MAKE IT ATTRACTIVE","head":"Best podcast is treadmill only","img":156,"fix":true,"badge":"PAIRED","sub":"Pair the thing you need with the thing you crave.","size":62},
+ {"kind":"split","head":"Where your phone sleeps","ltag":"NIGHTSTAND","rtag":"ACROSS THE ROOM","l":[139,"Scroll till 1AM, wake up tired"],"r":[41,"You stand up to kill the alarm"]},
+ {"kind":"grid","head":"Make bad habits hard to reach","cells":[[154,"Social apps off page one"],[12,"No junk food at home"],[138,"Controller in a drawer"],[23,"Card not saved in apps"]]},
+ {"kind":"single","label":"NEVER MISS TWICE","head":"Check off habits every night","img":71,"sub":"Missing once is life. Missing twice is a new habit.","size":64},
+ {"kind":"statement","pre":"The truth:","text":"Disciplined guys don't have more willpower. They *need less of it.*","size":70},
+ {"kind":"end","head":"Move one thing *tonight*","sub":"Gym bag by the door. Phone across the room.","img":95,"size":80}
+]

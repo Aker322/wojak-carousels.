@@ -1,0 +1,15 @@
+[
+ {"kind":"cover","kicker":"THE GYM IS ONLY THE SIGNAL","title":"6 things after the gym that *kill your gains*","img":[13,132],"size":76},
+ {"kind":"duo","head":"Recovery mistakes","items":[
+   {"n":"1","head":"Ice bath after lifting","sub":"Cold plunges cut muscle gains in a 12-week study. Shower instead.","img":118},
+   {"n":"2","head":"Pills for normal soreness","sub":"Just sore? Take an easy walk instead.","img":62}]},
+ {"kind":"duo","head":"Training mistakes","items":[
+   {"n":"3","head":"No record of your lifts","sub":"Log every set. Beat last week by 5 lb.","img":24},
+   {"n":"4","head":"Hard run right after","sub":"Easy cardio only. Intervals go 6+ hours later.","img":156}]},
+ {"kind":"duo","head":"Lifestyle mistakes","items":[
+   {"n":"5","head":"4-hour nights","sub":"5 short nights cut muscle building by a fifth.","img":139},
+   {"n":"6","head":"12 drinks after leg day","sub":"Cut muscle building by a quarter, even with protein.","img":123}]},
+ {"kind":"single","label":"THE CHECK","head":"Write down 3 lifts today","img":134,"fix":true,"badge":"LOGGED","sub":"Compare in 6 weeks. If the numbers didn't move, neither did the muscle.","size":64},
+ {"kind":"statement","pre":"Remember:","text":"The pump fades in an hour. *Muscle gets built after you leave.*","size":72},
+ {"kind":"end","head":"Log your *lifts* today","img":95,"size":80}
+]
