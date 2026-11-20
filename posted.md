@@ -92,3 +92,7 @@ Never repeat an exact topic below. Similar themes with a new angle are fine.
 - Let your room do the deciding (willpower runs out; gym bag by the door, 2-minute start, treadmill-only podcast, phone across the room, bad habits hard to reach) (2026-11-20 12:00 carousel)
 - 6 things after the gym that kill your gains (ice bath, painkillers for soreness, no lift log, hard run after, 4-hour nights, 12 drinks) (2026-11-20 17:00 Reel)
 - How busy men stay lean (don't negotiate with the calendar, outsleep coworkers, make boring choices permanent) (2026-11-20 22:00 Reel)
+- Keep your joints young (4 daily habits: stand up off the floor with no hands, 30s dead hang, deep squat hold, one-leg balance while brushing) (2026-11-21 07:00 Reel)
+- 10 unwritten social rules (lend only what you can lose, never co-sign, no income talk at dinner, lead with results, ask in private, pay back favors, never decide angry, kind with a backbone) (2026-11-21 12:00 carousel)
+- Get in shape for a better first impression than 97% of men (calm vs anxious energy; stress burned off before 8AM) (2026-11-21 17:00 Reel)
+- Before you die, actually live (best shape of your life, a race you weren't ready for, dad they brag about, stronger after 40) (2026-11-21 22:00 Reel)
