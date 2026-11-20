@@ -1,0 +1,9 @@
+[
+ {"kind":"cover","kicker":"NOT JUST WORK, BILLS AND THE SAME ROUTINE","title":"Before you die, *actually live*","img":[162,15],"size":82},
+ {"kind":"grid","head":"Do these at least once","cells":[[70,"Best shape of your life"],[132,"A race you weren't ready for"],[95,"Respect the guy in the mirror"],[90,"Strong enough to carry your people"]]},
+ {"kind":"single","label":"GOAL 5","head":"Be the dad they brag about","img":168,"sub":"Kids copy what you do, not what you say.","size":64},
+ {"kind":"single","label":"GOAL 6","head":"Get stronger after 40","img":134,"fix":true,"badge":"STRONGER","sub":"Most men get weaker every year after 40. Go the other way.","size":66},
+ {"kind":"split","head":"40 years from now","ltag":"JUST EXISTED","rtag":"ACTUALLY LIVED","l":[0,"Same couch, same routine, every year"],"r":[79,"Stories, scars and a strong body"]},
+ {"kind":"statement","pre":"Remember:","text":"One day your body won't let you. *Today it still can.*","size":72},
+ {"kind":"end","head":"Pick one *this week*","sub":"Put a date on it.","img":156,"size":80}
+]

@@ -1,0 +1,9 @@
+[
+ {"kind":"cover","kicker":"BETTER FIRST IMPRESSION THAN 97% OF MEN","title":"Just get in *shape*","img":[94,134],"size":90},
+ {"kind":"split","head":"Who you're talking to","ltag":"MOST GUYS","rtag":"GUY WHO TRAINS","l":[24,"Wired from news and scrolling"],"r":[63,"Calm. Nothing to prove today"]},
+ {"kind":"split","head":"Where the stress goes","ltag":"NO OUTLET","rtag":"SPLIT SQUATS","l":[105,"Leaks into every conversation"],"r":[132,"Burned off before 8AM"]},
+ {"kind":"split","head":"After work","ltag":"MOST GUYS","rtag":"GUY WHO TRAINS","l":[154,"Doomscrolls till 1AM"],"r":[91,"Real food, 8 hours of sleep"]},
+ {"kind":"single","label":"THE EFFECT","head":"Calm is attractive","img":33,"fix":true,"badge":"CALM","sub":"People relax around a guy who isn't buzzing with nervous energy.","size":68},
+ {"kind":"statement","pre":"The truth:","text":"It's not the bicep vein. It's that you're *calm and easy to be around.*","size":68},
+ {"kind":"end","head":"Show up for *yourself*","sub":"People notice.","img":70,"size":82}
+]

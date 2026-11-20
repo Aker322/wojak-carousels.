@@ -1,0 +1,18 @@
+[
+ {"kind":"cover","kicker":"NOBODY SAYS THESE OUT LOUD","title":"10 unwritten *social rules*","img":[3,33],"size":88},
+ {"kind":"duo","head":"Money","items":[
+   {"n":"1","head":"Only lend what you can lose","sub":"Not sure you'd be fine if it never comes back? Say no.","img":125},
+   {"n":"2","head":"Never co-sign someone's debt","sub":"Their missed payments become your problem.","img":118}]},
+ {"kind":"duo","head":"At the dinner table","items":[
+   {"n":"3","head":"Don't announce your income","sub":"Or your savings, or plans that haven't happened yet.","img":123},
+   {"n":"4","head":"Don't pry into theirs","sub":"Salary, age, relationship status. Let them offer.","img":136}]},
+ {"kind":"duo","head":"At work","items":[
+   {"n":"5","head":"Lead with results","sub":"Tell your boss what got done first, then the problems.","img":26},
+   {"n":"6","head":"Never trash your boss","sub":"Even your closest coworker can repeat it.","img":162}]},
+ {"kind":"duo","head":"With people","items":[
+   {"n":"7","head":"Ask in private, not the group chat","sub":"Don't put someone on the spot in front of everyone.","img":154},
+   {"n":"8","head":"Pay back every favor","sub":"He bought dinner? The next one is on you.","img":155}]},
+ {"kind":"single","label":"RULE 9","head":"Never decide angry","img":105,"stamp":"STOP","sub":"No quitting, buying or signing anything until you've slept on it.","size":66},
+ {"kind":"statement","pre":"Rule 10:","text":"Be kind, but hold your ground. Kindness *without a backbone* gets used.","size":68},
+ {"kind":"end","head":"Save this *for later*","sub":"Send it to the friend who needs rule 2.","img":84,"size":80}
+]

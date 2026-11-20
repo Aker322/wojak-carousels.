@@ -1,0 +1,10 @@
+[
+ {"kind":"cover","kicker":"FOUR MINUTES A DAY","title":"Keep your joints *young*","img":[13,156],"size":88},
+ {"kind":"single","label":"HABIT 1","head":"Get off the floor with no hands","img":7,"level":[1,4],"sub":"Sit on the floor while you watch TV. Stand up without using your hands.","size":62},
+ {"kind":"single","label":"HABIT 2","head":"Dead hang for 30 seconds","img":132,"level":[2,4],"sub":"Opens tight shoulders and takes load off your spine. Feet on the floor at first is fine.","size":64},
+ {"kind":"single","label":"HABIT 3","head":"Hold a deep squat","img":134,"level":[3,4],"sub":"Hold a doorframe and sit low for a minute. Add slow ankle circles.","size":66},
+ {"kind":"single","label":"HABIT 4","head":"Balance on one foot","img":41,"level":[4,4],"sub":"30 seconds per leg, every time you brush.","size":66},
+ {"kind":"split","head":"Use it or lose it","ltag":"NEVER MOVES","rtag":"MOVES DAILY","l":[139,"Stiff hips and a sore back at 35"],"r":[95,"Still squats deep at 60"]},
+ {"kind":"statement","pre":"The rule:","text":"Your body closes off any range you *stop using.*","size":76},
+ {"kind":"end","head":"Start *tonight*","sub":"30 seconds of each before bed.","img":168,"size":84}
+]
