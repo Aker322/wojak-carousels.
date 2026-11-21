@@ -1,0 +1,14 @@
+[
+ {"kind":"cover","kicker":"NONE OF THEM ARE ABOUT MONEY","title":"10 reasons people *don't respect you*","img":[123,26],"size":84},
+ {"kind":"grid","head":"Reasons 1 to 4","cells":[[94,"Oversharing early"],[128,"Nervous laughing"],[118,"Laughing off insults"],[62,"Sorry for everything"]]},
+ {"kind":"duo","head":"Your word","items":[
+   {"n":"5","head":"Yes to every favor","sub":"If you never say no, your yes is worth nothing.","img":89},
+   {"n":"6","head":"10 minutes late, every time","sub":"Small broken promises say your word is cheap.","img":139}]},
+ {"kind":"duo","head":"Your mouth","items":[
+   {"n":"7","head":"Explaining every decision","sub":"\"I'm not coming.\" Full stop. No 3-paragraph reason.","img":136},
+   {"n":"8","head":"Complaining out loud","sub":"Nobody follows the guy who narrates his bad day.","img":105}]},
+ {"kind":"single","label":"REASON 9","head":"You let your body go","img":13,"sub":"People read your discipline before you say a word.","size":66},
+ {"kind":"split","head":"Reason 10: the group disagrees","ltag":"NO RESPECT","rtag":"RESPECTED","l":[159,"\"Yeah, you're right, I guess.\""],"r":[168,"\"I still think it's a bad deal. Here's why.\""]},
+ {"kind":"statement","pre":"The pattern:","text":"Respect isn't asked for. It's what shows up when *you stop chasing approval.*","size":66},
+ {"kind":"end","head":"Fix *one* this week","sub":"Send it to the friend who says sorry for everything.","img":70,"size":80}
+]

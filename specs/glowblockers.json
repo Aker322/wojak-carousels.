@@ -1,0 +1,10 @@
+[
+ {"kind":"cover","kicker":"IT'S NOT YOUR SKINCARE","title":"5 habits blocking your *glow up*","img":[89,95],"size":86},
+ {"kind":"single","label":"HABIT 1","level":[1,5],"head":"Calling laziness rest","img":139,"sub":"Rest comes after work. A 4-hour nap on a day you did nothing is hiding.","size":64},
+ {"kind":"single","label":"HABIT 2","level":[2,5],"head":"Low-effort friends","img":58,"sub":"If nobody around you trains, saves or builds, you won't either.","size":64},
+ {"kind":"single","label":"HABIT 3","level":[3,5],"head":"No routine","img":24,"sub":"Same wake time, same gym time. Decide once, stop negotiating daily.","size":64},
+ {"kind":"single","label":"HABIT 4","level":[4,5],"head":"Never investing in you","img":118,"sub":"A good haircut, a gym month, one book. Cheaper than one night out.","size":64},
+ {"kind":"single","label":"HABIT 5","level":[5,5],"head":"Fearing what they'll think","img":62,"sub":"Nobody at the gym is watching you. They're checking their own form.","size":64},
+ {"kind":"split","head":"Your Saturday","ltag":"BLOCKED","rtag":"GLOWING","l":[13,"Sleeps till noon, scrolls till dinner"],"r":[132,"Gym at 9, haircut at 11, friends at 7"]},
+ {"kind":"end","head":"Fix *habit 1* first","img":70,"size":80}
+]

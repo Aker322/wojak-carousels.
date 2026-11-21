@@ -1,0 +1,14 @@
+[
+ {"kind":"cover","kicker":"IMPRESSIVE IS THE WRONG GOAL","title":"Nobody claps for these. *Everyone notices* if you can't.","img":[62,70],"size":74},
+ {"kind":"duo","head":"Outdoors","items":[
+   {"n":"1","head":"Light a fire","sub":"No lighter fluid. Dry kindling, small sticks, then logs.","img":91},
+   {"n":"2","head":"Change a flat tire","sub":"Practice once in your driveway before you need it.","img":7}]},
+ {"kind":"duo","head":"At home","items":[
+   {"n":"3","head":"Cook 3 real meals","sub":"Eggs, a steak, one pasta. No delivery app.","img":63},
+   {"n":"4","head":"Fix the small stuff","sub":"Unclog a drain, hang a shelf, reset a breaker.","img":156}]},
+ {"kind":"duo","head":"With people","items":[
+   {"n":"5","head":"Order and pay smoothly","sub":"Know what you want, handle the bill, tip and go.","img":85},
+   {"n":"6","head":"Say no in one sentence","sub":"No speech. No apology tour.","img":33}]},
+ {"kind":"statement","pre":"The rule:","text":"Competence never gets applause. *Its absence* gets noticed in seconds.","size":70},
+ {"kind":"end","head":"Learn *one* this weekend","img":95,"size":78}
+]

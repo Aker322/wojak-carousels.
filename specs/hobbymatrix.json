@@ -1,0 +1,9 @@
+[
+ {"kind":"cover","kicker":"WHERE DOES YOUR WEEKEND GO","title":"The *hobby matrix*","img":[119,125],"size":92},
+ {"kind":"grid","head":"Free + cheap dopamine: rotting","cells":[[3,"Doomscrolling"],[138,"Gaming till 3AM"],[28,"Porn"],[154,"YouTube in bed"]]},
+ {"kind":"grid","head":"Costly + cheap dopamine: wasting","cells":[[58,"Bar hopping"],[12,"Delivery food"],[123,"Sports betting"],[164,"Shopping for fun"]]},
+ {"kind":"grid","head":"Costly + earned: already rich","cells":[[15,"Travel"],[161,"Sailing"],[85,"Golf"],[84,"Skiing"]]},
+ {"kind":"grid","head":"Free + earned: getting rich","cells":[[134,"Lifting"],[93,"Reading"],[156,"Running"],[71,"Writing"]]},
+ {"kind":"statement","pre":"The point:","text":"Every box is fine sometimes. Live in the rotting box and *you pay twice:* money now, health later.","size":62},
+ {"kind":"end","head":"Move *2 hours* to the getting-rich box","img":95,"size":70}
+]
