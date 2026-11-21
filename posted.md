@@ -96,3 +96,7 @@ Never repeat an exact topic below. Similar themes with a new angle are fine.
 - 10 unwritten social rules (lend only what you can lose, never co-sign, no income talk at dinner, lead with results, ask in private, pay back favors, never decide angry, kind with a backbone) (2026-11-21 12:00 carousel)
 - Get in shape for a better first impression than 97% of men (calm vs anxious energy; stress burned off before 8AM) (2026-11-21 17:00 Reel)
 - Before you die, actually live (best shape of your life, a race you weren't ready for, dad they brag about, stronger after 40) (2026-11-21 22:00 Reel)
+- Nobody claps for these, everyone notices if you can't (light a fire, change a tire, cook 3 meals, fix small stuff, order and pay, say no in one sentence) (2026-11-22 07:00 Reel)
+- 10 reasons people don't respect you (oversharing, nervous laughing, laughing off insults, sorry for everything, yes to every favor, always late, over-explaining, complaining, letting your body go, folding to the group) (2026-11-22 12:00 carousel)
+- The hobby matrix (rotting, wasting, already rich, getting rich; cheap vs earned dopamine) (2026-11-22 17:00 Reel)
+- 5 habits blocking your glow up (laziness as rest, low-effort friends, no routine, never investing in you, fearing what they'll think) (2026-11-22 22:00 Reel)
