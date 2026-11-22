@@ -100,3 +100,7 @@ Never repeat an exact topic below. Similar themes with a new angle are fine.
 - 10 reasons people don't respect you (oversharing, nervous laughing, laughing off insults, sorry for everything, yes to every favor, always late, over-explaining, complaining, letting your body go, folding to the group) (2026-11-22 12:00 carousel)
 - The hobby matrix (rotting, wasting, already rich, getting rich; cheap vs earned dopamine) (2026-11-22 17:00 Reel)
 - 5 habits blocking your glow up (laziness as rest, low-effort friends, no routine, never investing in you, fearing what they'll think) (2026-11-22 22:00 Reel)
+- 6 Japanese tests that expose zero discipline (shugyo 100 days, ganbaru, seiza 5 min, hara hachi bu 80% full, shokunin, gaman) (2026-11-23 07:00 Reel)
+- 8 habits that make a man look younger (no smoking, cut sugar and alcohol, lift and sprint, 8k steps, sleep 8h, no caffeine after 2PM, 90% whole food, sunscreen) (2026-11-23 12:00 carousel)
+- 5 silent progress killers (weekend reward meal, Saturday drinks, break room grazing, drive-thru lunch, late-night screen snacking; what is the food for) (2026-11-23 17:00 Reel)
+- Make their joke funnier (yes, and; build on it at your own expense instead of topping it) (2026-11-23 22:00 Reel)
