@@ -1,0 +1,12 @@
+[
+ {"kind":"cover","kicker":"NOT A WILLPOWER PROBLEM","title":"5 silent *progress killers*","img":[119,132],"size":84},
+ {"kind":"duo","head":"Weekend killers","items":[
+   {"n":"1","head":"The weekend reward meal","sub":"Tight all week, then burger, wings, dessert. Week erased.","img":12},
+   {"n":"2","head":"8 to 10 drinks on Saturday","sub":"Wrecks sleep, recovery and Sunday. Cut it in half.","img":123}]},
+ {"kind":"duo","head":"Workday killers","items":[
+   {"n":"3","head":"Break room grazing","sub":"Donuts, cake, the candy bowl. A few hundred calories a day.","img":162},
+   {"n":"4","head":"Drive-thru lunch","sub":"A footlong sub alone can clear 1,000 calories.","img":160}]},
+ {"kind":"single","label":"KILLER 5","head":"Late-night screen snacking","img":154,"stamp":"STOP","sub":"Not hungry, just decompressing. And it costs you sleep.","size":64},
+ {"kind":"statement","pre":"The fix:","text":"Ask what the food is for. *A reward, a release or a break?*","size":72},
+ {"kind":"end","head":"Find your *#1 killer*","sub":"Fix that one first.","img":70,"size":80}
+]

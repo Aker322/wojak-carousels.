@@ -1,0 +1,11 @@
+[
+ {"kind":"cover","kicker":"THE CHARISMA TRICK MOST GUYS MISS","title":"Make their joke *funnier*","img":[62,87],"size":86},
+ {"kind":"split","head":"When a friend makes a joke","ltag":"MOST GUYS","rtag":"CHARISMATIC GUY","l":[25,"Tries to top it with a better one"],"r":[155,"Builds on it, even at his own expense"]},
+ {"kind":"single","label":"STEP 1","head":"Say yes to the joke","img":41,"sub":"Agree with the premise. Don't correct it, don't explain it.","size":66},
+ {"kind":"single","label":"STEP 2","head":"Then add an and","img":85,"fix":true,"badge":"YES, AND","sub":"Push it further with an example where you're the punchline.","size":66},
+ {"kind":"duo","head":"Example","items":[
+   {"n":"Him","head":"\"You make me look tall\"","sub":"Your friend jokes about your height.","img":7},
+   {"n":"You","head":"\"Yeah, I'm only 4'3\"","sub":"\"Stand next to me in every photo. Free 6 inches.\"","img":15}]},
+ {"kind":"statement","pre":"Why it works:","text":"His spark becomes fireworks. *He looks funny, you look confident.*","size":70},
+ {"kind":"end","head":"Try it on the *next joke*","sub":"Yes first, then and.","img":33,"size":80}
+]

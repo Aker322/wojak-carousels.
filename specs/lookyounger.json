@@ -1,0 +1,17 @@
+[
+ {"kind":"cover","kicker":"YOUR AGE MATES WILL ASK WHAT CHANGED","title":"8 habits that make a man *look younger*","img":[0,84],"size":78},
+ {"kind":"duo","head":"Quit these","items":[
+   {"n":"1","head":"Don't smoke","sub":"Smokers' skin wrinkles years early. Vapes don't get a pass.","img":58},
+   {"n":"2","head":"Cut sugar and alcohol","sub":"Both show up as a puffy face and a soft middle.","img":12}]},
+ {"kind":"duo","head":"Train these","items":[
+   {"n":"3","head":"Lift 3 to 5 times a week","sub":"Add 2 short sprint sessions.","img":134},
+   {"n":"4","head":"Walk 8,000+ steps a day","sub":"Walks after meals count. So does pacing on calls.","img":156}]},
+ {"kind":"duo","head":"Protect these","items":[
+   {"n":"5","head":"Sleep 8 hours","sub":"Same bedtime every night, weekends too.","img":63},
+   {"n":"6","head":"No caffeine after 2PM","sub":"Late coffee cuts deep sleep even when you fall asleep fine.","img":139}]},
+ {"kind":"single","label":"HABIT 7","head":"Eat 90% whole food","img":91,"fix":true,"badge":"REAL FOOD","sub":"Meat, eggs, rice, fruit, vegetables. The label with 20 ingredients is the 10%.","size":64},
+ {"kind":"single","label":"HABIT 8","head":"Sunscreen every morning","img":85,"sub":"The sun does most of the visible aging on your face. SPF 30, even when it's cloudy.","size":64},
+ {"kind":"split","head":"Same age: 40","ltag":"SKIPPED THESE","rtag":"DID THESE","l":[13,"Puffy, tired, looks 50"],"r":[95,"Lean, rested, looks 30"],"flip":false},
+ {"kind":"statement","pre":"Remember:","text":"Younger can't be bought. *Sleep, lift and walk your way there.*","size":70},
+ {"kind":"end","head":"Start with *habit 5*","sub":"Sleep fixes the face first.","img":168,"size":80}
+]

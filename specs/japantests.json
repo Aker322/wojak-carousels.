@@ -1,0 +1,10 @@
+[
+ {"kind":"cover","kicker":"SCORE YOURSELF OUT OF 6","title":"6 Japanese tests that expose *zero discipline*","img":[89,168],"size":78},
+ {"kind":"single","label":"SHUGYO","level":[1,6],"head":"One thing, 100 days straight","img":134,"sub":"Miss a single day and the count goes back to zero.","size":64},
+ {"kind":"single","label":"GANBARU","level":[2,6],"head":"Finish it after the interest dies","img":161,"sub":"No audience, no reward. You said you would.","size":62},
+ {"kind":"single","label":"SEIZA","level":[3,6],"head":"Sit still 5 minutes, no phone","img":41,"sub":"Spine straight. Most men reach for the phone inside a minute.","size":64},
+ {"kind":"single","label":"HARA HACHI BU","level":[4,6],"head":"Stop eating at 80% full","img":95,"sub":"Do it for 30 days. Okinawans have for centuries.","size":66},
+ {"kind":"single","label":"SHOKUNIN","level":[5,6],"head":"Do one boring task perfectly","img":91,"sub":"Fold the shirt, make the bed, tie your shoes like someone's grading it.","size":62},
+ {"kind":"single","label":"GAMAN","level":[6,6],"head":"Carry it without complaining","img":33,"sub":"Not hiding it. Just not making it everyone's problem.","size":62},
+ {"kind":"end","head":"How many *did you pass?*","sub":"Most men get two.","img":70,"size":80}
+]
