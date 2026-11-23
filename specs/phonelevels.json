@@ -1,0 +1,91 @@
+[
+ {
+  "kind": "cover",
+  "kicker": "BREAK THE PHONE HABIT",
+  "title": "6 phone challenges. Each one *harder* than the last.",
+  "img": [
+   3,
+   41
+  ],
+  "size": 80
+ },
+ {
+  "kind": "single",
+  "label": "CHALLENGE 1",
+  "level": [
+   1,
+   6
+  ],
+  "head": "Your phone sleeps outside the bedroom for 7 days",
+  "img": 139,
+  "sub": "Buy a $10 alarm clock. The charger lives in the kitchen.",
+  "size": 56
+ },
+ {
+  "kind": "single",
+  "label": "CHALLENGE 2",
+  "level": [
+   2,
+   6
+  ],
+  "head": "Eat every meal with no phone",
+  "img": 12,
+  "sub": "Taste the food. Notice when you're actually full.",
+  "size": 62
+ },
+ {
+  "kind": "single",
+  "label": "CHALLENGE 3",
+  "level": [
+   3,
+   6
+  ],
+  "head": "Walk 20 minutes with no headphones",
+  "img": 156,
+  "sub": "No music, no podcast. Just you and your thoughts.",
+  "size": 60
+ },
+ {
+  "kind": "single",
+  "label": "CHALLENGE 4",
+  "level": [
+   4,
+   6
+  ],
+  "head": "Grayscale your screen for 3 days",
+  "img": 154,
+  "sub": "Without color, the apps stop pulling you back.",
+  "size": 62
+ },
+ {
+  "kind": "single",
+  "label": "CHALLENGE 5",
+  "level": [
+   5,
+   6
+  ],
+  "head": "No phone for the first hour after you wake up",
+  "img": 7,
+  "sub": "Shower, eat, move. Messages can wait 60 minutes.",
+  "size": 56
+ },
+ {
+  "kind": "single",
+  "label": "CHALLENGE 6",
+  "level": [
+   6,
+   6
+  ],
+  "head": "Sit for 10 minutes doing nothing",
+  "img": 136,
+  "sub": "In one study, people chose electric shocks over 15 quiet minutes alone.",
+  "size": 60
+ },
+ {
+  "kind": "end",
+  "head": "Start at 1. *Don't skip levels.*",
+  "sub": "One challenge a week. In 6 weeks your phone works for you.",
+  "img": 95,
+  "size": 70
+ }
+]

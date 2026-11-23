@@ -1,0 +1,70 @@
+[
+ {
+  "kind": "cover",
+  "kicker": "WHAT THEY SAY WHEN YOU CHANGE",
+  "title": "They say you used to be *fun.*",
+  "img": [
+   58,
+   132
+  ],
+  "size": 90
+ },
+ {
+  "kind": "duo",
+  "head": "What \"fun\" looked like",
+  "items": [
+   {
+    "n": "FRI",
+    "img": 57,
+    "head": "Out till 3AM again",
+    "sub": "Same bar, same stories, same hangover."
+   },
+   {
+    "n": "SAT",
+    "img": 139,
+    "head": "Asleep until 2PM",
+    "sub": "Half the weekend gone before it started."
+   }
+  ]
+ },
+ {
+  "kind": "duo",
+  "items": [
+   {
+    "n": "SUN",
+    "img": 3,
+    "head": "Scrolling to forget Monday",
+    "sub": "Then dreading Monday anyway."
+   },
+   {
+    "n": "AGE 30",
+    "img": 152,
+    "head": "Nothing to show for it",
+    "sub": "Just a few bar stool stories."
+   }
+  ]
+ },
+ {
+  "kind": "statement",
+  "pre": "Here's the truth:",
+  "text": "Winning is *way more fun* than losing slowly.",
+  "size": 90
+ },
+ {
+  "kind": "single",
+  "label": "NOW",
+  "head": "Up at 6, in the gym by 7",
+  "img": 134,
+  "fix": true,
+  "badge": "NEW FUN",
+  "sub": "Sunday mornings feel like a reward, not a recovery.",
+  "size": 64
+ },
+ {
+  "kind": "end",
+  "head": "Let them say you *changed.*",
+  "sub": "That was the point.",
+  "img": 85,
+  "size": 80
+ }
+]

@@ -1,0 +1,66 @@
+[
+ {
+  "kind": "cover",
+  "kicker": "YOUR CIRCLE IS SUPPOSED TO SHRINK",
+  "title": "Real friends are *low maintenance*",
+  "img": [
+   105,
+   155
+  ],
+  "size": 88
+ },
+ {
+  "kind": "split",
+  "head": "3 months without talking",
+  "ltag": "THE JOB",
+  "rtag": "THE REAL ONE",
+  "l": [
+   23,
+   "\"Where have you been, man?\""
+  ],
+  "r": [
+   87,
+   "Picks up like you talked yesterday"
+  ]
+ },
+ {
+  "kind": "split",
+  "head": "You missed 2 weekends",
+  "ltag": "THE JOB",
+  "rtag": "THE REAL ONE",
+  "l": [
+   128,
+   "A whole talk about how you've changed"
+  ],
+  "r": [
+   26,
+   "\"Busy building? Me too.\""
+  ]
+ },
+ {
+  "kind": "split",
+  "head": "Keeping score",
+  "ltag": "THE JOB",
+  "rtag": "THE REAL ONE",
+  "l": [
+   62,
+   "You owe him calls and explanations"
+  ],
+  "r": [
+   90,
+   "No score. No guilt trip."
+  ]
+ },
+ {
+  "kind": "statement",
+  "pre": "Everyone warns you:",
+  "text": "Your circle gets smaller. That's not loss. *It's editing.*",
+  "size": 80
+ },
+ {
+  "kind": "end",
+  "head": "Send this to the friend you can go *3 months* without",
+  "img": 167,
+  "size": 60
+ }
+]

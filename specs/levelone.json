@@ -1,0 +1,83 @@
+[
+ {
+  "kind": "cover",
+  "kicker": "GROWN MEN WAITED YEARS FOR THIS",
+  "title": "GTA 6 dropped. Your life is still on *level 1.*",
+  "img": [
+   138,
+   70
+  ],
+  "size": 80
+ },
+ {
+  "kind": "single",
+  "label": "HEALTH",
+  "level": [
+   1,
+   5
+  ],
+  "head": "Still out of breath on the stairs",
+  "img": 13,
+  "sub": "You can grind a game for 100 hours. Give your body 3 a week.",
+  "size": 62
+ },
+ {
+  "kind": "single",
+  "label": "MONEY",
+  "level": [
+   1,
+   5
+  ],
+  "head": "Still broke the week before payday",
+  "img": 118,
+  "sub": "Spend the preorder energy on one skill that pays.",
+  "size": 62
+ },
+ {
+  "kind": "single",
+  "label": "GOALS",
+  "level": [
+   1,
+   5
+  ],
+  "head": "Still \"starting Monday\"",
+  "img": 24,
+  "sub": "A quest you never open isn't a goal. It's a wish.",
+  "size": 66
+ },
+ {
+  "kind": "statement",
+  "pre": "Imagine this:",
+  "text": "Putting that energy into a life you *don't need to escape from.*",
+  "size": 76
+ },
+ {
+  "kind": "grid",
+  "head": "Real-life XP",
+  "cells": [
+   [
+    134,
+    "Lift 3x a week"
+   ],
+   [
+    93,
+    "Learn a paid skill"
+   ],
+   [
+    155,
+    "See your friends"
+   ],
+   [
+    63,
+    "Sleep 8 hours"
+   ]
+  ]
+ },
+ {
+  "kind": "end",
+  "head": "Play the *main quest*",
+  "sub": "The game isn't the problem. Skipping your life for it is.",
+  "img": 170,
+  "size": 80
+ }
+]
