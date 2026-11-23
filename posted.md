@@ -104,3 +104,7 @@ Never repeat an exact topic below. Similar themes with a new angle are fine.
 - 8 habits that make a man look younger (no smoking, cut sugar and alcohol, lift and sprint, 8k steps, sleep 8h, no caffeine after 2PM, 90% whole food, sunscreen) (2026-11-23 12:00 carousel)
 - 5 silent progress killers (weekend reward meal, Saturday drinks, break room grazing, drive-thru lunch, late-night screen snacking; what is the food for) (2026-11-23 17:00 Reel)
 - Make their joke funnier (yes, and; build on it at your own expense instead of topping it) (2026-11-23 22:00 Reel)
+- Your life is still on level 1 (GTA 6 energy; health, money, goals stuck; real-life XP grid) (2026-11-24 07:00 Reel)
+- 6 phone challenges, each harder than the last (bedroom, meals, silent walk, grayscale, first hour, 10 minutes of nothing) (2026-11-24 12:00 carousel)
+- Real friends are low maintenance (the job vs the real one; circle shrinking is editing) (2026-11-24 17:00 Reel)
+- They say you used to be fun (3AM, 2PM, scrolling, 30 with bar stool stories; winning is more fun) (2026-11-24 22:00 Reel)
