@@ -108,3 +108,7 @@ Never repeat an exact topic below. Similar themes with a new angle are fine.
 - 6 phone challenges, each harder than the last (bedroom, meals, silent walk, grayscale, first hour, 10 minutes of nothing) (2026-11-24 12:00 carousel)
 - Real friends are low maintenance (the job vs the real one; circle shrinking is editing) (2026-11-24 17:00 Reel)
 - They say you used to be fun (3AM, 2PM, scrolling, 30 with bar stool stories; winning is more fun) (2026-11-24 22:00 Reel)
+- Hard truths I wish I knew at 20 (comfort is a cage, don't pitch plans to quitters, seasonal friends, freedom over impressing, health is success; you aren't behind, you're unfinished) (2026-11-25 07:00 Reel)
+- Gym hills I'll die on (potatoes, no deficit no fat loss, can't out-cardio a bad diet, 30 min beats zero, one program 6-12 months, bored not hungry, 5 on + 2 off = soft, protein, steps, sleep) (2026-11-25 12:00 carousel)
+- When you lose your train of thought (pause, "let me start that thought again", never bring it up) (2026-11-25 17:00 Reel)
+- Ranking body fat for busy men (6-8% D, 15-20% B, 25-30% F, 35%+ start where you are; lift, protein, walk after dinner) (2026-11-25 22:00 Reel)
