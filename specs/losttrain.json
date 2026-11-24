@@ -1,0 +1,9 @@
+[
+ {"kind":"cover","kicker":"CONFIDENCE IS HOW YOU RECOVER","title":"You lost your *train of thought.* Now what?","img":[62,33],"size":76},
+ {"kind":"split","head":"Mid-sentence, your mind goes blank","ltag":"MOST MEN","rtag":"CONFIDENT MEN","l":[24,"Ramble, laugh nervously, apologize 3 times"],"r":[41,"Smile: \"Let me put that another way\""]},
+ {"kind":"single","label":"STEP 1","level":[1,3],"head":"Pause. Don't fill the silence.","img":176,"sub":"2 quiet seconds look like thinking, not panic.","size":62},
+ {"kind":"single","label":"STEP 2","level":[2,3],"head":"\"Let me start that thought again\"","img":26,"fix":true,"badge":"THE LINE","sub":"One sentence. No apology. Then keep going.","size":58},
+ {"kind":"single","label":"STEP 3","level":[3,3],"head":"Never bring it up after","img":63,"sub":"Most people barely noticed. Don't remind them.","size":64},
+ {"kind":"statement","pre":"Remember:","text":"Confidence isn't never slipping. It's *not caring when you do.*","size":70},
+ {"kind":"end","head":"Have the line *ready*","sub":"Say it out loud once today so it comes out naturally.","img":84,"size":80}
+]

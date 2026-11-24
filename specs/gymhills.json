@@ -1,0 +1,15 @@
+[
+ {"kind":"cover","kicker":"AFTER 12 YEARS OF LIFTING","title":"Gym hills *I'll die on*","img":[13,70],"size":92},
+ {"kind":"split","head":"Potatoes aren't the enemy","ltag":"THE FEAR","rtag":"THE TRUTH","l":[12,"\"Carbs made me fat\""],"r":[95,"The most filling food per calorie"]},
+ {"kind":"duo","head":"Fat loss","items":[
+   {"n":"1","head":"No deficit, no fat loss","sub":"Clean food at maintenance keeps the belly.","img":119},
+   {"n":"2","head":"You can't out-cardio a bad diet","sub":"A 30-minute jog burns about one donut.","img":156}]},
+ {"kind":"duo","head":"Training","items":[
+   {"n":"3","head":"30 minutes beats zero","sub":"Short and hard still builds muscle.","img":134},
+   {"n":"4","head":"Run one program 6 to 12 months","sub":"Switching every month resets your progress.","img":71}]},
+ {"kind":"single","label":"HILL 5","head":"You're not hungry. You're bored.","img":154,"sub":"Or thirsty, or stressed. Drink water and wait 10 minutes.","size":62},
+ {"kind":"single","label":"HILL 6","head":"5 good days + 2 off-plan days = still soft","img":58,"stamp":"STOP","sub":"Weekends quietly erase the work you did all week.","size":56},
+ {"kind":"grid","head":"The rest of the hills","cells":[[168,"0.8 to 1g protein per lb"],[7,"10k steps a day"],[63,"Fix your sleep first"],[167,"Copy bodies you want"]]},
+ {"kind":"statement","pre":"The last hill:","text":"Your genetics are fine. Your *habits aren't.*","size":80},
+ {"kind":"end","head":"Pick *one hill* this week","sub":"Save this for your next cut.","img":132,"size":80}
+]

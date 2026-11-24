@@ -1,0 +1,10 @@
+[
+ {"kind":"cover","kicker":"SCREENSHOT THIS","title":"Hard truths I wish I knew *at 20*","img":[89,168],"size":84},
+ {"kind":"single","label":"TRUTH 1","level":[1,5],"head":"Comfort turns into a cage","img":138,"sub":"Same job, same couch, same weekend. Safe until you're 35 and stuck.","size":64},
+ {"kind":"single","label":"TRUTH 2","level":[2,5],"head":"Stop pitching your plan to quitters","img":94,"stamp":"STOP","sub":"They will talk you out of it in 5 minutes. Show them in a year.","size":60},
+ {"kind":"single","label":"TRUTH 3","level":[3,5],"head":"Some friends are for one season","img":155,"sub":"Not everyone who partied with you at 20 is coming to 30.","size":64},
+ {"kind":"single","label":"TRUTH 4","level":[4,5],"head":"Freedom beats impressing people","img":125,"sub":"Auto-save 20% on payday. The watch can wait.","size":62},
+ {"kind":"single","label":"TRUTH 5","level":[5,5],"head":"Your health is part of your success","img":134,"fix":true,"badge":"NON-NEGOTIABLE","sub":"A raise means nothing if you're too tired to enjoy it.","size":60},
+ {"kind":"statement","pre":"And the big one:","text":"You aren't behind. *You're just unfinished.*","size":84},
+ {"kind":"end","head":"Start *before you're ready*","sub":"Confidence shows up after the first rep, not before.","img":15,"size":78}
+]

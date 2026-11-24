@@ -1,0 +1,13 @@
+[
+ {"kind":"cover","kicker":"FOR MEN WITH A JOB AND A LIFE","title":"Ranking body fat for *busy men*","img":[13,134],"size":86},
+ {"kind":"duo","head":"The lean end","items":[
+   {"n":"D","head":"6 to 8%","sub":"Stage lean. Great photos, hungry all day.","img":70},
+   {"n":"B","head":"15 to 20%","sub":"Athletic, and you still enjoy dinner with your family.","img":95}]},
+ {"kind":"duo","head":"The soft end","items":[
+   {"n":"F","head":"25 to 30%","sub":"The waistline creeps up a notch every year.","img":119},
+   {"n":"35%+","head":"Start where you are","sub":"Forget abs. Pick one milestone for this month.","img":139}]},
+ {"kind":"single","label":"THE FIX","head":"3 habits that fit a packed week","img":156,"fix":true,"badge":"B TIER","sub":"Lift 2 to 3 times, protein on every plate, walk after dinner.","size":60},
+ {"kind":"grid","head":"First milestones","cells":[[132,"2 lifts a week"],[7,"Lunch break walk"],[168,"Protein every meal"],[63,"Bed by 11"]]},
+ {"kind":"statement","pre":"The goal:","text":"Not stage shredded. *Lean enough to keep up with your kids.*","size":68},
+ {"kind":"end","head":"Pick your *first milestone*","sub":"Two lifts a week is enough to start.","img":85,"size":80}
+]
