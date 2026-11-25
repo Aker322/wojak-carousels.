@@ -112,3 +112,7 @@ Never repeat an exact topic below. Similar themes with a new angle are fine.
 - Gym hills I'll die on (potatoes, no deficit no fat loss, can't out-cardio a bad diet, 30 min beats zero, one program 6-12 months, bored not hungry, 5 on + 2 off = soft, protein, steps, sleep) (2026-11-25 12:00 carousel)
 - When you lose your train of thought (pause, "let me start that thought again", never bring it up) (2026-11-25 17:00 Reel)
 - Ranking body fat for busy men (6-8% D, 15-20% B, 25-30% F, 35%+ start where you are; lift, protein, walk after dinner) (2026-11-25 22:00 Reel)
+- Why your abs never show (no-weight crunches, just dieting, abs daily, skipping lower abs/obliques, no overload; 2-3x/week 10-15 hard sets, 10-14% body fat) (2026-11-26 07:00 Reel)
+- Ranking controversial life advice (unfair: leave hometown, tell nobody; brutal: parents can be wrong, not everyone deserves your time; coin flip: quit to go all in; sedative: follow your passion; sabotage grid) (2026-11-26 12:00 carousel)
+- The backhanded compliment ("that's actually good... for you"; ask "what do you mean by that?"; roasting vs being the only target) (2026-11-26 17:00 Reel)
+- Only 12 non-essential things all year (wishlist not cart, $60/week fun money account, 30-day wait; groceries and bills don't count) (2026-11-26 22:00 Reel)
