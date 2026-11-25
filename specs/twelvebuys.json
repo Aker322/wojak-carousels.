@@ -1,0 +1,9 @@
+[
+ {"kind":"cover","kicker":"NOT BROKE. JUST DONE WITH IMPULSE BUYS","title":"Only *12 things* all year","img":[154,76],"size":86},
+ {"kind":"single","label":"THE PROBLEM","head":"Most of what you \"need\" is a bored Tuesday night","img":3,"sub":"$40 here, $60 there, all from a shopping app at 11PM.","size":58},
+ {"kind":"single","label":"RULE 1","level":[1,3],"head":"Want it? Add it to a list, not the cart","img":71,"sub":"Adding it to the list gives the same hit without the regret.","size":58},
+ {"kind":"single","label":"RULE 2","level":[2,3],"head":"Move $60 a week into a fun money account","img":125,"sub":"One item a month, only if the account covers it.","size":60},
+ {"kind":"single","label":"RULE 3","level":[3,3],"head":"Wait 30 days, then reread the list","img":136,"fix":true,"badge":"THE FILTER","sub":"Half gets deleted. The urge was a mood.","size":60},
+ {"kind":"statement","pre":"What changes:","text":"You stop reacting to impulses and *decide what earns your money.*","size":70},
+ {"kind":"end","head":"Start the *list* tonight","sub":"Groceries, rent and bills don't count.","img":63,"size":80}
+]

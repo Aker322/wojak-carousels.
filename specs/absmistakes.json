@@ -1,0 +1,14 @@
+[
+ {"kind":"cover","kicker":"6 YEARS OF AB TRAINING IN 30 SECONDS","title":"Why your *abs never show*","img":[13,70],"size":88},
+ {"kind":"split","head":"Most men train abs like this","ltag":"WHAT THEY DO","rtag":"WHAT WORKS","l":[62,"100 crunches a night, no weight"],"r":[134,"Weighted cable crunches, heavier every week"]},
+ {"kind":"duo","head":"Why they stay hidden","items":[
+   {"n":"1","head":"Just dieting","sub":"You get flat, not defined.","img":139},
+   {"n":"2","head":"Training abs every day","sub":"No recovery means no growth.","img":58}]},
+ {"kind":"duo","head":"Why they stay small","items":[
+   {"n":"3","head":"Skipping lower abs and obliques","sub":"The waistline stays soft.","img":89},
+   {"n":"4","head":"Same 3 easy sets for years","sub":"No overload, no new muscle.","img":154}]},
+ {"kind":"single","label":"THE FIX","head":"2 to 3 sessions, 10 to 15 hard sets","img":132,"fix":true,"badge":"THE PLAN","sub":"Per week: cable crunches, hanging leg raises, ab wheel rollouts.","size":58},
+ {"kind":"single","label":"THE CATCH","head":"You need roughly 10 to 14% body fat to see them","img":95,"sub":"Strong abs under a layer of fat still look flat.","size":58},
+ {"kind":"statement","pre":"Remember:","text":"Abs are built with weight. *Revealed by your diet.*","size":80},
+ {"kind":"end","head":"Add *weight* to your crunches","sub":"Start with one heavy cable crunch set this week.","img":85,"size":80}
+]

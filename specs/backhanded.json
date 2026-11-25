@@ -1,0 +1,9 @@
+[
+ {"kind":"cover","kicker":"THE SNEAKIEST KIND OF DISRESPECT","title":"The *backhanded compliment*","img":[87,33],"size":90},
+ {"kind":"single","label":"WHAT IT SOUNDS LIKE","head":"\"That's actually good... for you.\"","img":128,"sub":"Praise with a dig inside, wrapped in a joke.","size":62},
+ {"kind":"split","head":"Everyone laughs. Now what?","ltag":"MOST MEN","rtag":"CONFIDENT MEN","l":[159,"Laugh along so they don't look sensitive"],"r":[41,"Stay calm and ask one question"]},
+ {"kind":"single","label":"THE LINE","head":"\"For me? What do you mean by that?\"","img":26,"fix":true,"badge":"ASK IT CALMLY","sub":"Ask like you genuinely want to know. A joke you have to explain dies.","size":58},
+ {"kind":"single","label":"KNOW THE DIFFERENCE","head":"Friends roast each other. One constant target is a pattern.","img":155,"sub":"If you're always the punchline, it isn't banter.","size":56},
+ {"kind":"statement","pre":"Remember:","text":"Every time you laugh along, you *teach them it's allowed.*","size":76},
+ {"kind":"end","head":"Have the *question* ready","sub":"Most people backpedal within two seconds.","img":164,"size":80}
+]

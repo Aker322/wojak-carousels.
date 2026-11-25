@@ -1,0 +1,15 @@
+[
+ {"kind":"cover","kicker":"SAVE THIS BEFORE YOU TAKE ADVICE","title":"Ranking *controversial* life advice","img":[24,168],"size":86},
+ {"kind":"duo","head":"UNFAIR: works better than it should","items":[
+   {"n":"1","head":"Leave your hometown","sub":"Nobody holds you to the old version of you.","img":15},
+   {"n":"2","head":"Tell nobody your plans","sub":"Announcing feels like progress, so you stop.","img":33}]},
+ {"kind":"duo","head":"BRUTAL: works, but it hurts","items":[
+   {"n":"3","head":"Your parents can be wrong","sub":"Love them and still skip their career advice.","img":93},
+   {"n":"4","head":"Not everyone deserves your time","sub":"Some friends only call when they need a ride.","img":161}]},
+ {"kind":"split","head":"COIN FLIP: quit to go all in","ltag":"FAILS IF","rtag":"WORKS IF","l":[128,"No savings, no customers, just hype"],"r":[125,"6 months saved and paying clients already"]},
+ {"kind":"single","label":"SEDATIVE","head":"\"Just follow your passion\"","img":123,"stamp":"STOP","sub":"Feels good to hear, changes nothing. Skill comes first, passion follows.","size":62},
+ {"kind":"grid","head":"SABOTAGE: sounds wise, isn't","cells":[[3,"Be yourself, never improve"],[57,"Monk mode, then a binge"],[0,"YOLO spending"],[105,"Never back down, ever"]]},
+ {"kind":"single","label":"UNFAIR","head":"Lift, sleep and save in silence","img":70,"fix":true,"badge":"TOP TIER","sub":"Quiet progress for 12 months looks like luck to everyone else.","size":58},
+ {"kind":"statement","pre":"The rule:","text":"Judge advice by *the life of the person giving it.*","size":72},
+ {"kind":"end","head":"Screenshot the *unfair tier*","sub":"Send it to the friend who follows every trend.","img":167,"size":80}
+]
