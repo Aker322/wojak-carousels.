@@ -1,0 +1,9 @@
+[
+ {"kind":"cover","kicker":"SAME PAY. TWO CHOICES.","title":"Travel now vs *save first*","img":[15,125],"size":90},
+ {"kind":"split","head":"Payday","ltag":"TRAVELS NOW","rtag":"SAVES FIRST","l":[7,"Books the next trip that night"],"r":[93,"Moves 20% out before he sees it"]},
+ {"kind":"split","head":"The trip","ltag":"TRAVELS NOW","rtag":"SAVES FIRST","l":[87,"Beach photos, all on the card"],"r":[156,"Cheaper trip, paid in cash"]},
+ {"kind":"split","head":"6 months later","ltag":"TRAVELS NOW","rtag":"SAVES FIRST","l":[139,"Still paying for a trip he barely remembers"],"r":[63,"Savings already covers the next one"]},
+ {"kind":"single","label":"THE MATH","head":"He paid for every trip twice","img":40,"sub":"Minimum payments on a $3,000 trip at 24% interest take years.","size":60},
+ {"kind":"statement","pre":"The difference:","text":"Debt charges you twice. *Savings pays back.*","size":76},
+ {"kind":"end","head":"Save first, *then book*","sub":"The trip feels better with nothing owed.","img":164,"size":80}
+]

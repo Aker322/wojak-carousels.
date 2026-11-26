@@ -1,0 +1,15 @@
+[
+ {"kind":"cover","kicker":"THE SCALE ISN'T THE WHOLE STORY","title":"10 signs you're losing *fat, not muscle*","img":[13,134],"size":84},
+ {"kind":"duo","head":"Signs 1 and 2","items":[
+   {"n":"1","head":"Your lifts keep going up","sub":"More weight or reps each week means the muscle is staying.","img":132},
+   {"n":"2","head":"Belt looser, sleeves tighter","sub":"Your clothes change before the scale does.","img":156}]},
+ {"kind":"duo","head":"Signs 3 and 4","items":[
+   {"n":"3","head":"No 3PM crash","sub":"Steady energy all day means you're eating enough.","img":63},
+   {"n":"4","head":"You're full after meals","sub":"You're not thinking about food between meals.","img":91}]},
+ {"kind":"grid","head":"Signs 5 to 8","cells":[[41,"Sleeping through the night"],[95,"Looking harder, not just smaller"],[87,"Steady mood, no brain fog"],[7,"Stairs and groceries feel easy"]]},
+ {"kind":"single","label":"SIGN 9","head":"You're losing 0.5 to 1 kg a week","img":170,"fix":true,"badge":"SLOW WINS","sub":"Any faster and muscle goes out with the fat.","size":60},
+ {"kind":"split","head":"Sign 10: the 9PM test","ltag":"BURNING MUSCLE","rtag":"BURNING FAT","l":[119,"Raiding the fridge for sugar"],"r":[33,"Kitchen closed, no fight"]},
+ {"kind":"single","label":"RED FLAG","head":"Your lifts drop every week","img":152,"stamp":"STOP","sub":"You're eating your muscle. Add protein and cut slower.","size":60},
+ {"kind":"statement","pre":"If most of these sound like you:","text":"*Keep going.* The scale is the slowest sign of progress.","size":72},
+ {"kind":"end","head":"Save this for your *next cut*","sub":"Check it before you panic about the scale.","img":84,"size":80}
+]

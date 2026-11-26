@@ -1,0 +1,11 @@
+[
+ {"kind":"cover","kicker":"THE HABIT THAT COSTS RESPECT","title":"Stop making your stress *everyone's problem*","img":[94,95],"size":80},
+ {"kind":"single","label":"WHAT IT LOOKS LIKE","head":"Every bad day becomes a 20-min rant","img":105,"sub":"Your team, your partner, your group chat. All carrying your weight.","size":56},
+ {"kind":"split","head":"Know the difference","ltag":"COMPLAINING","rtag":"VULNERABLE","l":[62,"Same rant every night, no plan"],"r":[90,"Names it once, asks for real help"]},
+ {"kind":"duo","head":"Before you vent, do this","items":[
+   {"n":"1","head":"Write it down","sub":"Half of it shrinks once it's on paper.","img":93},
+   {"n":"2","head":"Name one next step","sub":"Something you can do before tomorrow.","img":136}]},
+ {"kind":"single","label":"THEN","head":"Talk to someone who's solved it","img":168,"fix":true,"badge":"ASK, DON'T DUMP","sub":"A mentor or a friend who's been there, not whoever is closest.","size":58},
+ {"kind":"statement","pre":"Remember:","text":"Pressure isn't losing. It's *the price of growing.*","size":76},
+ {"kind":"end","head":"Less venting, *more solving*","sub":"Send this to the friend who always hears it first.","img":26,"size":80}
+]

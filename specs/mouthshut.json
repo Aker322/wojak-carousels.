@@ -1,0 +1,15 @@
+[
+ {"kind":"cover","kicker":"LEARN THIS BEFORE 30","title":"When to keep your *mouth shut*","img":[128,33],"size":90},
+ {"kind":"duo","head":"Keep it to yourself when...","items":[
+   {"n":"1","head":"Life starts going well","sub":"Some people only like you while you're struggling.","img":125},
+   {"n":"2","head":"You're angry","sub":"One sentence can undo years of respect.","img":105}]},
+ {"kind":"duo","head":"Keep it to yourself when...","items":[
+   {"n":"3","head":"You're planning a big move","sub":"Talking about it feels like doing it. Build first.","img":136},
+   {"n":"4","head":"Someone tells you a secret","sub":"Repeat it once and nobody trusts you again.","img":90}]},
+ {"kind":"duo","head":"Keep it to yourself when...","items":[
+   {"n":"5","head":"The room loves gossip","sub":"Whoever tells you everyone's business tells yours.","img":94},
+   {"n":"6","head":"Someone underestimates you","sub":"Skip the speech. Let your results answer.","img":70}]},
+ {"kind":"single","label":"NUMBER 7","head":"You're about to buy a car or a house","img":76,"fix":true,"badge":"DECIDE PRIVATELY","sub":"Some will talk you out of it. Others start counting your money.","size":58},
+ {"kind":"statement","pre":"The rule:","text":"A man who guards his words *runs everything else.*","size":76},
+ {"kind":"end","head":"Save this for the *next argument*","sub":"Number 2 alone saves friendships.","img":168,"size":80}
+]
