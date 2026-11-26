@@ -116,3 +116,7 @@ Never repeat an exact topic below. Similar themes with a new angle are fine.
 - Ranking controversial life advice (unfair: leave hometown, tell nobody; brutal: parents can be wrong, not everyone deserves your time; coin flip: quit to go all in; sedative: follow your passion; sabotage grid) (2026-11-26 12:00 carousel)
 - The backhanded compliment ("that's actually good... for you"; ask "what do you mean by that?"; roasting vs being the only target) (2026-11-26 17:00 Reel)
 - Only 12 non-essential things all year (wishlist not cart, $60/week fun money account, 30-day wait; groceries and bills don't count) (2026-11-26 22:00 Reel)
+- When to keep your mouth shut (life going well, angry, planning a big move, secrets, gossip, underestimated, big purchase) (2026-11-27 07:00 Reel)
+- 10 signs you're losing fat, not muscle (lifts up, belt looser, no 3PM crash, full after meals, sleep, harder not smaller, mood, stairs easy, 0.5-1 kg/week, no 9PM sugar; red flag lifts dropping) (2026-11-27 12:00 carousel)
+- Same pay: travel now vs save first (payday, the trip, 6 months later; paid for every trip twice, $3,000 at 24%) (2026-11-27 17:00 Reel)
+- Stop making your stress everyone's problem (20-min rants, complaining vs vulnerable, write it down, one next step, talk to someone who's solved it) (2026-11-27 22:00 Reel)
