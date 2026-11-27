@@ -1,0 +1,10 @@
+[
+ {"kind":"cover","kicker":"I DID EVERYTHING RIGHT","title":"The safe life cost me *my twenties*","img":[162,15],"size":86},
+ {"kind":"single","label":"#1","head":"I treated the gym as optional","img":89,"fix":true,"badge":"WHAT I'D CHANGE","sub":"Lifting 4x a week teaches you to keep promises. No class did that.","size":60},
+ {"kind":"single","label":"#2","head":"Years of study, zero real skills","img":93,"fix":true,"badge":"WHAT I'D CHANGE","sub":"Teaching myself to film paid more than the degree. Learn one skill people pay for.","size":60},
+ {"kind":"single","label":"#3","head":"I saved every euro and spent nothing on me","img":139,"fix":true,"badge":"WHAT I'D CHANGE","sub":"Keep saving. But money spent on skills and trips isn't wasted.","size":56},
+ {"kind":"single","label":"#4","head":"Proving myself to people who weren't watching","img":123,"fix":true,"badge":"WHAT I'D CHANGE","sub":"Nobody kept score. The only judge that counts is you at 40.","size":56},
+ {"kind":"single","label":"THE REAL REGRET","head":"I never went anywhere","img":161,"sub":"Book one trip a year. Before you feel ready, not after.","size":62},
+ {"kind":"statement","pre":"At 34, he said it plainly:","text":"Playing it safe still costs you *a whole decade.*","size":74},
+ {"kind":"end","head":"Play it *less safe*","sub":"Your twenties don't come with a refund.","img":79,"size":84}
+]

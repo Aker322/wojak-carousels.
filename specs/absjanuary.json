@@ -1,0 +1,17 @@
+[
+ {"kind":"cover","kicker":"ABS BY JANUARY?","title":"12 foods I wouldn't even *look at*","img":[119,134],"size":86},
+ {"kind":"duo","head":"Foods 1 and 2","items":[
+   {"n":"1","head":"Flavored yogurt","sub":"Sugar in a health cup. Get plain Greek and add fruit.","img":13},
+   {"n":"2","head":"Smoothies","sub":"400 calories you drink in 2 minutes and never feel.","img":63}]},
+ {"kind":"duo","head":"Foods 3 and 4","items":[
+   {"n":"3","head":"Granola","sub":"Looks healthy, packs more calories than cereal.","img":136},
+   {"n":"4","head":"Peanut butter","sub":"Healthy, but one scoop becomes four. Measure it.","img":91}]},
+ {"kind":"grid","head":"Foods 5 to 8","cells":[[23,"Candy"],[162,"Coffee shop drinks"],[89,"\"Healthy\" fast food wraps"],[58,"Alcohol"]]},
+ {"kind":"duo","head":"Foods 9 and 10","items":[
+   {"n":"9","head":"White bread","sub":"Gone in two bites, hungry an hour later.","img":139},
+   {"n":"10","head":"Protein bars","sub":"Read the label. Some are candy with a gym logo.","img":128}]},
+ {"kind":"split","head":"Food 11: chips and crackers","ltag":"STRAIGHT FROM THE BAG","rtag":"ONE BOWL","l":[154,"Half the bag gone by episode two"],"r":[41,"Pour one bowl, bag goes back"]},
+ {"kind":"single","label":"FOOD 12","head":"Sauces and dressings","img":12,"fix":true,"badge":"SWAP","sub":"Ranch, mayo and oil add 300 calories fast. Get it on the side.","size":62},
+ {"kind":"statement","pre":"Your workouts aren't the problem:","text":"Abs get lost in *the little stuff.*","size":78},
+ {"kind":"end","head":"Save this for your *next grocery run*","sub":"Skip a few of these and January looks different.","img":70,"size":72}
+]

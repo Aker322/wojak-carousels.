@@ -1,0 +1,14 @@
+[
+ {"kind":"cover","kicker":"NOBODY WARNS YOU","title":"6 side effects of *going to the gym*","img":[89,132],"size":86},
+ {"kind":"duo","head":"Side effects 1 and 2","items":[
+   {"n":"1","head":"You lose interest in flaky people","sub":"Excuses start sounding loud once you stop making them.","img":33},
+   {"n":"2","head":"You're asleep by 10PM","sub":"No melatonin. Your body just asks for it.","img":63}]},
+ {"kind":"duo","head":"Side effects 3 and 4","items":[
+   {"n":"3","head":"Old shirts get tight","sub":"Shoulders first, then the sleeves. Time to shop.","img":134},
+   {"n":"4","head":"Bad days last 45 minutes","sub":"One hard session fixes what venting never did.","img":87}]},
+ {"kind":"duo","head":"Side effects 5 and 6","items":[
+   {"n":"5","head":"Junk food stops being worth it","sub":"You know what it costs you in the next workout.","img":156},
+   {"n":"6","head":"Opinions stop landing","sub":"Hard to feel small when you just pulled 140 kg.","img":95}]},
+ {"kind":"statement","pre":"The strangest one:","text":"You stop needing motivation and *start missing it* on rest days.","size":66},
+ {"kind":"end","head":"Catch these *side effects*","sub":"Go tomorrow. Then go again.","img":168,"size":84}
+]

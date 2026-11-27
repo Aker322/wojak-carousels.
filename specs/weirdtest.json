@@ -1,0 +1,11 @@
+[
+ {"kind":"cover","kicker":"NO PILLS NEEDED","title":"8 weird ways to *boost testosterone*","img":[118,70],"size":86},
+ {"kind":"grid","head":"Ways 1 to 4","cells":[[176,"Do hard things on purpose"],[7,"Sprint like you're being chased"],[156,"Morning sun before your phone"],[132,"Stop living in a permanent cut"]]},
+ {"kind":"split","head":"Way 5: the egg","ltag":"WEAK","rtag":"STRONG","l":[13,"Throws away the yolk"],"r":[134,"Eats the whole egg"]},
+ {"kind":"split","head":"Way 6: sleep like a caveman","ltag":"WEAK","rtag":"STRONG","l":[139,"Phone in bed until 1AM"],"r":[63,"Dark room, phone outside"]},
+ {"kind":"duo","head":"Ways 7 and 8","items":[
+   {"n":"7","head":"Lift heavy things","sub":"Add weight or reps every week. Your body adapts to the stress.","img":95},
+   {"n":"8","head":"Walk after meals","sub":"10 minutes after dinner steadies your blood sugar.","img":85}]},
+ {"kind":"statement","pre":"None of these come in a bottle:","text":"Your habits are *the booster.*","size":80},
+ {"kind":"end","head":"Start with *one tonight*","sub":"Phone out of the bedroom is the easiest win.","img":170,"size":84}
+]
