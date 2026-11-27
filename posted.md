@@ -120,3 +120,7 @@ Never repeat an exact topic below. Similar themes with a new angle are fine.
 - 10 signs you're losing fat, not muscle (lifts up, belt looser, no 3PM crash, full after meals, sleep, harder not smaller, mood, stairs easy, 0.5-1 kg/week, no 9PM sugar; red flag lifts dropping) (2026-11-27 12:00 carousel)
 - Same pay: travel now vs save first (payday, the trip, 6 months later; paid for every trip twice, $3,000 at 24%) (2026-11-27 17:00 Reel)
 - Stop making your stress everyone's problem (20-min rants, complaining vs vulnerable, write it down, one next step, talk to someone who's solved it) (2026-11-27 22:00 Reel)
+- The safe life cost me my twenties (gym as optional, study without skills, saving everything, proving to nobody, never went anywhere; playing it safe still costs a decade) (2026-11-28 07:00 Reel)
+- 12 foods I wouldn't even look at for abs by January (flavored yogurt, smoothies, granola, peanut butter, candy, coffee shop drinks, healthy wraps, alcohol, white bread, protein bars, chips, sauces) (2026-11-28 12:00 carousel)
+- 6 side effects of going to the gym (lose interest in flaky people, asleep by 10PM, shirts tight, bad days last 45 min, junk food not worth it, opinions stop landing) (2026-11-28 17:00 Reel)
+- 8 weird ways to boost testosterone (hard things on purpose, sprint, morning sun, no permanent cut, whole egg, caveman sleep, lift heavy, walk after meals) (2026-11-28 22:00 Reel)
