@@ -1,0 +1,10 @@
+[
+ {"kind":"cover","kicker":"DON'T WAIT FOR JANUARY","title":"33 days left. *Win them anyway.*","img":[3,134],"size":84},
+ {"kind":"split","head":"Two guys, same 33 days","ltag":"JANUARY GUY","rtag":"DECEMBER GUY","l":[138,"\"I'll start fresh on the 1st\""],"r":[156,"Starts tomorrow, arrives with momentum"]},
+ {"kind":"single","label":"STEP 1","level":[1,4],"head":"Rate 5 areas out of 10","img":71,"sub":"Body, mind, relationships, money, work. Write the numbers down.","size":62},
+ {"kind":"single","label":"STEP 2","level":[2,4],"head":"Pick the 2 with the biggest payoff","img":136,"sub":"Not always your lowest. Write what holds each one back.","size":56},
+ {"kind":"single","label":"STEP 3","level":[3,4],"head":"One goal per area, done by Dec 31","img":93,"sub":"You must be able to say yes or no. \"Lift 3x a week\", not \"get fit\".","size":56},
+ {"kind":"single","label":"STEP 4","level":[4,4],"head":"Write what will get in your way","img":139,"fix":true,"badge":"PLAN FOR IT","sub":"Holiday parties, travel, late nights. Decide your move now.","size":58},
+ {"kind":"statement","pre":"January 1st you either start from zero","text":"or you start with *33 days of proof.*","size":76},
+ {"kind":"end","head":"Grab a pen *tonight*","sub":"One sheet of paper. Ten minutes.","img":79,"size":80}
+]

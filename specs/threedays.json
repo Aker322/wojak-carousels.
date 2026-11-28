@@ -1,0 +1,11 @@
+[
+ {"kind":"cover","kicker":"FOR MEN WHO FREEZE BEFORE STARTING","title":"The *3-day rule* for overthinking","img":[24,132],"size":84},
+ {"kind":"single","label":"WHY YOU FREEZE","head":"You made the stakes too big","img":25,"sub":"\"If this fails, I'm a failure.\" Nobody starts under that weight.","size":60},
+ {"kind":"single","label":"WHAT MOST GUYS DO","head":"Commit to 3 years in their head","img":58,"stamp":"STOP","sub":"A 3-year plan is a reason to wait for Monday.","size":60},
+ {"kind":"split","head":"Shrink the horizon","ltag":"3 YEARS","rtag":"3 DAYS","l":[37,"Too heavy to start"],"r":[134,"Small enough to do tonight"]},
+ {"kind":"duo","head":"How it works","items":[
+   {"n":"Day 1","head":"Go all in for 3 days","sub":"Then you're allowed to quit.","img":91},
+   {"n":"Day 4","head":"Survived? Do 3 more","sub":"Then 3 more after that.","img":7}]},
+ {"kind":"statement","pre":"Some days you don't ask why.","text":"You just *chop wood, carry water.*","size":78},
+ {"kind":"end","head":"Start your *first 3 days* tomorrow","sub":"Talk to yourself again on day 4.","img":70,"size":76}
+]

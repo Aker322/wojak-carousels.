@@ -1,0 +1,15 @@
+[
+ {"kind":"cover","kicker":"NONE OF THEM HAPPEN IN THE GYM","title":"8 ways to be *disgustingly manly*","img":[89,95],"size":84},
+ {"kind":"duo","head":"Character first","items":[
+   {"n":"1","head":"Answer to something above you","sub":"A man with nothing above him makes himself the ceiling.","img":168},
+   {"n":"2","head":"Same voice for everyone","sub":"The cleaner at 9PM gets the respect the owner gets.","img":33}]},
+ {"kind":"duo","head":"Give and learn","items":[
+   {"n":"3","head":"Give away what you could sell","sub":"Last winter's jacket, the spare tools. Hand them over.","img":91},
+   {"n":"4","head":"Be terrible at something","sub":"Get tapped by a guy 60 lbs lighter. Ego blocks every skill.","img":62}]},
+ {"kind":"split","head":"5. Carry more than your share","ltag":"WEAK","rtag":"STRONG","l":[123,"Waits to be asked for help"],"r":[134,"Grabs the groceries, says nothing"]},
+ {"kind":"single","label":"#6","head":"Be the one who drives","img":7,"sub":"Someone's tired, nobody knows the route. Get everyone home.","size":64},
+ {"kind":"split","head":"7. Stand between the problem and the person","ltag":"WHAT MOST SAY","rtag":"WHAT A MAN SAYS","l":[136,"\"Let me know if you need anything\""],"r":[26,"\"I'll handle it.\" Then handles it."]},
+ {"kind":"single","label":"#8","head":"Keep your word when it gets expensive","img":164,"fix":true,"badge":"THE REAL TEST","sub":"Said you'd be at the game, then the client called. Go anyway.","size":56},
+ {"kind":"statement","pre":"None of these show up in a mirror:","text":"They show up in *how people feel when you walk in.*","size":70},
+ {"kind":"end","head":"Do *one* of these this week","sub":"Nobody needs to know you did it.","img":63,"size":80}
+]
