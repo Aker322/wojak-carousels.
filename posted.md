@@ -124,3 +124,7 @@ Never repeat an exact topic below. Similar themes with a new angle are fine.
 - 12 foods I wouldn't even look at for abs by January (flavored yogurt, smoothies, granola, peanut butter, candy, coffee shop drinks, healthy wraps, alcohol, white bread, protein bars, chips, sauces) (2026-11-28 12:00 carousel)
 - 6 side effects of going to the gym (lose interest in flaky people, asleep by 10PM, shirts tight, bad days last 45 min, junk food not worth it, opinions stop landing) (2026-11-28 17:00 Reel)
 - 8 weird ways to boost testosterone (hard things on purpose, sprint, morning sun, no permanent cut, whole egg, caveman sleep, lift heavy, walk after meals) (2026-11-28 22:00 Reel)
+- 5 qualities that make a man hard to break (discipline with no motivation, calm 10-second pause, humility after you win, self-belief nobody signed off on, walk toward hard things) (2026-11-29 07:00 Reel)
+- 8 ways to be disgustingly manly, none in the gym (something above you, same voice for everyone, give away what you could sell, be terrible at something, carry more, be the one who drives, "I'll handle it", keep your word when expensive) (2026-11-29 12:00 carousel)
+- 33 days left in 2026, win them anyway (January guy vs December guy; rate 5 areas, pick 2 biggest payoff, yes/no goal by Dec 31, plan for holiday obstacles) (2026-11-29 17:00 Reel)
+- The 3-day rule for overthinking (stakes too big, 3-year plan = wait for Monday, go all in for 3 days then 3 more; chop wood, carry water) (2026-11-29 22:00 Reel)
